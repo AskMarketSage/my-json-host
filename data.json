@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-10T13:23:31.390060",
+  "last_updated": "2026-06-10T13:31:15.610510",
   "ai_summaries": {
-    "nasdaq": "Market volatility detected. Data stream temporarily unavailable.",
-    "crypto": "Market volatility detected. Data stream temporarily unavailable.",
-    "forex": "Market volatility detected. Data stream temporarily unavailable.",
-    "s&p 500": "Market volatility detected. Data stream temporarily unavailable.",
-    "commodities": "Market volatility detected. Data stream temporarily unavailable."
+    "nasdaq": "Data stream recalibrating. Check macro context.",
+    "s&p 500": "Data stream recalibrating. Check macro context.",
+    "crypto": "Data stream recalibrating. Check macro context.",
+    "forex": "Data stream recalibrating. Check macro context.",
+    "commodities": "Data stream recalibrating. Check macro context."
   },
   "stocks": []
 }
