@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-06-10T13:31:15.610510",
-  "ai_summaries": {
-    "nasdaq": "Data stream recalibrating. Check macro context.",
-    "s&p 500": "Data stream recalibrating. Check macro context.",
-    "crypto": "Data stream recalibrating. Check macro context.",
-    "forex": "Data stream recalibrating. Check macro context.",
-    "commodities": "Data stream recalibrating. Check macro context."
-  },
-  "stocks": []
+    "last_updated": "2026-06-10T21:37:19.650660",
+    "ai_summaries": {
+        "nasdaq": "Data stream recalibrating. Check macro context.",
+        "crypto": "Data stream recalibrating. Check macro context.",
+        "forex": "Data stream recalibrating. Check macro context.",
+        "s&p 500": "Data stream recalibrating. Check macro context.",
+        "commodities": "Data stream recalibrating. Check macro context."
+    }
 }
