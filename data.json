@@ -1,36 +1,11 @@
 {
-  "last_updated": "2026-06-10T12:55:04.096205",
+  "last_updated": "2026-06-10T13:23:31.390060",
   "ai_summaries": {
-    "nasdaq": "\u2022 Apple's unveiling of an AI-powered version of Siri signifies a strategic move to enhance user engagement and remain competitive in the AI sector.\n\n\u2022 The release of iOS 27 at WWDC suggests advancements in technology that could positively impact user experience and drive future sales.\n\n\u2022 The emphasis on revamping Apple's AI strategy indicates a recognition of its current shortcomings in comparison to competitors, potentially leading to more innovative product offerings.\n\n\u2022 Market reactions are influenced by anticipated rate hikes, which may lead to volatility in the tech sector as investors assess the implications for growth stocks.\n\n\u2022 The mention of a significant IPO suggests potential investment opportunities, attracting attention from market participants looking for new growth avenues.",
-    "crypto": "\u2022 Apple's introduction of an AI-powered version of Siri could indicate a potential push for enhanced AI integration in devices, which may ripple through the tech industry and influence consumer sentiment in related sectors, including tech-focused cryptocurrencies.\n\n\u2022 The unveiling of iOS 27 at WWDC suggests Apple is striving to keep up with advancements in technology and AI. This could lead to increased adoption of cryptocurrencies within Apple\u2019s ecosystem, particularly if wallet functionalities or blockchain innovations are integrated.\n\n\u2022 Apple's AI strategy reboot may heighten competition, prompting other tech firms to step up their AI developments, which could include cryptocurrency projects. This competition could drive innovation in decentralized applications and related crypto assets.\n\n\u2022 Concerns over an upcoming rate hike could lead to volatility in traditional markets; some investors might seek refuge in cryptocurrencies, viewing them as a hedge against inflation or traditional market downturns.\n\n\u2022 The launch of the Mercedes G 580 'G-wagon' EV, emphasizing sustainability, aligns with growing interests in eco-friendly technologies, which could boost sectors in cryptocurrencies focused on green energy or sustainable finance solutions.",
-    "forex": "\u2022 Apple's unveiling of an AI-powered Siri could influence tech sector currencies, especially those of companies involved in AI and software development.\n\n\u2022 The launch of iOS 27 may positively impact Apple's stock performance, which can translate to fluctuations in currency pairs involving the USD, possibly influencing the US dollar's strength.\n\n\u2022 Apple\u2019s renewed focus on AI could shift investor sentiment in tech stocks, potentially creating short-term volatility in currencies tied to technology-heavy indices.\n\n\u2022 Market concerns about the approaching rate hike can strengthen the USD against other currencies, particularly emerging markets, as investors seek safety in stable, higher-yielding assets.\n\n\u2022 The reference to a huge IPO may attract investor attention and could lead to a temporary appreciation of the currency associated with the business set to go public, depending on market sentiment and economic outlook.\n\n\u2022 The launch of the G-wagon EV aligns with the broader shift towards sustainable technology, which may affect currencies of countries heavily invested in the EV sector, such as Germany, impacting the Euro.",
-    "s&p 500": "\u2022 The unveiling of a new AI-powered Siri by Apple may boost the company's competitive stance in the AI market, potentially influencing investor sentiment positively towards tech stocks.\n\n\u2022 The introduction of iOS 27 during WWDC could lead to increased consumer engagement and sales for Apple, which is a key component of the S&P 500, thus affecting index performance.\n\n\u2022 Apple's renewed focus on its AI strategy, highlighted at WWDC, could signal a shift in market dynamics, as innovation in this area may drive competition and affect related technology stocks.\n\n\u2022 Concerns regarding an impending rate hike indicate volatility in the market, which could lead to negative sentiment overall in equity markets, particularly affecting growth stocks, including those within the S&P 500.\n\n\u2022 The prospect of a significant IPO may attract investor interest and liquidity to the market, however, it might also create competitive pressures for established players in the index, leading to mixed performance across sectors. \n\n\u2022 The launch of the Mercedes G 580 'G-wagon' EV showcases the growing focus on sustainable vehicles within the automotive sector, which is part of the broader market dynamics influencing the S&P 500, particularly if consumer trends shift rapidly towards electric vehicles.",
-    "commodities": "\u2022 Apple's unveiling of the AI-powered version of Siri may lead to increased demand for tech-related commodities, such as semiconductors used in AI technologies.  \n\u2022 The release of iOS 27 can fuel sales of Apple devices, which may influence the demand for lithium and cobalt, key components in batteries.  \n\u2022 Apple's reboot of its AI strategy may stimulate further investment in artificial intelligence technologies, possibly impacting the demand for rare earth metals required for advanced computing hardware.  \n\u2022 The anticipation of a rate hike can have mixed effects on commodities; typically, a rising rate environment may strengthen the dollar, impacting the price of dollar-denominated commodities such as gold and oil.  \n\u2022 The mention of a huge IPO might reflect a buoyant market sentiment which could lead to increased investment in various sectors, possibly affecting commodity price trends due to heightened economic activity.  \n\u2022 The introduction of electric vehicles like the Mercedes G 580 EV suggests a growing demand for materials like lithium and nickel used in EV batteries, potentially driving up prices in those commodities."
+    "nasdaq": "Market volatility detected. Data stream temporarily unavailable.",
+    "crypto": "Market volatility detected. Data stream temporarily unavailable.",
+    "forex": "Market volatility detected. Data stream temporarily unavailable.",
+    "s&p 500": "Market volatility detected. Data stream temporarily unavailable.",
+    "commodities": "Market volatility detected. Data stream temporarily unavailable."
   },
-  "stocks": [
-    {
-      "title": "News \u2022  yesterday  Apple just unveiled the long-delayed AI-powered version of Siri. Here's a look at what's new.",
-      "url": "https://finance.yahoo.com/news/apple-debuts-siri-ai-improved-apple-intelligence-as-it-races-to-catch-rivals-183339837.html?.tsrc=fin-notif"
-    },
-    {
-      "title": "News \u2022  yesterday  Apple just revealed iOS 27 at WWDC. Here's a look at what's new.",
-      "url": "https://finance.yahoo.com/news/apple-makes-trust-and-safety-push-for-the-iphone-via-ios-27-174406082.html?.tsrc=fin-notif"
-    },
-    {
-      "title": "News \u2022  2 days ago  WWDC will serve as a reboot of Apple's AI strategy, which has lagged behind competing firms' efforts to date",
-      "url": "https://finance.yahoo.com/news/apple-wwdc-preview-apple-gets-a-second-shot-at-its-ai-rollout-143000592.html?.tsrc=fin-notif"
-    },
-    {
-      "title": "News \u2022  2 days ago  Stocks reel from a coming rate hike \u2014 and brace for a huge IPO",
-      "url": "https://finance.yahoo.com/news/stocks-reel-from-a-coming-rate-hike--and-brace-for-a-huge-ipo-what-to-watch-this-week-114019489.html?.tsrc=fin-notif"
-    },
-    {
-      "title": "News \u2022  3 days ago  Mercedes G 580 'G-wagon' EV is all of the fun with none of the guilt",
-      "url": "https://finance.yahoo.com/news/mercedes-g-580-g-wagon-ev-is-all-of-the-fun-with-none-of-the-guilt-132322073.html?.tsrc=fin-notif"
-    },
-    {
-      "title": "At almost 40 years old, we have $3.5 million and could hit $10 million by 50 \u2013 but how do people scale to $50 million?",
-      "url": "https://finance.yahoo.com/news/almost-40-years-old-3-184800052.html"
-    }
-  ]
+  "stocks": []
 }
