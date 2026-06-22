@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-06-22T17:05:10.666444+00:00",
+  "last_updated": "2026-06-22T17:18:38.538748+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -88,65 +88,65 @@
     "nzd/usd": "forex"
   },
   "ai_summaries": {
-    "markets": "MARKET SNAPSHOT  \n• The S&P 500 has recently experienced fluctuations, with notable declines attributed to struggles in Big Tech and SpaceX.  \n• The Dow Jones Industrial Average has shown resilience, rising amidst broader market volatility.  \n• Oil prices have dropped below $74 a barrel, influenced by U.S. Treasury decisions regarding Iran oil sales.  \n\nTRADING SENTIMENT  \n• Investor sentiment appears mixed, with the Dow performing positively while the S&P 500 and Nasdaq face downward pressure.  \n• Concerns over Big Tech performance and geopolitical factors, such as U.S.-Iran peace talks, are shaping market outlooks.  \n• The demand for AI technology remains a focal point, impacting trading decisions and market dynamics.  \n\nRECENT CONTEXT  \n• Recent headlines highlight a struggle for major tech stocks, contributing to the S&P 500's decline.  \n• Peace negotiations involving Iran and the U.S. have emerged as significant factors influencing market behavior.  \n• The Federal Reserve's recent announcements have sparked discussions about potential implications for the stock market.",
-    "nasdaq": "MARKET SNAPSHOT  \n• The Nasdaq is a global electronic marketplace for buying and selling securities, known for its high concentration of technology companies.  \n• The Nasdaq-100 index includes 100 of the largest non-financial companies listed on the Nasdaq stock exchange.  \n• Recent additions to the Nasdaq-100 include Nebius, CoreWeave, and Rocket Lab, reflecting ongoing interest in tech and innovation sectors.  \n\nTRADING SENTIMENT  \n• Market sentiment around the Nasdaq remains cautiously optimistic, driven by new entrants and technological advancements.  \n• Investors are closely watching the performance of newly added companies, particularly in the space and cloud computing sectors.  \n• Analysts are debating the valuation of certain stocks post-addition to the index, indicating mixed opinions on growth potential.  \n\nRECENT CONTEXT  \n• The Nasdaq-100 recently welcomed five new members, with significant media focus on their potential impact on the index.  \n• Headlines highlight competition within the space industry, particularly regarding companies like SpaceX and Rocket Lab.  \n• Discussions on tax efficiency and valuation concerns are emerging as investors evaluate the implications of these new additions.",
-    "s&p 500": "MARKET SNAPSHOT  \n• The S&P 500 is a stock market index that measures the stock performance of 500 large companies listed on stock exchanges in the United States.  \n• Recent volatility has been noted, particularly with significant influences from major technology companies.  \n• The index has faced challenges, including a recent decline attributed to struggles within Big Tech and other sectors.  \n\nTRADING SENTIMENT  \n• Sentiment appears mixed, with some analysts warning of potential historical trends that could signal negative outcomes for investors.  \n• There is a focus on earnings as a primary driver of returns this year, indicating a reliance on corporate performance.  \n• The entry of firms like Charles Schwab into prediction markets may reflect evolving investor strategies regarding the index.  \n\nRECENT CONTEXT  \n• Recent headlines have highlighted concerns about the S&P 500 potentially experiencing unprecedented changes not seen in 155 years.  \n• The index has shown signs of losing momentum, particularly in light of struggles faced by major companies like SpaceX and others in the tech sector.  \n• Broader market dynamics, including geopolitical developments, have also influenced trading patterns and investor behavior around the S&P 500.",
+    "markets": "MARKET SNAPSHOT  \n• Recent trading has shown mixed results, with the Dow experiencing gains while the S&P 500 and Nasdaq declined.  \n• Key factors influencing market movements include fluctuations in technology stocks and geopolitical developments.  \n• U.S. oil prices have dropped, impacting market sentiment and sector performance.\n\nTRADING SENTIMENT  \n• Investor sentiment appears cautious, particularly regarding technology stocks, which have faced recent declines.  \n• The market's reaction to potential interest rate hikes is contributing to volatility, especially in growth sectors.  \n• Geopolitical events, such as U.S.-Iran peace talks, are also influencing market dynamics.\n\nRECENT CONTEXT  \n• Major tech companies, including Google, have faced challenges, with significant personnel changes impacting stock performance.  \n• The Dow has shown resilience, rising despite broader market declines in tech-heavy indexes.  \n• Analysts are closely monitoring specific stocks, such as Micron and SpaceX, for insights into market trends and potential impacts on investor behavior.",
+    "nasdaq": "MARKET SNAPSHOT  \n• The Nasdaq-100 index includes 100 of the largest non-financial companies listed on the Nasdaq stock exchange.  \n• Recent additions to the index include Nebius, CoreWeave, and Rocket Lab, reflecting ongoing changes in market composition.  \n• The index is often viewed as a barometer for technology and growth stocks.\n\nTRADING SENTIMENT  \n• Market sentiment regarding the Nasdaq-100 remains focused on the potential for growth, particularly in tech and innovative sectors.  \n• Analysts are discussing the implications of new entrants, with mixed opinions on their valuation and future performance.  \n• Investor interest is heightened around companies that are perceived to have significant upside potential following their inclusion.\n\nRECENT CONTEXT  \n• Recent headlines highlight the addition of five new members to the Nasdaq-100, sparking discussions about their market impact.  \n• Articles are analyzing the performance and potential of these new stocks, with comparisons to established players.  \n• The overall narrative includes speculation about how these changes might affect investor strategies and market dynamics.",
+    "s&p 500": "MARKET SNAPSHOT  \n• The S&P 500 index is a key benchmark for U.S. equities, reflecting the performance of 500 large companies.  \n• Recent performance has shown volatility, particularly influenced by major technology stocks.  \n• Economic indicators and geopolitical events, such as developments in Iran, are affecting market sentiment.  \n\nTRADING SENTIMENT  \n• Current sentiment appears cautious, with warnings about potential historical trends affecting investor confidence.  \n• The struggles of major tech companies are contributing to downward pressure on the index.  \n• Analysts are closely monitoring earnings reports, which are seen as a primary driver of market returns this year.  \n\nRECENT CONTEXT  \n• Recent headlines highlight concerns about the S&P 500 potentially reaching a significant historical milestone that may not bode well for investors.  \n• The index has experienced fluctuations, with notable declines attributed to challenges faced by big tech firms like Alphabet and SpaceX.  \n• Market participants are also observing new developments in prediction markets, as firms like Charles Schwab enter this space, potentially influencing trading dynamics.",
     "crypto": "MARKET SNAPSHOT  \n• The cryptocurrency market continues to experience volatility, with Bitcoin (BTC) and Ethereum (ETH) being the primary focus.  \n• Recent price movements have seen BTC hovering around $64,000, while ETH and other altcoins exhibit mixed performance.  \n• Regulatory developments are influencing market dynamics, particularly regarding stablecoins and derivatives.\n\nTRADING SENTIMENT  \n• Sentiment appears cautious as some traders express skepticism about a sustained rally in the market.  \n• The introduction of significant leveraged shorts indicates a bearish outlook among certain market participants.  \n• Geopolitical events, such as US-Iran relations, are also impacting sentiment and price movements in the crypto space.\n\nRECENT CONTEXT  \n• Multiple articles have compared BTC and ETH in the context of potential future performance, particularly in anticipation of a bull run.  \n• Recent headlines highlight a slight rise in major cryptocurrencies amid ongoing geopolitical discussions, though some assets remain flat.  \n• Regulatory proposals from US agencies regarding stablecoin verification are adding another layer of complexity to the market landscape.",
-    "forex": "MARKET SNAPSHOT  \n• The forex market involves the trading of currencies, with the US Dollar often serving as a benchmark.  \n• Major currency pairs include EUR/USD, GBP/USD, and USD/CAD, among others.  \n• The US Dollar Index (DXY) measures the value of the dollar against a basket of currencies.  \n\nTRADING SENTIMENT  \n• Recent analyses indicate mixed sentiment toward the US Dollar, with some forecasts suggesting potential bullish movements.  \n• Concerns exist regarding the Dollar's strength, particularly in light of recent economic data and central bank decisions.  \n• Traders are closely monitoring geopolitical developments and economic indicators that could influence currency valuations.  \n\nRECENT CONTEXT  \n• The US Dollar Index has experienced fluctuations, recently dropping below key levels after central banks held interest rates steady.  \n• Analysts have noted potential risks for the Dollar, including a \"major top risk\" and challenges in sustaining bullish trends.  \n• Economic reports, such as CPI and GDP data, are pivotal in shaping market expectations for currency movements in the near term.",
-    "gold": "MARKET SNAPSHOT  \n• Gold is often viewed as a safe-haven asset, typically sought during times of economic uncertainty.  \n• The price of gold is influenced by various factors, including interest rates, inflation, and geopolitical events.  \n• Recent trading has seen fluctuations in gold prices, with current levels hovering below $4,300.  \n\nTRADING SENTIMENT  \n• Market sentiment around gold appears mixed, with some analysts predicting potential declines while others see support levels holding.  \n• The impact of Federal Reserve interest rate decisions is a significant factor, as rising rates can diminish gold's appeal.  \n• Geopolitical tensions, such as conflicts in the Middle East, may also influence investor behavior towards gold.  \n\nRECENT CONTEXT  \n• Recent headlines indicate a downward trend in gold prices, with discussions around potential price targets and technical patterns.  \n• Analysts are evaluating the implications of a \"death cross\" in technical analysis, which could suggest further declines.  \n• The market is closely monitoring economic indicators and policy signals that may affect future gold pricing dynamics.",
-    "oil": "MARKET SNAPSHOT  \n• Oil prices are influenced by geopolitical events, supply chain dynamics, and market sentiment.  \n• WTI (West Texas Intermediate) and Brent crude are the two primary benchmarks for crude oil pricing.  \n• Recent fluctuations have been noted in both WTI and Brent prices, reflecting varying market conditions.\n\nTRADING SENTIMENT  \n• Current sentiment appears mixed, with bearish trends observed in WTI prices amid supply concerns.  \n• Divergence between Brent and WTI prices has been highlighted, indicating differing market reactions.  \n• Traders are closely monitoring geopolitical developments, particularly related to Iran and Iraq, which can impact oil supply.\n\nRECENT CONTEXT  \n• Recent headlines indicate a bearish outlook for WTI, with prices under pressure around the $75 level.  \n• Iraq's decision to reroute oil exports has contributed to recent price drops in WTI futures.  \n• Conversely, Brent crude has seen price surges due to geopolitical tensions, particularly concerning Iran's actions."
+    "forex": "MARKET SNAPSHOT  \n• The forex market involves trading currencies, with major pairs including EUR/USD, GBP/USD, and USD/JPY.  \n• The US Dollar Index (DXY) is a key measure of the dollar's strength against a basket of currencies.  \n• Recent fluctuations indicate a complex interplay of economic data and central bank policies impacting currency values.  \n\nTRADING SENTIMENT  \n• Sentiment around the US dollar has been mixed, with some analysts forecasting potential bullish trends despite risks of a major top.  \n• Market participants are closely monitoring central bank decisions, which have led to significant movements in the dollar and other currencies.  \n• Positioning data indicates varied trader sentiment, with some favoring the dollar while others anticipate declines against major currencies.  \n\nRECENT CONTEXT  \n• Recent headlines highlight a rebound in the dollar following economic data releases, though concerns about future performance persist.  \n• The dollar has experienced volatility, particularly after central banks announced interest rate holds, impacting its value against other currencies.  \n• Analysts are assessing the implications of geopolitical events and economic indicators on forex trading dynamics, particularly for major pairs like EUR/USD and GBP/USD.",
+    "gold": "MARKET SNAPSHOT  \n• Gold is often viewed as a safe-haven asset, with its price influenced by various economic factors.  \n• Current trading is characterized by fluctuations, with recent prices showing a downward trend.  \n• The relationship between gold and the U.S. dollar remains significant, as stronger dollar values typically lead to lower gold prices.  \n\nTRADING SENTIMENT  \n• Market sentiment appears cautious, with forecasts indicating potential volatility in the near term.  \n• Analysts are divided, with some predicting further declines due to economic indicators and Federal Reserve policies.  \n• The ongoing geopolitical tensions, such as the Iran-Israel conflict, may also impact investor sentiment towards gold.  \n\nRECENT CONTEXT  \n• Recent headlines have highlighted a notable decline in gold prices, with discussions around potential price targets emerging.  \n• Analysts are examining the implications of Federal Reserve interest rate hikes on gold's performance.  \n• The market is currently assessing the balance between supply and demand, with reports indicating shifts that may influence future pricing.",
+    "oil": "MARKET SNAPSHOT  \n• Crude oil prices have shown volatility, with WTI recently sliding below $75.  \n• Brent crude prices have also weakened, reflecting broader market trends.  \n• Current forecasts indicate a bearish sentiment in the near term for WTI prices.  \n\nTRADING SENTIMENT  \n• Market sentiment appears cautious, with forecasts suggesting potential further declines.  \n• The recent slip in prices has led to discussions on supply dynamics and future demand.  \n• Analysts are observing the implications of futures contracts in backwardation amid supply concerns.  \n\nRECENT CONTEXT  \n• Recent headlines indicate a significant drop in crude oil prices, with WTI facing pressure below key levels.  \n• Some reports highlight a sharp increase in prices earlier in the year, contrasting with current trends.  \n• Divergence between Brent and WTI prices has been noted, attributed to differing market factors and geopolitical uncertainties."
   },
   "updated": {
-    "markets": "2026-06-22T17:04:45.833399+00:00",
-    "nasdaq": "2026-06-22T17:04:49.422105+00:00",
-    "s&p 500": "2026-06-22T17:04:54.744277+00:00",
+    "markets": "2026-06-22T17:18:19.485860+00:00",
+    "nasdaq": "2026-06-22T17:18:23.162573+00:00",
+    "s&p 500": "2026-06-22T17:18:26.598137+00:00",
     "crypto": "2026-06-22T17:04:58.490444+00:00",
-    "forex": "2026-06-22T17:05:02.805006+00:00",
-    "gold": "2026-06-22T17:05:06.572875+00:00",
-    "oil": "2026-06-22T17:05:09.898024+00:00"
+    "forex": "2026-06-22T17:18:31.147734+00:00",
+    "gold": "2026-06-22T17:18:34.448205+00:00",
+    "oil": "2026-06-22T17:18:37.829316+00:00"
   },
   "prices": {
     "markets": {
-      "price": 7477.45,
+      "price": 7477.34,
       "change_pct": -0.31,
       "currency": "USD",
-      "as_of": "2026-06-22T17:05:10.017707+00:00"
+      "as_of": "2026-06-22T17:18:37.952954+00:00"
     },
     "nasdaq": {
-      "price": 26210.1,
-      "change_pct": -1.16,
+      "price": 26206.043,
+      "change_pct": -1.18,
       "currency": "USD",
-      "as_of": "2026-06-22T17:05:10.146119+00:00"
+      "as_of": "2026-06-22T17:18:38.060560+00:00"
     },
     "s&p 500": {
-      "price": 7476.47,
-      "change_pct": -0.32,
+      "price": 7477.34,
+      "change_pct": -0.31,
       "currency": "USD",
-      "as_of": "2026-06-22T17:05:10.256768+00:00"
+      "as_of": "2026-06-22T17:18:38.157349+00:00"
     },
     "crypto": {
-      "price": 64651.9,
-      "change_pct": 2.23,
+      "price": 64545.54,
+      "change_pct": 2.06,
       "currency": "USD",
-      "as_of": "2026-06-22T17:05:10.352119+00:00"
+      "as_of": "2026-06-22T17:18:38.266609+00:00"
     },
     "forex": {
-      "price": 1.1435,
-      "change_pct": -0.3,
+      "price": 1.1434,
+      "change_pct": -0.31,
       "currency": "USD",
-      "as_of": "2026-06-22T17:05:10.432057+00:00"
+      "as_of": "2026-06-22T17:18:38.351428+00:00"
     },
     "gold": {
-      "price": 4205.4,
+      "price": 4205.5,
       "change_pct": -0.95,
       "currency": "USD",
-      "as_of": "2026-06-22T17:05:10.525988+00:00"
+      "as_of": "2026-06-22T17:18:38.452880+00:00"
     },
     "oil": {
-      "price": 73.69,
-      "change_pct": -2.85,
+      "price": 73.59,
+      "change_pct": -2.98,
       "currency": "USD",
-      "as_of": "2026-06-22T17:05:10.665475+00:00"
+      "as_of": "2026-06-22T17:18:38.536589+00:00"
     }
   }
 }
