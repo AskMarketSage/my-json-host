@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-06-26T14:41:42.251844+00:00",
+  "last_updated": "2026-06-26T15:22:49.984711+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -88,73 +88,73 @@
     "nzd/usd": "forex"
   },
   "ai_summaries": {
-    "markets": "The market is currently navigating through a period of equilibrium, with price action reflecting a modest decline as news of the OpenAI IPO delay has unsettled tech stocks. This has contributed to a selloff, particularly in the semiconductor sector, which has seen significant weakness today.\n\n• The Nasdaq is feeling the pressure from a tech selloff, influenced by the IPO news.\n• Price has swept sellside liquidity at the prior-day low, indicating a potential shift in market sentiment.\n• The prior-day high remains unchallenged, suggesting that buyers are hesitant to step in aggressively.\n\nAs we sit in the middle of the 3-day dealing range, the equilibrium level at 7361 is crucial. The failure to clear the prior-day high at 7419 indicates that bullish momentum is stalling, while the sweep of the prior-day low at 7324 may have triggered a shift in market structure. \n\nWHAT TO WATCH  \n• Observe how price reacts around the equilibrium level of 7361; a bounce or continued decline could signal the next move.  \n• Keep an eye on the prior-day high at 7419 for any potential liquidity runs.  \n• Watch for any news catalysts that could influence the tech sector further, particularly around AI stocks.\n\nSAGE INSIGHT: Today's market dynamics illustrate the concept of a liquidity sweep. The sweep of the prior-day low at 7324 has likely cleared out sell orders, allowing for a potential rebalancing of positions. This teaches us that understanding where liquidity resides can provide insights into market intentions and potential reversals.",
-    "nasdaq": "The Nasdaq is currently trading in a discounted position relative to the 3-day range, having swept sellside liquidity at the prior-day low. This downward movement is influenced by a mix of competitive pressures in the ETF space and significant declines in tech stocks, particularly within the semiconductor sector.\n\n• Competition is intensifying for Nasdaq-100 ETFs, with QQQ facing challenges from emerging alternatives.\n• Recent headlines highlight a substantial drop in chip stocks, contributing to the overall bearish sentiment in the Nasdaq-100.\n\nAs price has cleared the sellside liquidity at 29001, it reflects a market structure shift that may indicate further downside potential. The prior-day high at 29826 remains unchallenged, suggesting that buyers are currently struggling to regain control. With the market now trading below equilibrium at 29361, participants should remain vigilant for signs of potential accumulation or further manipulation.\n\nWHAT TO WATCH  \n• Observe reactions around the prior-day high at 29826 for potential liquidity runs.  \n• Monitor the area near the prior-day low at 29001, as it may serve as a pivotal point for future price action.  \n• Keep an eye on the broader tech sector developments, particularly in semiconductor stocks, for additional market context.  \n\nSAGE INSIGHT: The current situation exemplifies a liquidity sweep, particularly with the recent sweep of the prior-day low. This action not only clears sellside liquidity but also sets the stage for potential rebalancing as the market seeks equilibrium. Understanding these dynamics can help traders identify key zones for potential reversals or continued movement, especially as price interacts with significant structural levels.",
-    "s&p 500": "The S&P 500 is currently navigating a delicate equilibrium within the 3-day range, having recently swept sellside liquidity at the prior-day low of 7324. This movement comes amid a backdrop of negative sentiment, particularly in the tech sector, driven by reports of a delay in the OpenAI IPO, which has rattled investor confidence.\n\n• The tech selloff is particularly pronounced, impacting major players like Micron and Apple, which are contributing to the overall decline.\n• Price action has compressed around the equilibrium level of 7361, indicating a tug-of-war between buyers and sellers as the market digests the implications of the news.\n\nAs the NY session unfolds, the S&P 500 remains below the prior-day high of 7419, which has yet to be swept, suggesting potential for further downside if bearish momentum continues. The market is clearly in a phase of manipulation, with the recent selloff potentially setting the stage for a deeper distribution phase if the bearish sentiment persists.\n\nWHAT TO WATCH  \n• Observe reactions around the equilibrium level of 7361 for signs of potential reversals or continuation.  \n• Monitor the prior-day high of 7419 for any attempts to sweep this level, indicating a shift in market dynamics.  \n• Keep an eye on upcoming economic data releases, particularly the Core PCE, which could influence market sentiment further.  \n\nSAGE INSIGHT: The current market structure illustrates a classic Power of 3 scenario, where we are witnessing a manipulation phase characterized by the tech selloff. The sweep of the prior-day low has created a liquidity void that could lead to further price discovery. Understanding this phase helps traders anticipate potential shifts in market sentiment as liquidity is rebalanced.",
-    "crypto": "The crypto market is currently navigating through a challenging landscape, trading in a discount relative to the recent 3-day range. As price hovers near the lower end of the range, traders are observing how it reacts to key structural levels, particularly the prior-day low which has yet to be swept.\n\n• Price is currently compressed within the discount zone of the 3-day range (58189–63005), with equilibrium at 60597.\n• The market is clinging to support as Bitcoin approaches a 21-month low, prompting discussions about potential recovery amid significant options expirations today.\n\nThe recent headlines highlight a market that is searching for a bottom, with a notable $10.8 billion in Bitcoin, Ethereum, XRP, and Solana options set to expire. This could invite volatility and liquidity sweeps as traders position themselves around these expirations. The prior-day high at 61823 remains unchallenged, suggesting potential liquidity above that level.\n\nWHAT TO WATCH\n• Observe reactions around the prior-day low at 58189 for signs of support or potential liquidity runs.\n• Monitor the prior-day high at 61823 for any bullish displacement that could indicate a shift in market sentiment.\n\nSAGE INSIGHT: Today's situation illustrates the concept of liquidity sweep. As the market hovers near the prior-day low, the potential for a liquidity run exists, especially with significant options expirations. This could lead to a temporary displacement that either confirms the support or triggers further selling pressure, teaching traders the importance of understanding how liquidity dynamics can influence price movements.",
-    "forex": "The forex market is currently experiencing upward movement, trading in the premium of the 3-day range. This bullish activity comes as the US Dollar Index has swept prior-day highs, indicating a potential liquidity raid on buyside orders. Despite the positive price action, there are underlying concerns about the Dollar's stability, as recent headlines highlight risks of a major top forming.\n\n• The Dollar Index has dipped below the 100 mark, suggesting a shift in market sentiment.\n• Analysts are forecasting a tougher outlook for the Dollar, with implications for EUR/USD and AUD/USD pairs.\n\nAs price has cleared buyside liquidity and is now positioned in the upper portion of the range, traders should remain cautious. The prior-day low remains unchallenged, indicating that there could be further volatility ahead. The market's focus will likely shift to upcoming economic indicators, which could influence the Dollar's trajectory.\n\nWHAT TO WATCH  \n• Observe reactions near the prior-day low at 1.13366 for potential liquidity plays.  \n• Monitor any shifts in market structure that could signal a change in trend dynamics.  \n\nSAGE INSIGHT: Today's movement illustrates a classic liquidity sweep, where price aggressively targets prior highs to trigger stops and gather liquidity. This behavior often precedes a market structure shift, indicating that while the current bullish momentum appears strong, traders should remain vigilant for signs of exhaustion or reversal as the Dollar faces significant fundamental headwinds.",
-    "gold": "Gold is currently trading in the premium of its recent range, having swept the prior-day high at 4060, indicating a strong bullish sentiment as the market reacts to various economic factors. \n\n• The recent uptick in gold prices aligns with a decline in the US Dollar, which has provided support for XAU/USD above the key psychological level of 4000. \n• As price hovers near the upper end of the 3-day range, traders are keenly observing how the market will react to potential liquidity runs, especially with the prior-day low at 3976 remaining untested.\n\nThe interplay between gold and the US Dollar is critical, especially as traders weigh the implications of hawkish Fed signals against increasing demand from China. With the market structure showing a clear displacement above 4060, it will be interesting to see if gold can maintain its momentum or if profit-taking will lead to a retracement towards the equilibrium level around 4053.\n\nWHAT TO WATCH  \n• Observe reactions at the prior-day low of 3976, as a sweep here could signal a shift in market sentiment.  \n• Monitor any developments from the US economic data releases that may influence the Fed's stance and, consequently, gold's price action.\n\nSAGE INSIGHT: Today's price action illustrates the concept of liquidity sweep, particularly with the prior-day high being taken out. This sweep not only indicates bullish intent but also highlights the importance of understanding how these liquidity runs can set the stage for potential reversals or continuations in price movement. As we see price react to these levels, traders should be aware of the implications for future market structure shifts.",
-    "oil": "Oil has been under pressure today, trading in discount as it hovers below the $70 mark. The market is reacting to expectations of increased supply from the Middle East, which has contributed to a bearish sentiment.\n\n• Price is currently in the discount range of the 3-day dealing range, indicating potential liquidity below.\n• The prior-day high at 72.50 remains untested, suggesting a lack of bullish momentum to sweep this level.\n\nAs oil inventories continue to decline, the market is grappling with the implications of external factors, particularly geopolitical tensions in the Middle East. With price action sitting near the lower end of the recent range, traders are likely monitoring for any signs of a market structure shift that could signal a reversal or continuation of the current trend.\n\nWHAT TO WATCH  \n• Observe the reaction around the prior-day low at 68.90 for potential liquidity plays.  \n• Keep an eye on the untested prior-day high at 72.50 for signs of accumulation or manipulation.\n\nSAGE INSIGHT: Today's price action reflects a classic liquidity sweep scenario, where the market is probing lower levels to capture sell-side liquidity. As price approaches the prior-day low, it highlights the importance of understanding where liquidity resides and how it can influence subsequent movements. This teaches traders to remain vigilant for potential reversals or further displacement as the market seeks equilibrium."
+    "markets": "Market activity remains subdued today, trading in a tight equilibrium near the midpoint of the recent 3-day range. The tech sector is under pressure, particularly following the unsettling news regarding the delay of OpenAI's IPO, which has spurred a selloff in AI-related stocks and chipped away at overall market sentiment.\n\n• Concerns over the tech sector have dampened investor enthusiasm, particularly affecting chip stocks, which are pivotal for broader tech performance.\n• A recent sweep of the prior-day low reinforces the sellside narrative, with price now navigating through key levels in equilibrium.\n• The US dollar's slight decline and lower yields suggest a softer backdrop, yet volatility is on the rise, indicating potential for sudden shifts in market sentiment.\n\nAs we approach the NY session, the market is positioned at a critical juncture. While the prior-day high remains unchallenged at 7419, the clearing of sellside liquidity could signal a potential accumulation phase, should the sentiment shift.\n\nWHAT TO WATCH  \n• Monitor reactions around the 7361 equilibrium level to gauge if price remains balanced or if a shift ensues.  \n• The upcoming speech from President Trump may introduce volatility, particularly impacting market sentiment toward tech.  \n• Observe for any signs of displacement from the current equilibrium, which could indicate a market structure shift.\n\nSAGE INSIGHT: Today's market dynamics illustrate the importance of order blocks. With the selloff in tech stocks and the sweeping of the prior-day low, we could be witnessing a potential mitigation of a bullish order block. This reinforces the notion that price must revisit these levels for rebalancing before any bullish conviction can be established. Understanding where these order blocks lie helps traders anticipate potential areas of interest for future price action.",
+    "nasdaq": "The Nasdaq is experiencing a downturn, influenced by a combination of sector-specific challenges and broader market dynamics. Price has swept the prior-day low, taking sellside liquidity, while currently trading in equilibrium within the 3-day range. This creates a delicate balance as market participants navigate through the recent volatility.\n\n• The tech sector is under pressure, particularly with chip stocks facing significant declines, which may be impacting overall sentiment in the Nasdaq-100.\n• Competition among Nasdaq-100 ETFs is intensifying, as highlighted by recent headlines, suggesting a shift in investor preference within tech-focused funds.\n• The VIX's upward movement indicates increasing market uncertainty, which could exacerbate selling pressure during the NY session.\n\nAs the market moves through the day, traders should monitor how price reacts near the upper and lower bounds of the current range. The upcoming speech by President Trump could also serve as a catalyst for volatility, particularly if it addresses economic policies impacting the tech sector.\n\nWHAT TO WATCH  \n• Observe reactions at the prior-day high of 29826, which remains untested, as it could provide insights into potential bullish or bearish sentiment.  \n• Keep an eye on the liquidity dynamics surrounding the equilibrium level at 29361, as this area may demonstrate a pivotal shift in market structure.  \n• Watch for market reactions after President Trump’s speech today, as it may introduce additional volatility.\n\nSAGE INSIGHT: Today's market structure highlights the concept of optimal trade entry (OTE). As price sits within the equilibrium of the 3-day range, traders may look for potential pullbacks toward the 29361 level, which could provide an ideal entry point for a reversal if bullish sentiment emerges. This reinforces the importance of understanding where price is relative to significant structural levels, especially during heightened volatility.",
+    "s&p 500": "Today, the S&P 500 is navigating a tight range, reflecting the equilibrium of the 3-day dealing range as it sits near the middle. The market is responding to recent headlines, particularly the weak sentiment in tech stocks following the delayed OpenAI IPO, which has contributed to a subdued trading atmosphere.\n\n• The index remains trapped in the equilibrium around 7361, with prior-day low at 7324 already swept, indicating sellside liquidity has been taken.\n• Despite a slight overall decline, the prior high at 7419 remains unchallenged, suggesting potential for future upside if buying interest returns.\n\nAs price hovers in this equilibrium, macro factors play a role; the dollar index is slightly lower, while the 10Y yield has also dipped, potentially providing a mixed backdrop for equities. Increased volatility, as indicated by the VIX rise, may further complicate market dynamics in the NY session.\n\nWHAT TO WATCH  \n• Observe reactions around the equilibrium level of 7361 to gauge market sentiment.  \n• Watch for potential liquidity sweeps near the prior-day high at 7419 or low at 7324.  \n• Monitor President Trump's speech today for any catalysts that could impact market direction.\n\nSAGE INSIGHT:  \nToday's price action illustrates the concept of equilibrium within the 3-day dealing range. As the S&P 500 consolidates around the mid-range, it highlights the delicate balance between buyers and sellers. A clear break in either direction will likely reveal the next phase of market behavior, whether it be a shift towards accumulation or a deeper exploration of the sellside liquidity. Understanding this dynamic can help traders anticipate potential volatility and shifts in market sentiment.",
+    "crypto": "As the crypto market shows signs of recovery, recent price action is shifting within a discount range, indicating potential accumulation ahead of a significant options expiry. The market is currently trading below equilibrium, suggesting a focus on building positions as traders await the $10.8 billion options expiry for Bitcoin, Ethereum, and others.\n\n• Recent headlines highlight a struggle for support, with Bitcoin at a 21-month low, yet recovery signals are emerging.\n• The market remains compressed, trading between the prior-day high of 61,823 and low of 58,189, with neither level swept yet.\n• DXY's slight decline and lower yields offer a supportive backdrop, potentially easing pressure on crypto assets.\n\nAs we approach the NY session, the overall sentiment appears cautiously optimistic, with traders eyeing the options expiry as a catalyst for volatility. The current structure indicates that liquidity is still being sought, particularly around the untested prior-day high.\n\nWHAT TO WATCH  \n• Monitor reactions at the prior-day high of 61,823 for potential liquidity sweeps.  \n• Watch for any shifts in market structure during the NY session, particularly if price approaches the 58,189 low.  \n• Observe volatility around President Trump's speech today, which could influence market sentiment.\n\nSAGE INSIGHT: The concept of a breaker block is particularly relevant here as price action seeks to establish a new demand level after a recent displacement. If the market can hold above the untested prior-day high, it may indicate that liquidity is being absorbed, creating a more stable base for a potential reversal. Understanding these dynamics helps traders decipher whether the current move is genuine accumulation or just another manipulation phase.",
+    "forex": "The forex market is currently exhibiting bullish momentum, responding to recent macroeconomic signals and market structure shifts. As price trades in the premium of the 3-day range, the recent sweep of the prior-day high at 1.13908 has triggered a liquidity run, clearing buyside orders and setting the stage for potential further upside.\n\n• The US Dollar Index has seen a slight pullback, dropping in tandem with yields, which is conducive to forex strength.\n• Recent headlines suggest a cautious optimism about the Dollar, amidst speculation of a bullish correction after CPI data, yet concerns linger about a potential major top.\n\nAs price navigates through this elevated range, traders should focus on how the market reacts to the upper bound near 1.14338 and any potential rebalancing around the equilibrium level of 1.13813. The upcoming speech from President Trump could serve as a catalyst for volatility, particularly in shaping sentiment towards the Dollar.\n\nWHAT TO WATCH  \n• Observe reactions around the prior-day low of 1.13366, as a sweep could provide insight into market intent.  \n• Monitor price behavior at the equilibrium level of 1.13813, which may offer clues on potential rebalancing.  \n• Pay attention to President Trump’s speech today for possible impacts on market sentiment.\n\nSAGE INSIGHT: Today’s bullish move illustrates the concept of optimal trade entry (OTE). By identifying the premium positioning near the upper range, traders can look for retracement opportunities back to the equilibrium level for entries, utilizing this structure to manage risk effectively. As price approaches the high, understanding OTE can enhance entry precision, particularly if price shows signs of a pullback into favorable zones.",
+    "gold": "Gold is experiencing an upward movement today, buoyed by a correction in the US Dollar and a dip in yields. As price trades in the premium of this week's range, a clear focus on liquidity dynamics is evident.\n\n• The US Dollar Index has dipped, supporting gold's rise as traders seek refuge in the precious metal.\n• Today's sweep of the prior-day high at 4060 has taken buyside liquidity, confirming bullish sentiment in the short-term.\n• The market is maintaining its position above the critical equilibrium level at 4053, indicating potential support in the ongoing session.\n\nWith the NY session underway, the price action suggests that participants are actively engaging in accumulation, especially as the overall macro backdrop appears to favor lower yields and a weaker dollar. However, the upcoming speech from President Trump could introduce volatility, leaving traders watchful for any shifts in sentiment.\n\nWHAT TO WATCH  \n• Observe reactions around the equilibrium level of 4053—this is a key area for potential support.\n• The upcoming speech from President Trump could influence market sentiment, so keep an eye on how gold responds around that time.\n• Monitoring for a possible shift in market structure if price approaches the prior-day low at 3976 could reveal further liquidity dynamics.\n\nSAGE INSIGHT: Today's movement in gold underscores the significance of equilibrium in the dealing range. With price maintaining above the 4053 level, it illustrates how the market is favoring accumulation in a bullish context. Understanding this equilibrium helps traders identify potential areas of support and inform their strategies as they navigate liquidity zones.",
+    "oil": "Oil is trading in a bearish tone today, driven down by a confluence of factors, including expectations of increased supply from the Middle East. The market has shifted into discount territory, indicating that price is compressing below the equilibrium of the recent three-day range.\n\n• A significant liquidity sweep occurred today as price swept the prior-day low at 68.90, clearing sellside liquidity and triggering stop-loss orders.\n• Despite the downward movement, the prior-day high at 72.50 remains untested, suggesting potential for a future rally if market structure shifts.\n\nThe macro environment shows a slight dip in the dollar index and 10Y yields, which might ordinarily support oil prices, but the volatility spike indicates a risk-off sentiment that is weighing on commodity markets. The fall in oil inventories, while typically bullish, has been overshadowed by the looming supply increases, particularly from the Strait of Hormuz.\n\nWHAT TO WATCH  \n• Monitor the 68.58 level as a potential area for price reactions, given its position within the current discount structure.  \n• Watch for any comments from President Trump later today, as his remarks could influence market sentiment and volatility.  \n• Observe the untested prior-day high at 72.50 for any signs of a bullish recovery or further bearish continuation.\n\nSAGE INSIGHT: Today's liquidity sweep at the prior-day low illustrates the market's tendency to hunt for stops, particularly during times of uncertainty. This action not only clears out weak hands but sets the stage for potential bullish setups if price can reclaim higher levels. Understanding liquidity dynamics can help traders anticipate these movements and align their strategies accordingly."
   },
   "updated": {
-    "markets": "2026-06-26T14:41:07.989293+00:00",
-    "nasdaq": "2026-06-26T14:41:14.766278+00:00",
-    "s&p 500": "2026-06-26T14:41:20.484185+00:00",
-    "crypto": "2026-06-26T14:41:26.888555+00:00",
-    "forex": "2026-06-26T14:41:31.715478+00:00",
-    "gold": "2026-06-26T14:41:37.614734+00:00",
-    "oil": "2026-06-26T14:41:42.251226+00:00"
+    "markets": "2026-06-26T15:22:13.178834+00:00",
+    "nasdaq": "2026-06-26T15:22:24.109805+00:00",
+    "s&p 500": "2026-06-26T15:22:29.313345+00:00",
+    "crypto": "2026-06-26T15:22:34.253690+00:00",
+    "forex": "2026-06-26T15:22:39.123989+00:00",
+    "gold": "2026-06-26T15:22:44.914660+00:00",
+    "oil": "2026-06-26T15:22:49.981692+00:00"
   },
   "prices": {
     "markets": {
-      "price": 7345.17,
-      "change_pct": -0.17,
+      "price": 7357.64,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-06-26T14:40:59.610994+00:00"
+      "as_of": "2026-06-26T15:22:04.955472+00:00"
     },
     "nasdaq": {
-      "price": 29171.014,
-      "change_pct": -0.91,
+      "price": 29202.293,
+      "change_pct": -0.81,
       "currency": "USD",
-      "as_of": "2026-06-26T14:41:08.110336+00:00"
+      "as_of": "2026-06-26T15:22:13.287159+00:00"
     },
     "s&p 500": {
-      "price": 7348.07,
-      "change_pct": -0.13,
+      "price": 7359.58,
+      "change_pct": 0.03,
       "currency": "USD",
-      "as_of": "2026-06-26T14:41:14.875494+00:00"
+      "as_of": "2026-06-26T15:22:24.275494+00:00"
     },
     "crypto": {
-      "price": 59561.22,
-      "change_pct": -0.24,
+      "price": 59969.88,
+      "change_pct": 0.44,
       "currency": "USD",
-      "as_of": "2026-06-26T14:41:20.588699+00:00"
+      "as_of": "2026-06-26T15:22:29.406020+00:00"
     },
     "forex": {
-      "price": 1.1418,
-      "change_pct": 0.36,
+      "price": 1.1408,
+      "change_pct": 0.27,
       "currency": "USD",
-      "as_of": "2026-06-26T14:41:27.011867+00:00"
+      "as_of": "2026-06-26T15:22:34.367195+00:00"
     },
     "gold": {
-      "price": 4097.7,
-      "change_pct": 1.24,
+      "price": 4093.5,
+      "change_pct": 1.13,
       "currency": "USD",
-      "as_of": "2026-06-26T14:41:31.821098+00:00"
+      "as_of": "2026-06-26T15:22:39.231493+00:00"
     },
     "oil": {
-      "price": 69.24,
-      "change_pct": -3.73,
+      "price": 68.75,
+      "change_pct": -4.41,
       "currency": "USD",
-      "as_of": "2026-06-26T14:41:37.715358+00:00"
+      "as_of": "2026-06-26T15:22:45.006556+00:00"
     }
   },
   "structures": {
     "markets": {
-      "price": 7344.49023,
+      "price": 7357.64014,
       "session": "NY",
       "zone": "equilibrium",
-      "range_pct": 37.6,
+      "range_pct": 47.4,
       "prior_day_high": 7419.08008,
       "prior_day_low": 7323.5,
       "pdh_swept": false,
@@ -172,10 +172,10 @@
       }
     },
     "nasdaq": {
-      "price": 29171.01367,
+      "price": 29202.29297,
       "session": "NY",
-      "zone": "discount",
-      "range_pct": 29.7,
+      "zone": "equilibrium",
+      "range_pct": 33.0,
       "prior_day_high": 29826.23438,
       "prior_day_low": 29000.55469,
       "pdh_swept": false,
@@ -193,10 +193,10 @@
       }
     },
     "s&p 500": {
-      "price": 7348.06982,
+      "price": 7359.58008,
       "session": "NY",
       "zone": "equilibrium",
-      "range_pct": 40.3,
+      "range_pct": 48.8,
       "prior_day_high": 7419.08008,
       "prior_day_low": 7323.5,
       "pdh_swept": false,
@@ -243,10 +243,10 @@
       }
     },
     "forex": {
-      "price": 1.14181,
+      "price": 1.14077,
       "session": "NY",
       "zone": "premium",
-      "range_pct": 85.1,
+      "range_pct": 75.1,
       "prior_day_high": 1.13908,
       "prior_day_low": 1.13366,
       "pdh_swept": true,
@@ -267,15 +267,15 @@
         ],
         "NY": [
           1.14338,
-          1.14012
+          1.1396
         ]
       }
     },
     "gold": {
-      "price": 4097.7002,
+      "price": 4093.5,
       "session": "NY",
       "zone": "premium",
-      "range_pct": 79.2,
+      "range_pct": 76.5,
       "prior_day_high": 4060.0,
       "prior_day_low": 3976.30005,
       "pdh_swept": true,
@@ -301,19 +301,19 @@
       }
     },
     "oil": {
-      "price": 69.24,
+      "price": 68.75,
       "session": "NY",
       "zone": "discount",
-      "range_pct": 8.0,
+      "range_pct": 3.7,
       "prior_day_high": 72.5,
       "prior_day_low": 68.9,
       "pdh_swept": false,
-      "pdl_swept": false,
+      "pdl_swept": true,
       "today_high": 71.86,
-      "today_low": 68.92,
+      "today_low": 68.58,
       "range_high": 73.17,
-      "range_low": 68.9,
-      "equilibrium": 71.035,
+      "range_low": 68.58,
+      "equilibrium": 70.875,
       "sessions": {
         "Asia": [
           71.86,
@@ -325,9 +325,11 @@
         ],
         "NY": [
           70.58,
-          68.92
+          68.58
         ]
       }
     }
-  }
+  },
+  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) down 0.18%; US 10Y yield down 0.39%; Volatility (VIX) up 3.49%.",
+  "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): USD President Trump Speaks (today)."
 }
