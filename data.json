@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-07-07T03:23:30.948878+00:00",
+  "last_updated": "2026-07-07T09:41:45.598927+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -88,246 +88,274 @@
     "nzd/usd": "forex"
   },
   "ai_summaries": {
-    "markets": "Market activity is currently flat, with price coiling in a balanced range as the Asian killzone unfolds. This window often invites smart money to seek liquidity, and today is no exception. \n\n• Price has swept the prior-day high at 53440, capturing buyside liquidity before settling into the premium zone of its current working range between 52962 and 53471. \n• The session trend has been broadly rangebound since the Asia session opened, indicating consolidation ahead of potential catalysts. \n• Headlines highlight a mixed sentiment in the tech sector, with the Nasdaq showing strength while futures for the Dow and S&P 500 have slipped, reflecting underlying jitters.\n\nAs liquidity is sought during this active killzone, traders should be aware of how the market might react to upcoming high-impact events, particularly the RBNZ Rate Statement and Press Conference today, which could stir volatility in the NZD and indirectly influence broader market sentiment.\n\nWHAT TO WATCH  \n• Monitor reactions around the equilibrium level of 53216, which could act as a pivot point for future moves.  \n• Watch for any structural shifts, especially if price approaches the prior-day low at 52962, which remains untested.  \n• Anticipate potential volatility from the RBNZ events, as these could impact sentiment across correlated markets.\n\nSAGE INSIGHT: Today’s price action encapsulates the concept of equilibrium within the current working range. With price oscillating in this balanced state, the market is poised for a directional shift, either through a breakout or a reversal following today's liquidity sweeps. Understanding where equilibrium lies helps traders identify potential turning points and prepares them for forthcoming volatility.",
-    "nasdaq": "The Nasdaq is currently experiencing downward pressure during the Asian killzone, with price pulling back and pressing against the recent lows. This session trend reveals a clear effort to seek liquidity below current levels. Price is situated within the discount zone of its current working range, which spans from 29683 to 30094, indicating potential interest from smart money participants looking to rebalance.\n\n• SpaceX's inclusion in the Nasdaq-100 is expected to generate significant passive buying demand, potentially influencing liquidity dynamics.\n• Recent market action is characterized by a lack of sweeping the prior-day high at 30094 and prior-day low at 29683, suggesting that the market is still digesting this new information.\n• The flat performance from the US dollar and a slight decline in the 10Y yield may also contribute to the current sentiment, as traders assess their positions ahead of key events.\n\nWith the upcoming FOMC Meeting Minutes tomorrow, volatility could increase, especially as traders react to the implications of central bank policies on tech stocks.\n\nWHAT TO WATCH  \n• Monitor how price interacts with the prior-day low at 29683 for potential liquidity grabs.  \n• Observe any shifts in market structure that could signal a reversal or continuation of the current downtrend.  \n• The FOMC Meeting Minutes tomorrow may spark volatility; watch for reactions in tech stocks.\n\nSAGE INSIGHT: Today’s market behavior highlights the concept of premium/discount positioning. With price currently in the discount zone, smart money may be looking to accumulate positions ahead of anticipated liquidity from SpaceX’s Nasdaq-100 inclusion. This positioning underscores the importance of understanding where price sits relative to its range and how that can inform potential future moves.",
-    "s&p 500": "The S&P 500 is currently coiling tightly within a balanced range, reflecting indecision as the Asian killzone unfolds. Price has been trapped in equilibrium around 7570, the midpoint of its current range, which stretches from 7538 to 7602. This environment often sees smart money seeking liquidity, and with the session trend remaining relatively flat, a breakout could target either previous highs or lows.\n\n• Recent bullish momentum in AI stocks has been significant, but today’s action suggests a pause as traders assess the impact of the upcoming USD FOMC Meeting Minutes.\n• The broader market sentiment is muted, with the dollar and yields holding steady, indicating potential consolidation ahead of key economic catalysts.\n• Investors are likely to monitor the prior-day high at 7602 and low at 7538 for possible liquidity sweeps, as neither level has been tested yet.\n\nAs we progress into the session, a reaction at these boundaries could signal further directional moves.\n\nWHAT TO WATCH  \n• Observe price reactions around the prior-day high (7602) and low (7538) for potential liquidity sweeps.  \n• Watch for any market structure shifts that could indicate a breakout or breakdown from the current equilibrium.  \n• Keep an eye on the USD FOMC Meeting Minutes scheduled for tomorrow, as it may trigger volatility.\n\nSAGE INSIGHT: The concept of a breaker block is particularly relevant in today's context. As price hovers near the equilibrium zone, it’s crucial to identify potential breaker blocks that could redefine market structure. If price breaks above 7602, it may confirm a bullish breaker, inviting further upside. Conversely, a drop below 7538 could signal a bearish shift, revealing how liquidity dynamics interact with these zones. Understanding these critical areas can help traders navigate potential shifts in sentiment and price action.",
-    "crypto": "Crypto is navigating a cautious phase as we enter the Asian killzone, an active window where smart money often seeks liquidity. Currently, price is consolidating after a session of upward movement, holding near the recent highs while remaining in the premium zone of its current working range.\n\n• Bitcoin, Ethereum, and XRP have shown muted performance, alongside a notable drop in Dogecoin, as traders digest mixed signals from ETF outflows and strategic reserve shifts.\n• Market sentiment is leaning towards fear, with a Crypto Fear & Greed Index reading of 27, indicating potential liquidity raids on weak hands.\n• The recent sweep of the prior-day high at 63,879 suggests that buy-side liquidity was targeted, yet the prior-day low at 61,339 remains unchallenged.\n\nAs the Asian session unfolds, traders will be watching for potential reactions at key structural levels amidst a backdrop of soft macroeconomic indicators, such as the delayed FOMC Meeting Minutes set for tomorrow.\n\nWHAT TO WATCH  \n• Monitor how price interacts with the prior-day low at 61,339 for signs of a liquidity raid.  \n• Observe the response to the upcoming USD FOMC Meeting Minutes tomorrow for potential volatility.  \n• Watch for any signs of a market structure shift as price approaches the equilibrium level of 62,863.\n\nSAGE INSIGHT: Today's market dynamics illustrate a classic liquidity sweep scenario. The recent clearance of the buy-side liquidity at 63,879 indicates that institutions may be accumulating positions, which could lead to deeper price exploration. This reinforces the importance of understanding liquidity zones, as they can reveal where smart money is positioning ahead of larger market moves.",
-    "forex": "As the Asian killzone is underway, the forex market is currently exhibiting a flat profile, coiling within a balanced range. Price is situated in the premium zone of its current working range, indicating a potential for liquidity to be targeted in the upper boundaries. \n\n• The US Dollar Index remains steady, reflecting uncertainty amidst geopolitical tensions, notably in the Middle East, which has historically influenced dollar strength.\n• Recent headlines emphasize a bullish outlook for the dollar, yet caution remains as major risks loom, hinting at possible liquidity sweeps ahead of key economic releases.\n• Price action over the last few hours has remained tightly coiled, with prior-day high and low levels yet to be swept, suggesting a buildup of liquidity around those points.\n\nWith the NZD's Official Cash Rate and RBNZ statements set for release today, traders should be vigilant as these could introduce volatility and catalyze a shift in market structure.\n\nWHAT TO WATCH\n• Monitor reactions at the prior-day high of 1.14508 and low of 1.14116 for potential liquidity sweeps.\n• Observe price behavior as the NZD Official Cash Rate is announced today, which could impact overall sentiment.\n• Watch for signs of displacement during the Asian session as liquidity is sought in this killzone.\n\nSAGE INSIGHT: Today’s positioning in the premium zone highlights the importance of understanding premium/discount dynamics. With price currently elevated, it suggests that buyers may be hesitant to enter without a compelling reason, potentially leading to a liquidity raid on late longs if price begins to shift downward. This scenario reinforces the need to remain aware of order flow and the potential for sudden market movements in response to economic catalysts.",
-    "gold": "Gold is currently under pressure in the Asian killzone, with price easing off the recent highs. This session has seen a clear shift in market structure, as gold has swept the prior-day low at 4141, taking out sellside liquidity. \n\n• The session trend has been bearish since the Asia session opened, creating a downward displacement.\n• Recent action indicates a struggle to reclaim higher levels, remaining anchored in the discount zone of its current working range, with prices between 4138 and 4216.\n• The prior-day high at 4216 remains intact, representing unchallenged buyside liquidity.\n\nLooking ahead, the upcoming USD FOMC Meeting Minutes will likely be a catalyst for volatility, especially in the context of current market sentiment. Traders are poised to see how it may influence gold's trajectory amid a backdrop of mixed signals from the US Dollar Index and 10Y yields.\n\nWHAT TO WATCH  \n• Monitor reactions around the prior-day high at 4216 for potential liquidity plays.  \n• Watch for any structural shifts that could signal a change in momentum, particularly after the FOMC Minutes release tomorrow.  \n• Keep an eye on the NZD rate decisions today, which may influence broader market sentiment.\n\nSAGE INSIGHT: Today's price action reflects a classic breaker block scenario. As gold swept the prior-day low, it has created a potential breaker at that level. If price can stabilize above 4141, it may indicate a shift in sentiment, allowing for a possible recovery towards the higher liquidity zone. Understanding how breaker blocks function can reveal pivotal points of support that may lead to renewed buying interest.",
-    "oil": "Oil is currently trading higher, with WTI pushing above $69.00 as it seeks liquidity during the active Asian killzone. The session trend has been bullish since the Asia session, and recent price action shows a clear push towards the highs, sitting in the premium zone of its current range.\n\n• The prior-day high at 69.21 has been swept, indicating a strong buyside liquidity run.\n• Ongoing tensions in the Strait of Hormuz, particularly the recent strikes on commercial vessels, are adding upward pressure on prices.\n• The overall macro environment is relatively stable, with the dollar flat and yields easing, contributing to a supportive backdrop for oil.\n\nWith WTI now trading near the upper end of its range, traders are closely watching for potential reversals or continuation patterns. Given the active geopolitical tensions, the market could experience volatility as traders react to news catalysts.\n\nWHAT TO WATCH\n• Observe reactions at the swept high of 69.21 for any signs of a pullback or consolidation.\n• Monitor tomorrow's USD FOMC Meeting Minutes for insights that may impact the dollar and oil pricing.\n• Keep an eye on developments in the Strait of Hormuz as they can create sudden liquidity shifts.\n\nSAGE INSIGHT: Today's market dynamics reflect the concept of turtle soup, where price action may appear to set up a reversal but instead continues to push higher. The sweeping of liquidity at the prior high suggests that traders have been caught off guard, leading to further accumulation in the premium zone. This highlights the importance of understanding market structure and the potential for continuation rather than reversal in the face of external events."
+    "markets": "Markets are currently trading higher, benefiting from a positive sentiment that has emerged since the Asia session. Price is coiling within a balanced range, indicating lower conviction between killzones. The recent sweep of the prior-day high at 53440 has taken buyside liquidity, suggesting a strong attempt to maintain bullish momentum.\n\n• The Nasdaq is leading the charge, buoyed by a rebound in tech stocks, particularly semiconductors. \n• A flat US Dollar Index and slight decline in the 10Y yield are supporting equity performance, creating a conducive environment for growth.\n• Upcoming economic events, particularly the NZD Official Cash Rate and the USD FOMC Meeting Minutes, could introduce volatility, influencing market direction.\n\nAs price sits in the premium zone of its current range, traders should be vigilant for potential reactions at key structural levels. The tight consolidation could give way to a breakout or reversal, depending on how liquidity is managed.\n\nWHAT TO WATCH  \n• Observe reactions around the prior-day low at 52962 for potential liquidity tests.  \n• Keep an eye on the NZD Official Cash Rate announcement today, as it may impact market sentiment and volatility.  \n• Look for signs of displacement following the recent sweep of the prior-day high at 53440.\n\nSAGE INSIGHT: Today's market behavior illustrates the equilibrium within the current dealing range. With price sitting in the premium zone, traders should recognize that equilibrium can signify impending volatility. A breach of this balance, especially after the recent liquidity sweep, could lead to either a continuation of the bullish trend or a swift correction, emphasizing the need for keen observation around structural levels.",
+    "nasdaq": "The Nasdaq is currently under pressure, having been in a downward move since the Asia session and pressing into the lower end of its current working range. Recent action shows price pulling back, with a sweep of the prior-day low at 29683 confirming sell-side liquidity has been taken. Currently, price is situated in the discount zone, which could present potential buying opportunities for those looking to align with the market's favorable conditions.\n\n• SpaceX's inclusion in the Nasdaq-100 is anticipated to drive significant ETF buying demand, despite the current downward momentum in tech stocks.\n• The US Dollar Index is flat, while the VIX is showing increased volatility, suggesting mixed sentiment in the market.\n• With key economic events lined up, including the FOMC Meeting Minutes tomorrow, traders should be vigilant for any potential liquidity events.\n\nAs we navigate between killzones, the lack of conviction in the current move may lead to further consolidation unless a significant catalyst emerges.\n\nWHAT TO WATCH  \n• Observe reactions at the prior-day high around 30094 for any potential reversal or continuation patterns.  \n• Watch for the impact of the upcoming USD FOMC Meeting Minutes tomorrow, which could introduce volatility.  \n• Keep an eye on the buy-side liquidity as price operates in the discount zone of the current range.\n\nSAGE INSIGHT: Today's market positioning in the discount zone highlights the significance of premium/discount dynamics. With price pressing into this lower area, it indicates a potential for an accumulation phase as traders may look for favorable entries in anticipation of a market rebound. Understanding where price sits in relation to its equilibrium can provide insights into possible future movements, especially with liquidity events on the horizon.",
+    "s&p 500": "The S&P 500 is currently coiling within a balanced range, reflecting a session trend of sideways movement since the Asia session. Price has settled in the equilibrium zone around 7570, with significant levels nearby at the prior-day high of 7602 and low of 7538—both still intact and untested.\n\n• Recent headlines have painted a mixed picture, with tech stocks like Broadcom contributing to initial optimism while overall sentiment appears tepid, reflected in a slight decline today. \n• The market remains sensitive to macro factors, notably flat dollar movements and a slight decline in Treasury yields, which could be contributing to the lack of conviction in the current session.\n• As we remain between killzones, traders should be cautious, as this period is often characterized by consolidation and lower liquidity.\n\nThe upcoming USD FOMC Meeting Minutes tomorrow could serve as a catalyst for volatility, particularly if the tone shifts towards tightening or dovish sentiment.\n\nWHAT TO WATCH  \n• Monitor price reactions around the equilibrium level at 7570, as it may signal a potential breakout or reversal.\n• Keep an eye on the prior-day high at 7602 for any liquidity sweep; a breach here could ignite buying interest.  \n• Watch for the impact of the USD FOMC Meeting Minutes release tomorrow, which may influence market sentiment.\n\nSAGE INSIGHT: Today's price action can be interpreted through the lens of a breaker block. With price coiling near the equilibrium, the prior-day high at 7602 represents a potential breaker that, if swept, could shift market structure. A breach here could indicate a shift in sentiment, trapping late shorts and drawing in buy-side liquidity, which underscores the importance of monitoring key levels for potential reversals or continuations.",
+    "crypto": "Crypto is coiling in a tight range between killzones, with price experiencing pressure since the Asia session. This morning, Bitcoin and other major cryptocurrencies have nudged lower, reflecting a cautious sentiment in the market.\n\n• Price has swept the prior-day high of 63,879, indicating a potential liquidity grab from late buyers.\n• Despite the pullback, the Crypto Fear & Greed Index reading of 27 (Fear) suggests a contrarian positioning opportunity.\n• Price is currently sitting in the equilibrium zone of its working range, indicating a balanced state that may lead to a breakout.\n\nRecent headlines highlight that while Bitcoin, Ethereum, and XRP are facing some downward movement, analysts express optimism about potential upside if market dynamics shift positively. The persistent fear sentiment could be a driver for future liquidity raids as the market seeks to capitalize on aggressive positions. \n\nWHAT TO WATCH  \n• Monitor the reaction at the equilibrium level around 62,863 for potential signs of displacement or a break of structure.  \n• Watch for any move toward the prior-day low of 61,339, which remains untested, as a potential target for liquidity.  \n• Upcoming USD FOMC Meeting Minutes tomorrow could introduce volatility, offering insights into broader market sentiment.\n\nSAGE INSIGHT: Today's situation illustrates a classic liquidity sweep, where price has taken out the prior high to fill buy orders from late entrants. This behavior often sets the stage for a market reversal or continuation, as participants react to the newly defined structure. Understanding this dynamic can help traders anticipate potential movements following such sweeps, especially in a context of heightened fear, which often precedes liquidity raids.",
+    "forex": "The forex market is currently exhibiting a coiling behavior, maintaining a balanced range since the Asia session and continuing into the London session. Price is compressed around the equilibrium zone of its current range, which spans from 1.14116 to 1.14508, with the midpoint at 1.14312.\n\n• The US Dollar Index is showing flat movement, reflecting a cautious market sentiment amid geopolitical tensions.\n• The upcoming economic events, particularly the NZD Official Cash Rate and RBNZ Rate Statement, are likely to stir volatility as traders position ahead of these announcements.\n• Recent headlines highlight skepticism around the US Dollar's bullish bounce and its implications for major pairings like EUR/USD and AUD/USD.\n\nAs price remains in this tight consolidation phase, the potential for a liquidity sweep exists as we approach key levels. The prior-day high at 1.14508 remains unchallenged, while the low at 1.14116 also remains intact, creating an environment ripe for market participants to hunt for liquidity.\n\nWHAT TO WATCH  \n• Watch for reactions around the prior-day high at 1.14508 and low at 1.14116 during the session.  \n• Monitor the NZD rate announcements as potential catalysts for volatility today.  \n• Observe any signs of displacement that could indicate a shift in market structure as price tests these key levels.  \n\nSAGE INSIGHT: Today's market structure reveals that price is navigating within a premium zone of its current range. With price coiling near equilibrium, traders should be vigilant for potential liquidity raids at both the high and low extremes. Understanding premium/discount positioning in this context can help identify opportunity as price approaches these critical levels, signaling possible shifts in sentiment and the need for strategic positioning.",
+    "gold": "Gold is currently navigating a tight, balanced range, reflecting lower conviction as it sits between killzones. The session trend has been pressured since the Asia session, with price coiling in a consolidative state. After sweeping the prior-day low at 4141, gold remains in the discount zone of its current working range, which spans from 4128 to 4216.\n\n• Market sentiment is cautious ahead of the upcoming FOMC Meeting Minutes, expected to influence price direction.\n• The US Dollar Index remains flat, with the 10Y yield slightly down, providing a mixed backdrop for gold.\n• Recent headlines indicate a struggle for bulls to maintain momentum above 4200, reflecting a market waiting for clear signals.\n\nAs traders await the Fed Minutes, they will be watching how price reacts to liquidity levels, particularly at the prior-day high of 4216, which remains untested, and the low just swept.\n\nWHAT TO WATCH  \n• Monitor how gold interacts with the prior-day high at 4216 for potential liquidity reactions.  \n• Look for signs of a market structure shift should price approach the equilibrium level around 4172.  \n• Keep an eye on the USD FOMC Meeting Minutes tomorrow, which could introduce volatility.\n\nSAGE INSIGHT: Today's market context highlights a potential breaker block scenario. The selloff below the prior-day low indicates a shift in market sentiment, as liquidity was taken from late shorts. If price rallies back into this area, it could set the stage for a breaker block to form, offering traders an opportunity to assess bullish intentions against recent sell-side pressure. Understanding these dynamics can enhance one's approach to identifying potential reversals or continuations.",
+    "oil": "Oil prices are currently showing some resilience, up about 1.01%, as they navigate through a consolidation phase between killzones. The session trend has been higher since the Asia session, with recent action reflecting a pullback pressing into the lows. Price is now situated in the premium zone of its current working range, having just swept the prior-day high at 69.21, indicating a potential liquidity grab. \n\n• Iran's recent military actions in the Strait of Hormuz have provided underlying support to oil prices, offsetting concerns about oversupply.\n• The market appears to be reacting to geopolitical risks, with traders closely monitoring the situation for further developments.\n• The US Dollar Index remains flat, and a slight dip in the 10Y yield may also be contributing to the upward pressure on oil.\n\nAs we approach the upcoming economic events, including the NZD RBNZ Rate Statement and the USD FOMC Meeting Minutes, volatility could emerge, influencing sentiment in the oil market. \n\nWHAT TO WATCH  \n• Monitor reactions around the 69.21 level after its recent sweep, looking for signs of further displacement.  \n• Keep an eye on the impact of the NZD rate decisions today, as shifts in sentiment may spill into oil pricing.  \n• Observe for any further developments in the Strait of Hormuz that could drive liquidity raids.\n\nSAGE INSIGHT: Today's price action illustrates the turtle soup concept, where the market flushes out late shorts after a prior high has been swept. This dynamic often sets the stage for a reversal as liquidity is taken from weaker hands. Understanding these moves can help traders anticipate shifts in momentum, especially in response to geopolitical events that can influence market structure dramatically."
   },
   "updated": {
-    "markets": "2026-07-07T03:22:49.922090+00:00",
-    "nasdaq": "2026-07-07T03:22:59.815774+00:00",
-    "s&p 500": "2026-07-07T03:23:05.807417+00:00",
-    "crypto": "2026-07-07T03:23:11.763096+00:00",
-    "forex": "2026-07-07T03:23:18.019115+00:00",
-    "gold": "2026-07-07T03:23:23.688333+00:00",
-    "oil": "2026-07-07T03:23:30.948498+00:00"
+    "markets": "2026-07-07T09:41:10.758292+00:00",
+    "nasdaq": "2026-07-07T09:41:16.726333+00:00",
+    "s&p 500": "2026-07-07T09:41:22.358824+00:00",
+    "crypto": "2026-07-07T09:41:27.722404+00:00",
+    "forex": "2026-07-07T09:41:34.436033+00:00",
+    "gold": "2026-07-07T09:41:39.986914+00:00",
+    "oil": "2026-07-07T09:41:45.598454+00:00"
   },
   "prices": {
     "markets": {
-      "price": 53421.0,
-      "change_pct": 0.09,
+      "price": 53482.0,
+      "change_pct": 0.21,
       "currency": "USD",
-      "as_of": "2026-07-07T03:22:42.939602+00:00"
+      "as_of": "2026-07-07T09:41:03.457402+00:00"
     },
     "nasdaq": {
-      "price": 29763.5,
-      "change_pct": -0.59,
+      "price": 29649.0,
+      "change_pct": -0.98,
       "currency": "USD",
-      "as_of": "2026-07-07T03:22:49.985781+00:00"
+      "as_of": "2026-07-07T09:41:10.931331+00:00"
     },
     "s&p 500": {
-      "price": 7580.75,
-      "change_pct": -0.14,
+      "price": 7580.25,
+      "change_pct": -0.15,
       "currency": "USD",
-      "as_of": "2026-07-07T03:22:59.881187+00:00"
+      "as_of": "2026-07-07T09:41:16.903953+00:00"
     },
     "crypto": {
-      "price": 63293.71,
-      "change_pct": -1.1,
+      "price": 63167.99,
+      "change_pct": -1.3,
       "currency": "USD",
-      "as_of": "2026-07-07T03:23:05.869965+00:00"
+      "as_of": "2026-07-07T09:41:22.532486+00:00"
     },
     "forex": {
-      "price": 1.1446,
-      "change_pct": -0.01,
+      "price": 1.1432,
+      "change_pct": -0.13,
       "currency": "USD",
-      "as_of": "2026-07-07T03:23:11.845092+00:00"
+      "as_of": "2026-07-07T09:41:27.892833+00:00"
     },
     "gold": {
-      "price": 4149.0,
-      "change_pct": -0.44,
+      "price": 4137.2,
+      "change_pct": -0.73,
       "currency": "USD",
-      "as_of": "2026-07-07T03:23:18.083229+00:00"
+      "as_of": "2026-07-07T09:41:34.601426+00:00"
     },
     "oil": {
-      "price": 69.19,
-      "change_pct": 0.93,
+      "price": 69.24,
+      "change_pct": 1.01,
       "currency": "USD",
-      "as_of": "2026-07-07T03:23:23.750609+00:00"
+      "as_of": "2026-07-07T09:41:40.132967+00:00"
     }
   },
   "structures": {
     "markets": {
-      "price": 53421.0,
-      "session": "Asia",
+      "price": 53482.0,
+      "session": "London",
       "zone": "premium",
-      "trend": "flat",
-      "session_trend": "broadly rangebound since the Asia session",
+      "trend": "up",
+      "session_trend": "trading higher since the Asia session",
       "momentum": "flat",
       "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 90.2,
+      "range_pct": 93.2,
       "prior_day_high": 53440.0,
       "prior_day_low": 52962.0,
       "pdh_swept": true,
       "pdl_swept": false,
-      "today_high": 53471.0,
-      "today_low": 53355.0,
-      "range_high": 53471.0,
+      "today_high": 53520.0,
+      "today_low": 53341.0,
+      "range_high": 53520.0,
       "range_low": 52962.0,
-      "equilibrium": 53216.5,
+      "equilibrium": 53241.0,
       "sessions": {
         "Asia": [
           53471.0,
-          53355.0
+          53341.0
+        ],
+        "London": [
+          53520.0,
+          53374.0
         ]
       }
     },
     "nasdaq": {
-      "price": 29763.5,
-      "session": "Asia",
+      "price": 29649.0,
+      "session": "London",
       "zone": "discount",
       "trend": "down",
       "session_trend": "under pressure since the Asia session",
       "momentum": "down",
       "recent_action": "pulling back and pressing the lows",
-      "range_pct": 19.6,
+      "range_pct": 16.9,
       "prior_day_high": 30094.0,
       "prior_day_low": 29683.0,
       "pdh_swept": false,
-      "pdl_swept": false,
+      "pdl_swept": true,
       "today_high": 29914.25,
-      "today_low": 29716.5,
+      "today_low": 29558.5,
       "range_high": 30094.0,
-      "range_low": 29683.0,
-      "equilibrium": 29888.5,
+      "range_low": 29558.5,
+      "equilibrium": 29826.25,
       "sessions": {
         "Asia": [
           29914.25,
-          29716.5
+          29558.5
+        ],
+        "London": [
+          29744.0,
+          29641.25
         ]
       }
     },
     "s&p 500": {
-      "price": 7580.75,
-      "session": "Asia",
+      "price": 7580.25,
+      "session": "London",
       "zone": "equilibrium",
       "trend": "flat",
       "session_trend": "broadly rangebound since the Asia session",
       "momentum": "flat",
       "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 66.1,
+      "range_pct": 65.4,
       "prior_day_high": 7602.5,
       "prior_day_low": 7538.25,
       "pdh_swept": false,
       "pdl_swept": false,
       "today_high": 7595.0,
-      "today_low": 7578.75,
+      "today_low": 7563.0,
       "range_high": 7602.5,
       "range_low": 7538.25,
       "equilibrium": 7570.375,
       "sessions": {
         "Asia": [
           7595.0,
-          7578.75
+          7563.0
+        ],
+        "London": [
+          7583.5,
+          7571.25
         ]
       }
     },
     "crypto": {
-      "price": 64072.0,
-      "session": "Asia",
-      "zone": "premium",
-      "trend": "up",
-      "session_trend": "trading higher since the NY session",
-      "momentum": "up",
-      "recent_action": "pushing higher and holding near the highs",
-      "range_pct": 89.7,
+      "price": 63044.0,
+      "session": "London",
+      "zone": "equilibrium",
+      "trend": "down",
+      "session_trend": "under pressure since the Asia session",
+      "momentum": "flat",
+      "recent_action": "coiling in a tight, balanced range",
+      "range_pct": 55.9,
       "prior_day_high": 63879.0,
       "prior_day_low": 61339.0,
       "pdh_swept": true,
       "pdl_swept": false,
       "today_high": 64387.0,
-      "today_low": 63564.0,
+      "today_low": 62856.0,
       "range_high": 64387.0,
       "range_low": 61339.0,
       "equilibrium": 62863.0,
       "sessions": {
         "Asia": [
           64387.0,
-          63564.0
+          63125.0
+        ],
+        "London": [
+          63345.0,
+          62856.0
         ]
       }
     },
     "forex": {
-      "price": 1.14456,
-      "session": "Asia",
-      "zone": "premium",
+      "price": 1.14325,
+      "session": "London",
+      "zone": "equilibrium",
       "trend": "flat",
       "session_trend": "broadly rangebound since the Asia session",
       "momentum": "flat",
       "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 86.6,
+      "range_pct": 53.2,
       "prior_day_high": 1.14508,
       "prior_day_low": 1.14116,
       "pdh_swept": false,
       "pdl_swept": false,
       "today_high": 1.14495,
-      "today_low": 1.14403,
+      "today_low": 1.14286,
       "range_high": 1.14508,
       "range_low": 1.14116,
       "equilibrium": 1.14312,
       "sessions": {
         "Asia": [
           1.14495,
-          1.14403
+          1.14286
+        ],
+        "London": [
+          1.1439,
+          1.14286
         ]
       }
     },
     "gold": {
-      "price": 4149.0,
-      "session": "Asia",
+      "price": 4137.2002,
+      "session": "London",
       "zone": "discount",
       "trend": "down",
       "session_trend": "under pressure since the Asia session",
-      "momentum": "down",
-      "recent_action": "easing off the highs",
-      "range_pct": 14.6,
+      "momentum": "flat",
+      "recent_action": "coiling in a tight, balanced range",
+      "range_pct": 10.8,
       "prior_day_high": 4215.5,
       "prior_day_low": 4140.6001,
       "pdh_swept": false,
       "pdl_swept": true,
       "today_high": 4174.5,
-      "today_low": 4137.6001,
+      "today_low": 4127.7002,
       "range_high": 4215.5,
-      "range_low": 4137.6001,
-      "equilibrium": 4176.55005,
+      "range_low": 4127.7002,
+      "equilibrium": 4171.6001,
       "sessions": {
         "Asia": [
           4174.5,
-          4137.6001
+          4127.7002
+        ],
+        "London": [
+          4150.8999,
+          4130.6001
         ]
       }
     },
     "oil": {
-      "price": 69.21,
-      "session": "Asia",
+      "price": 69.24,
+      "session": "London",
       "zone": "premium",
       "trend": "up",
       "session_trend": "trading higher since the Asia session",
-      "momentum": "up",
-      "recent_action": "pushing higher and holding near the highs",
-      "range_pct": 92.7,
+      "momentum": "down",
+      "recent_action": "pulling back and pressing the lows",
+      "range_pct": 74.0,
       "prior_day_high": 69.21,
       "prior_day_low": 67.82,
       "pdh_swept": true,
       "pdl_swept": false,
-      "today_high": 69.32,
+      "today_high": 69.74,
       "today_low": 68.63,
-      "range_high": 69.32,
+      "range_high": 69.74,
       "range_low": 67.82,
-      "equilibrium": 68.57,
+      "equilibrium": 68.78,
       "sessions": {
         "Asia": [
-          69.32,
+          69.48,
           68.63
+        ],
+        "London": [
+          69.74,
+          68.97
         ]
       }
     }
   },
-  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.01%; US 10Y yield down 0.13%; Volatility (VIX) down 3.59%.",
+  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.10%; US 10Y yield down 0.13%; Volatility (VIX) up 1.86%.",
   "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): NZD Official Cash Rate (today); NZD RBNZ Rate Statement (today); NZD RBNZ Press Conference (today); USD FOMC Meeting Minutes (tomorrow); CAD Employment Change (Fri); CAD Unemployment Rate (Fri).",
-  "timing": "TIMING: 23:22 New York time — the Asian killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "timing": "TIMING: 05:41 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 27 (Fear) — a contrarian gauge of crowd positioning."
 }
