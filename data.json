@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-07-17T05:43:28.334121+00:00",
+  "last_updated": "2026-07-17T08:10:36.733566+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -88,140 +88,152 @@
     "nzd/usd": "forex"
   },
   "ai_summaries": {
-    "markets": "The markets are currently under pressure, reflecting a recent pullback that has pressed the lows since the Asia session. Price is sitting within the discount zone of its current working range, having swept the prior-day low, indicating sellside liquidity was taken out. As we navigate between killzones, conviction may wane, making this consolidation period particularly interesting.\n\n• The recent downturn in the S&P 500 and Nasdaq is driven by weakness in chip stocks following TSMC's earnings report, which has impacted overall market sentiment.\n• The dollar remains flat, while the 10Y yield has edged higher, suggesting a mixed macro backdrop that may be contributing to the current risk-off sentiment.\n• High-impact economic data is on the horizon today, particularly the USD Prelim UoM Consumer Sentiment and Inflation Expectations, which could spark volatility.\n\nWith price action showing a clear MSS and the sellside liquidity being cleared, traders should be particularly attentive to any reactions at the prior-day high, which has not yet been swept. \n\nWHAT TO WATCH  \n• Watch for reactions near the prior-day high at 53108 for potential liquidity dynamics.  \n• Observe any structural shifts as price navigates through the current working range.  \n• Keep an eye on the upcoming UoM Consumer Sentiment data, a potential catalyst for volatility.\n\nSAGE INSIGHT: Today's market dynamics illustrate a liquidity sweep in action, as the sellside liquidity was efficiently taken out at the prior-day low. This behavior underscores the importance of understanding how price seeks out liquidity pools during periods of volatility and uncertainty, providing insight into potential future moves as the market seeks equilibrium.",
-    "nasdaq": "The Nasdaq has been under pressure since the Asia session, currently pulling back and pressing into recent lows. The market is navigating lower in a discount zone, which is typically where buy-side liquidity might be targeted. Interestingly, the prior-day low of 29060 has been swept today, indicating that sell-side liquidity has been taken, potentially setting the stage for a reaction from those levels.\n\n• The US 10Y yield is rising, contributing to a cautious sentiment in equities, particularly in tech.\n• Volatility is increasing, which often leads to heightened activity around key liquidity zones.\n• The inclusion of SpaceX in the Nasdaq-100 has created a buzz, but the broader market appears fragile as chip stocks lead the selloff.\n\nAs we sit between killzones, price action may consolidate, but the pressure from the recent lows could provoke a reaction as traders position themselves ahead of key economic indicators, such as the preliminary UoM Consumer Sentiment and Inflation Expectations which could stir volatility.\n\nWHAT TO WATCH  \n• Monitor the reaction around the prior-day low of 29060; a strong response could indicate potential for a reversal.  \n• Observe for any signs of a market structure shift as price interacts with the liquidity taken from the recent sweep.  \n• Keep an eye on the upcoming UoM Consumer Sentiment report; this could trigger significant volatility.\n\nSAGE INSIGHT: Today's move illustrates a market structure shift (MSS) as price swept through sell-side liquidity at the prior-day low. This sweep can signal a potential change in market dynamics, where aggressive selling may give way to buying interest if the liquidity taken leads to a reaction. Understanding these shifts is crucial for anticipating potential reversals or continuations in price action.",
-    "s&p 500": "The S&P 500 is currently under pressure, having pulled back since the Asia session and pressing on recent lows. With price sitting in the discount zone of its current working range, the index has faced challenges, notably with a sweep of the prior-day low at 7548. The market sentiment is reflected in the recent headlines, indicating a broader retreat across indexes, largely driven by concerns over AI spending impacting chip stocks.\n\n• A significant rotation of $3.2 trillion from chip stocks to the 'Magnificent 7' suggests a shifting market focus that could influence future liquidity dynamics. \n• The VIX's uptick signals heightened volatility, often a precursor to potential liquidity raids during lower-conviction periods between killzones.\n• The upcoming UoM Consumer Sentiment and Inflation Expectations data later today may act as catalysts for movement, especially given the current market uncertainty.\n\nAs we observe the action today, particularly in this consolidation phase, traders should keep an eye on potential reactions around the prior-day high at 7632, which remains untested.\n\nWHAT TO WATCH  \n• Watch for market reactions around the untested prior-day high at 7632 for signs of liquidity seeking.  \n• Monitor how price behaves around the 7508–7632 band as it navigates within the discount zone.  \n• Look for volatility spikes around the UoM Consumer Sentiment and Inflation Expectations data release today.\n\nSAGE INSIGHT: Today's situation exemplifies the turtle soup concept, where price often tests prior lows to trigger liquidity events. The recent pullback through the 7548 low may attract late shorts, setting the stage for a potential reversal back toward the prior-day high. This illustrates how market structure shifts can create opportunities for savvy traders who recognize the patterns of liquidity seeking behavior.",
-    "crypto": "The crypto market is currently seeing a pullback, with price action retreating from earlier highs. The session has been trending higher since the New York open, but recent activity shows a move lower as traders react to prevailing fear sentiment in the market.\n\n• Bitcoin, Ethereum, and XRP have all slipped as profit-taking and risk aversion weigh heavily on sentiment, with the Crypto Fear & Greed Index indicating a contrarian fear positioning at 27.\n• Price is currently in the discount zone of its working range, hovering around the lower quartile. The recent sweep of the prior-day low at 63866 has taken sellside liquidity.\n• The market is between killzones, often a time for consolidation, potentially setting up for a liquidity grab as participants await the forthcoming Consumer Sentiment and Inflation Expectations reports.\n\nAs the session progresses, traders are closely monitoring these dynamics, especially with the potential for volatility surrounding the economic calendar events later today.\n\nWHAT TO WATCH  \n• Observe for potential reactions around the prior-day high at 64981, which remains unswept.  \n• Keep an eye on the upcoming USD Prelim UoM Consumer Sentiment report, which could drive liquidity dynamics.  \n• Watch for structure shifts as price tests current lows; a break here could indicate further sellside liquidity being targeted.\n\nSAGE INSIGHT: Today's movement aligns well with the concept of a Judas swing. The market's initial push higher since the NY session could have lured in late longs, only to see a swift pullback as liquidity is sought at lower levels. This demonstrates how price can manipulate sentiment before revealing the true intent of the market. Understanding this pattern can help traders recognize setups that may lead to unexpected reversals.",
-    "forex": "The forex market is currently exhibiting a rangebound behavior, with price coiling tightly between recent highs and lows. The session trend has been neutral since the Asia session, and we find ourselves in a low-conviction environment as we sit between killzones. \n\n• Dollar strength remains a key narrative, limiting any substantial euro recovery as geopolitical tensions continue to support the USD.\n• Recent headlines highlight a cautious sentiment driven by Middle East conflict, which has bolstered the dollar and pressured other currencies.\n• Price is positioned within the equilibrium zone around 1.1447, with the prior-day high of 1.14797 and low of 1.14351 yet to be swept. \n\nAs we approach the upcoming USD Prelim UoM Consumer Sentiment and Inflation Expectations reports, volatility may increase, particularly as traders will be keen to gauge sentiment and inflation outlook amid current geopolitical tensions.\n\nWHAT TO WATCH  \n• Observe the reactions near the prior-day high at 1.14797 and low at 1.14351 for potential liquidity sweeps.  \n• Monitor the upcoming USD Prelim UoM Consumer Sentiment and Inflation Expectations to see how they might influence dollar strength and overall market sentiment.  \n• Look for any signs of a market structure shift (MSS) as price navigates through these critical levels in the current range.\n\nSAGE INSIGHT: Today’s market behavior exemplifies a market structure shift (MSS). As price coils around the equilibrium zone, any breakout above the prior-day high could signify a strong bullish MSS, while a failure to break that level might indicate a shift into a bearish phase. This teaches the importance of watching for structure changes in relation to key liquidity levels, as they can provide insight into potential market direction.",
-    "gold": "Gold is currently consolidating between killzones, with price remaining broadly rangebound since the Asia session. This coiling action suggests a lack of conviction as traders await direction, particularly with high-impact economic data looming.\n\n• Price is sitting in the discount zone of its current working range, with equilibrium around 4031.\n• The prior-day high at 4067 and low at 3973 are both untested, indicating potential liquidity resting above and below.\n• The US Dollar Index is flat, while the 10Y yield has edged higher, suggesting mixed sentiment in the market that could influence gold's next move.\n\nAs we approach key economic releases today, including the Prelim UoM Consumer Sentiment and Inflation Expectations, traders may look for volatility that could disrupt this tight range. \n\nWHAT TO WATCH  \n• Monitor reactions at the prior-day high of 4067 and low of 3973 for potential liquidity sweeps.  \n• Pay attention to the upcoming consumer sentiment data, as it may trigger a displacement move.  \n• Watch for any shifts in market structure that could indicate a break from the current consolidation.\n\nSAGE INSIGHT: Today's market dynamics illustrate a classic turtle soup setup. As price hovers near the lower end of its range, traders may be baited into believing a breakdown is imminent. However, the potential for a liquidity sweep back into the range could lead to a sudden reversal, highlighting the importance of remaining vigilant for false breaks in this low-conviction environment.",
-    "oil": "Oil prices are currently experiencing an upward movement, buoyed by geopolitical tensions in the Middle East, particularly the escalating US-Iran conflict. This backdrop has led to speculation about potential disruptions in oil supply, contributing to a bullish sentiment in the market.\n\n• Goldman Sachs has raised its Q4 price forecasts for Brent and WTI crude, indicating a response to these supply concerns.\n• The current price action is coiling tightly within a balanced range, specifically between 78.00 and 80.93, with equilibrium at 79.47.\n• The market remains in a pre-killzone phase, generally characterized by lower conviction and potential consolidation.\n\nAs price sits near the equilibrium of its current range, traders are closely monitoring the prior-day high at 80.87, which remains untested, as well as the low at 78.00. A breakout could trigger a liquidity sweep either way, influenced by upcoming economic data releases today, such as the Prelim UoM Consumer Sentiment and Prelim UoM Inflation Expectations.\n\nWHAT TO WATCH  \n• Observe price reactions around the prior-day high of 80.87 for potential liquidity grabs.  \n• Watch for a shift in market structure if price breaks below the recent balanced range.  \n• Keep an eye on the upcoming Consumer Sentiment data, as it could influence market sentiment.\n\nSAGE INSIGHT: Today’s price action aligns well with the Power of 3 framework. The market appears to be in the manipulation phase, as geopolitical tensions create volatility and draw traders into the narrative. The tight coiling of price suggests accumulation is happening beneath the surface, setting the stage for a possible distribution phase should the price break higher past the prior-day high. Understanding these phases can help traders anticipate potential market movements."
+    "markets": "Market sentiment is currently under pressure as stocks are experiencing a notable decline in the wake of an Asia session sell-off. The London killzone is active now, a typical window for smart money to target liquidity. \n\n• Price has been pushing higher in recent hours but remains constrained below the prior-day high of 53108, which has not yet been swept.\n• The recent action reflects a hold near the session highs, despite a general downward trend since the Asia session.\n• Notably, the prior-day low of 52607 has been swept today, indicating sellside liquidity has been taken.\n\nRecent headlines highlight a broad sell-off in tech stocks, particularly in semiconductor companies, contributing to the downward pressure on indices. This backdrop suggests that smart money may be positioning ahead of key economic data today, including the Prelim UoM Consumer Sentiment and Inflation Expectations reports.\n\nWHAT TO WATCH  \n• Observe reactions around the prior-day high of 53108 for potential liquidity runs.  \n• Look for signs of a market structure shift as price navigates the discount zone between 52323 and 53108.  \n• Watch for volatility around the upcoming economic reports scheduled for today, specifically the Prelim UoM Consumer Sentiment.\n\nSAGE INSIGHT: Today's price action illustrates a liquidity sweep, particularly evident as the sellside was targeted with the sweep of the prior-day low. This emphasizes the importance of recognizing where liquidity resides in the market. Such sweeps can often precede significant price movement as smart money positions themselves ahead of new information, reinforcing the need to stay vigilant for shifts in market structure during key economic announcements.",
+    "nasdaq": "The Nasdaq-100 is experiencing notable bearish pressure during the London killzone, with price action clearly under duress since the Asia session. Currently, the index is pulling back and pressing towards recent lows after sweeping the prior-day low of 29060, indicating a shift in market structure.\n\n• The session trend is firmly down, signaling a liquidity hunt towards lower levels.\n• Price is now situated in the discount zone of its current range, suggesting potential for rebalancing.\n• Concerns over tech stocks, particularly in the semiconductor sector, are weighing heavily, contributing to a decline over 4% as major players like Arm and AMD retreat.\n\nAs the market digests recent headlines around the Nasdaq-100, including the incorporation of SpaceX and its implications, traders should be attentive to how these developments interact with the existing structure.\n\nWHAT TO WATCH\n• Observe how price reacts around the prior-day high of 29797, which remains untested; this could provide insight into potential reversals or continuation.\n• Keep an eye on the upcoming USD Prelim UoM Consumer Sentiment report today, a catalyst that may introduce volatility and liquidity shifts.\n• Watch for any signs of a market structure shift after the recent selloff, particularly if price begins to stabilize or form new order blocks.\n\nSAGE INSIGHT: Today's price action demonstrates a market structure shift (MSS) as the Nasdaq-100 has decisively swept sellside liquidity, indicating an ongoing bearish sentiment. This shift suggests that traders should closely monitor for signs of accumulation as the market attempts to find a new equilibrium, potentially setting the stage for future buying opportunities if bullish order flow emerges. Understanding MSS can help traders identify critical turning points in market dynamics.",
+    "s&p 500": "The S&P 500 is under pressure as the London killzone unfolds, with price coiling tightly in a balanced range since the Asia session. Currently, the index is positioned in the discount zone of its current working range, having swept the prior-day low of 7548, indicating that sell-side liquidity has been taken. \n\n• Recent headlines highlight concerns over market shifts, particularly in the tech sector, impacting investor sentiment. \n• The US 10Y yield is up, which often pressures equity valuations, while volatility is on the rise, further contributing to the cautious mood. \n• The upcoming Consumer Sentiment and Inflation Expectations reports today may drive liquidity as traders assess their impact on monetary policy.\n\nWith the S&P 500’s prior-day high of 7632 remaining intact, the market is clearly navigating an accumulation phase, with potential for manipulation as participants react to both macroeconomic signals and technical levels.\n\nWHAT TO WATCH\n• Observe reactions around the prior-day high of 7632 and the recently swept low of 7548 for potential signs of a market structure shift.\n• Monitor today's USD Prelim UoM Consumer Sentiment report, expected to create volatility as it impacts trader sentiment.\n• Watch for any displacement in price action that could signal a shift from the current balanced range.\n\nSAGE INSIGHT: The current market scenario reflects a potential turtle soup setup, where the market could be enticing traders to take positions against short-term price movements. By sweeping the prior low, it may have lured in late shorts, setting the stage for a reversal as price seeks to rebalance and attract liquidity back into the market. Understanding these dynamics allows traders to anticipate shifts in sentiment and positioning.",
+    "crypto": "As the London killzone unfolds, crypto markets are experiencing a pullback, with Bitcoin and other major assets sliding as fear sentiment prevails. Price has been trading higher since the NY session but is now pressing the lows in the Asia session.\n\n• The Crypto Fear & Greed Index at 27 indicates a prevailing fear among traders, often a setup for liquidity raids.\n• Recent action has swept sell-side liquidity at the prior-day low, suggesting active market manipulation.\n• Currently, price is positioned in the discount zone of its range, with the prior-day high still unchallenged.\n\nThe recent headlines highlight a backdrop of risk aversion and profit-taking, along with concerns over macroeconomic factors. This contributes to a bearish sentiment that could be driving traders to liquidate positions, leading to the observed pullback.\n\nWHAT TO WATCH  \n• Monitor reactions as price approaches the prior-day high near 64981, which remains untested.  \n• Look for structure shifts around the current lows, as they may signal potential reversals or continued weakness.  \n• The upcoming USD Prelim UoM Consumer Sentiment report today could introduce volatility as traders reassess positions.\n\nSAGE INSIGHT: Today's price movement reflects a classic Judas swing scenario, where the market initially appears to break down, triggering sell-side liquidity before potentially reversing. Observing how price interacts with the swept lows could provide insight into whether this pullback is a temporary manipulation or a signal of deeper market sentiment shifts.",
+    "forex": "As the London killzone is active, forex is currently coiling in a tight, balanced range, reflecting a market that has been broadly rangebound since the Asia session. Traders are observing liquidity dynamics, with price positioned near the equilibrium zone of its current working range. \n\n• The US Dollar Index remains flat, suggesting a pause in directional momentum as traders assess geopolitical tensions impacting the currency landscape.\n• Recent headlines indicate a prevailing strength in the dollar, with the Petrodollar gaining traction amid Middle East conflict concerns, limiting any recovery attempts by the euro.\n• Price remains near key structural levels, with prior-day high and low yet to be swept, potentially setting the stage for a liquidity raid.\n\nThe current stability, coupled with the upcoming USD Prelim UoM Consumer Sentiment and Inflation Expectations, may lead to volatility as liquidity is sought. The market's indecision reflects a delicate balance, with participants waiting for direction on upcoming economic data.\n\nWHAT TO WATCH  \n• Watch for reactions around the prior-day high of 1.14797 and low of 1.14351, as buyside or sellside liquidity could trigger a shift.  \n• Keep an eye on the upcoming UoM Consumer Sentiment report; it may catalyze movement as traders gauge sentiment in the face of economic uncertainty.  \n• Monitor for any displacement that could signal a market structure shift, indicating a potential breakout from the current range.\n\nSAGE INSIGHT: Today’s market structure reflects a subtle market structure shift (MSS), as price remains compressed in a tight range. The lack of volatility might suggest that smart money is accumulating positions in anticipation of the upcoming economic data. Observing how price reacts around the prior-day high and low will be crucial for identifying potential shifts in market sentiment and direction.",
+    "gold": "Gold is currently navigating a modest upward trajectory as the London killzone unfolds, aiming for liquidity amidst a backdrop of mixed macro signals. \n\n• Price has been trading higher since the Asia session, indicating a session trend that supports bullish sentiment.\n• Recent action shows a grinding ascent off the lows, suggesting accumulation is taking place.\n• Currently, gold is positioned in the discount zone of its working range, with the equilibrium around 4031, offering potential for rebalancing as it approaches key structural levels.\n\nDespite the upward movement, recent forecasts highlight concerns over the overall strength of gold as a safe haven. Market participants are weighing the implications of upcoming economic data, particularly the USD Prelim UoM Consumer Sentiment and Inflation Expectations, which could introduce volatility and shift liquidity dynamics.\n\nWHAT TO WATCH  \n• Observe reactions around the prior-day high of 4067; a sweep could signal a shift in market structure.\n• Watch for responses at the equilibrium level of 4031, where price may seek to rebalance.\n• The USD Prelim UoM Consumer Sentiment report today could provide critical insight into market sentiment and affect gold's trajectory.\n\nSAGE INSIGHT: Today's situation with gold illustrates the turtle soup concept, where the market may be attempting to lure late shorts into a false sense of security. As price grinds higher in the discount zone, it can trigger liquidity raids on those positioned against the prevailing trend, leading to a potential shift in market structure. This highlights the importance of understanding the broader liquidity landscape and the psychological traps set by market makers.",
+    "oil": "Oil is experiencing upward momentum this morning, holding steady near the highs established during the active London killzone, a period often marked by liquidity-seeking behavior from smart money. \n\n• Price has shifted higher after being under pressure since the Asia session.\n• Recent headlines indicate rising prices due to geopolitical tensions, particularly the US-Iran conflict affecting oil flows.\n• Currently, oil is positioned in the discount zone of its working range, which spans from 77.93 to 80.93, with equilibrium at 79.43. The prior-day low of 78.00 was swept today, indicating a potential shift in market sentiment.\n\nThe bullish sentiment is likely fueled by Goldman Sachs' revised forecasts in response to ongoing disruptions in the Strait of Hormuz, with traders eyeing the possibility of a run towards the prior-day high at 80.87.\n\nWHAT TO WATCH  \n• Monitor price reactions around the prior-day high at 80.87 for potential liquidity events.  \n• Observe any shifts in market structure during and after the USD Prelim UoM Consumer Sentiment release today, which could impact sentiment.  \n• Keep an eye on developments surrounding Middle East tensions as they could influence oil flows and pricing further.\n\nSAGE INSIGHT: Today’s movement in oil illustrates the Power of 3 concept—specifically the transition from accumulation to manipulation as price actions respond to geopolitical events. The recent bullish displacement suggests that market participants are positioning themselves for potential distribution phases ahead, especially if price maintains above the swept prior-day low. Understanding these phases can help traders identify key liquidity zones and anticipate reactions during critical market events."
   },
   "updated": {
-    "markets": "2026-07-17T05:42:53.280994+00:00",
-    "nasdaq": "2026-07-17T05:43:00.614203+00:00",
-    "s&p 500": "2026-07-17T05:43:06.653322+00:00",
-    "crypto": "2026-07-17T05:43:12.790161+00:00",
-    "forex": "2026-07-17T05:43:18.171215+00:00",
-    "gold": "2026-07-17T05:43:22.647555+00:00",
-    "oil": "2026-07-17T05:43:28.333743+00:00"
+    "markets": "2026-07-17T08:09:34.969931+00:00",
+    "nasdaq": "2026-07-17T08:09:48.172327+00:00",
+    "s&p 500": "2026-07-17T08:10:02.645987+00:00",
+    "crypto": "2026-07-17T08:10:10.523620+00:00",
+    "forex": "2026-07-17T08:10:19.891801+00:00",
+    "gold": "2026-07-17T08:10:26.405310+00:00",
+    "oil": "2026-07-17T08:10:36.733174+00:00"
   },
   "prices": {
     "markets": {
-      "price": 52367.0,
-      "change_pct": -0.79,
+      "price": 52512.0,
+      "change_pct": -0.52,
       "currency": "USD",
-      "as_of": "2026-07-17T05:42:46.478451+00:00"
+      "as_of": "2026-07-17T08:09:28.496922+00:00"
     },
     "nasdaq": {
-      "price": 28791.5,
-      "change_pct": -1.49,
+      "price": 28684.0,
+      "change_pct": -1.85,
       "currency": "USD",
-      "as_of": "2026-07-17T05:42:53.342781+00:00"
+      "as_of": "2026-07-17T08:09:35.019865+00:00"
     },
     "s&p 500": {
-      "price": 7511.25,
-      "change_pct": -0.88,
+      "price": 7512.0,
+      "change_pct": -0.87,
       "currency": "USD",
-      "as_of": "2026-07-17T05:43:00.678424+00:00"
+      "as_of": "2026-07-17T08:09:48.231549+00:00"
     },
     "crypto": {
-      "price": 62943.6,
-      "change_pct": -1.32,
+      "price": 62784.11,
+      "change_pct": -1.57,
       "currency": "USD",
-      "as_of": "2026-07-17T05:43:06.721597+00:00"
+      "as_of": "2026-07-17T08:10:02.695448+00:00"
     },
     "forex": {
-      "price": 1.1446,
-      "change_pct": 0.02,
+      "price": 1.145,
+      "change_pct": 0.05,
       "currency": "USD",
-      "as_of": "2026-07-17T05:43:12.863331+00:00"
+      "as_of": "2026-07-17T08:10:10.575399+00:00"
     },
     "gold": {
-      "price": 3988.9,
-      "change_pct": -0.08,
+      "price": 3997.8,
+      "change_pct": 0.14,
       "currency": "USD",
-      "as_of": "2026-07-17T05:43:18.208982+00:00"
+      "as_of": "2026-07-17T08:10:19.944589+00:00"
     },
     "oil": {
-      "price": 79.08,
-      "change_pct": 1.02,
+      "price": 78.74,
+      "change_pct": 0.59,
       "currency": "USD",
-      "as_of": "2026-07-17T05:43:22.684662+00:00"
+      "as_of": "2026-07-17T08:10:26.512249+00:00"
     }
   },
   "structures": {
     "markets": {
-      "price": 52367.0,
-      "session": "Asia",
+      "price": 52512.0,
+      "session": "London",
       "zone": "discount",
       "trend": "down",
       "session_trend": "under pressure since the Asia session",
-      "momentum": "down",
-      "recent_action": "pulling back and pressing the lows",
-      "range_pct": 0.9,
+      "momentum": "up",
+      "recent_action": "pushing higher and holding near the highs",
+      "range_pct": 24.1,
       "prior_day_high": 53108.0,
       "prior_day_low": 52607.0,
       "pdh_swept": false,
       "pdl_swept": true,
       "today_high": 52705.0,
-      "today_low": 52360.0,
+      "today_low": 52323.0,
       "range_high": 53108.0,
-      "range_low": 52360.0,
-      "equilibrium": 52734.0,
+      "range_low": 52323.0,
+      "equilibrium": 52715.5,
       "sessions": {
         "Asia": [
           52705.0,
-          52360.0
+          52323.0
+        ],
+        "London": [
+          52537.0,
+          52430.0
         ]
       }
     },
     "nasdaq": {
-      "price": 28791.5,
-      "session": "Asia",
+      "price": 28682.75,
+      "session": "London",
       "zone": "discount",
       "trend": "down",
       "session_trend": "under pressure since the Asia session",
       "momentum": "down",
       "recent_action": "pulling back and pressing the lows",
-      "range_pct": 1.3,
+      "range_pct": 0.0,
       "prior_day_high": 29797.0,
       "prior_day_low": 29060.0,
       "pdh_swept": false,
       "pdl_swept": true,
       "today_high": 29124.25,
-      "today_low": 28774.5,
+      "today_low": 28682.5,
       "range_high": 30062.5,
-      "range_low": 28774.5,
-      "equilibrium": 29418.5,
+      "range_low": 28682.5,
+      "equilibrium": 29372.5,
       "sessions": {
         "Asia": [
           29124.25,
-          28774.5
+          28722.5
+        ],
+        "London": [
+          28767.5,
+          28682.5
         ]
       }
     },
     "s&p 500": {
-      "price": 7511.25,
-      "session": "Asia",
+      "price": 7512.0,
+      "session": "London",
       "zone": "discount",
       "trend": "down",
       "session_trend": "under pressure since the Asia session",
-      "momentum": "down",
-      "recent_action": "pulling back and pressing the lows",
-      "range_pct": 2.8,
+      "momentum": "flat",
+      "recent_action": "coiling in a tight, balanced range",
+      "range_pct": 7.0,
       "prior_day_high": 7632.0,
       "prior_day_low": 7548.25,
       "pdh_swept": false,
       "pdl_swept": true,
       "today_high": 7563.5,
-      "today_low": 7507.75,
+      "today_low": 7503.0,
       "range_high": 7632.0,
-      "range_low": 7507.75,
-      "equilibrium": 7569.875,
+      "range_low": 7503.0,
+      "equilibrium": 7567.5,
       "sessions": {
         "Asia": [
           7563.5,
-          7507.75
+          7503.0
+        ],
+        "London": [
+          7519.0,
+          7510.0
         ]
       }
     },
@@ -251,83 +263,95 @@
       }
     },
     "forex": {
-      "price": 1.14456,
-      "session": "Asia",
+      "price": 1.14495,
+      "session": "London",
       "zone": "equilibrium",
       "trend": "flat",
       "session_trend": "broadly rangebound since the Asia session",
       "momentum": "flat",
       "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 48.1,
+      "range_pct": 53.4,
       "prior_day_high": 1.14797,
       "prior_day_low": 1.14351,
       "pdh_swept": false,
       "pdl_swept": false,
-      "today_high": 1.14508,
+      "today_high": 1.14561,
       "today_low": 1.1439,
       "range_high": 1.14837,
       "range_low": 1.14103,
       "equilibrium": 1.1447,
       "sessions": {
         "Asia": [
-          1.14508,
+          1.14548,
           1.1439
+        ],
+        "London": [
+          1.14561,
+          1.14469
         ]
       }
     },
     "gold": {
-      "price": 3988.8999,
-      "session": "Asia",
+      "price": 3997.80005,
+      "session": "London",
       "zone": "discount",
-      "trend": "flat",
-      "session_trend": "broadly rangebound since the Asia session",
-      "momentum": "flat",
-      "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 13.4,
+      "trend": "up",
+      "session_trend": "trading higher since the Asia session",
+      "momentum": "up",
+      "recent_action": "grinding up off the lows",
+      "range_pct": 21.1,
       "prior_day_high": 4067.1001,
       "prior_day_low": 3973.3999,
       "pdh_swept": false,
       "pdl_swept": false,
-      "today_high": 4000.1001,
-      "today_low": 3978.3999,
+      "today_high": 4012.19995,
+      "today_low": 3974.1001,
       "range_high": 4089.1001,
       "range_low": 3973.3999,
       "equilibrium": 4031.25,
       "sessions": {
         "Asia": [
-          4000.1001,
-          3978.3999
+          4012.19995,
+          3974.1001
+        ],
+        "London": [
+          4006.6001,
+          3996.0
         ]
       }
     },
     "oil": {
-      "price": 79.08,
-      "session": "Asia",
-      "zone": "equilibrium",
-      "trend": "flat",
-      "session_trend": "broadly rangebound since the Asia session",
-      "momentum": "flat",
-      "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 36.9,
+      "price": 78.74,
+      "session": "London",
+      "zone": "discount",
+      "trend": "down",
+      "session_trend": "under pressure since the Asia session",
+      "momentum": "up",
+      "recent_action": "pushing higher and holding near the highs",
+      "range_pct": 27.0,
       "prior_day_high": 80.87,
       "prior_day_low": 78.0,
       "pdh_swept": false,
-      "pdl_swept": false,
+      "pdl_swept": true,
       "today_high": 79.58,
-      "today_low": 78.79,
+      "today_low": 77.93,
       "range_high": 80.93,
-      "range_low": 78.0,
-      "equilibrium": 79.465,
+      "range_low": 77.93,
+      "equilibrium": 79.43,
       "sessions": {
         "Asia": [
           79.58,
-          78.79
+          77.93
+        ],
+        "London": [
+          79.14,
+          78.61
         ]
       }
     }
   },
-  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.01%; US 10Y yield up 0.53%; Volatility (VIX) up 6.76%.",
+  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.06%; US 10Y yield up 0.53%; Volatility (VIX) up 7.29%.",
   "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): USD Prelim UoM Consumer Sentiment (today); USD Prelim UoM Inflation Expectations (today).",
-  "timing": "TIMING: 01:42 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
+  "timing": "TIMING: 04:09 New York time — the London killzone is active right now (a window when smart money commonly seeks liquidity).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 27 (Fear) — a contrarian gauge of crowd positioning."
 }
