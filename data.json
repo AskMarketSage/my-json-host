@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-07-25T21:56:21.708821+00:00",
+  "last_updated": "2026-07-26T02:46:15.318495+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -88,65 +88,65 @@
     "nzd/usd": "forex"
   },
   "ai_summaries": {
-    "markets": "As we approach the close of today's session, markets are exhibiting a slight upward movement, showcasing resilience amid mixed headlines. Price has been trending higher since the Asia session and is now coiling in a tight, balanced range. \n\n• Recent narratives around geopolitical tensions and a sell-off in tech stocks, particularly with SpaceX, have contributed to market volatility.\n• Crude oil prices surging past $100 a barrel adds another layer of complexity, creating potential liquidity events.\n• The S&P 500's performance reflects caution, closing little changed as it grapples with bearish sentiment from recent earnings reports.\n\nCurrently, price is situated in the equilibrium zone of its working range, with the prior-day high of 52515 still intact, suggesting unfulfilled buy-side liquidity above. The ongoing consolidation between key levels may set the stage for a decisive move, particularly as we navigate through the quieter period between killzones.\n\nWHAT TO WATCH  \n• Monitor reactions around the prior-day high (52515) for potential liquidity sweeps.  \n• Keep an eye on the upcoming Apple earnings report for volatility catalysts.  \n• Watch for shifts in market structure as price interacts with the equilibrium zone.\n\nSAGE INSIGHT: Today's price structure highlights the concept of optimal trade entry (OTE). With price currently balanced in the equilibrium zone, traders can look for potential entries as it approaches optimal retracement levels. The anticipation of liquidity runs above the prior-day high can provide a clear context for positioning while remaining aware of the prevailing market sentiment shaped by the tech sell-off and geopolitical concerns.",
-    "nasdaq": "The Nasdaq has been under pressure since the Asia session, with recent action showing a pullback as it presses into lower levels. Currently, the index is situated in the discount zone of its working range, having swept sellside liquidity from the prior-day low. Despite a backdrop of mixed sentiment in the broader market, where S&P 500 futures remain steady amid a bounce in Big Tech, the Nasdaq is feeling the weight of a tech selloff, particularly from notable players like Arm, AMD, and Micron.\n\n• Key headlines indicate a turbulent environment for tech stocks, with rising oil prices and geopolitical tensions adding to market unease.\n• The Nasdaq's recent decline has seen a notable dip, particularly as it reacts to market volatility and sector rotations, with a focus on chip stocks cooling off.\n• The liquidity landscape remains dynamic, with the potential for further manipulation as traders assess market structure.\n\nAs we move through this lower-conviction period between killzones, market participants may anticipate further volatility as price interacts with key structural levels.\n\nWHAT TO WATCH\n• Observe reactions around the prior-day high of 29282 for potential liquidity traps or reversal opportunities.\n• Monitor the lower end of the current range (28212) for signs of a break or hold that could indicate a shift in market structure.\n• Upcoming economic data releases, particularly the Nonfarm Payrolls report on Friday, could act as a catalyst for volatility and liquidity in the Nasdaq.\n\nSAGE INSIGHT: The current price action highlights the importance of breaker blocks as we see the Nasdaq test lower levels after sweeping sellside liquidity. A breaker block can indicate a potential reversal point, especially as price interacts with the lows. Traders should be aware that these zones can act as significant areas for liquidity gathering and potential shifts in market sentiment, offering insights into future price behavior.",
-    "s&p 500": "The S&P 500 is currently experiencing a consolidation phase, remaining flat as it navigates between killzones. Price has been broadly rangebound since the Asia session, and recent action shows a pullback pressing the lows. Currently situated in the discount zone of its working range, the index is contending with prior-day high and low levels that remain unfulfilled, suggesting potential liquidity targets.\n\n• The mixed market sentiment follows a tech rout, influenced by chip stock declines and rising oil prices, which have weighed heavily on investor confidence.\n• Concerns around geopolitical tensions and expectations for upcoming earnings reports have contributed to this cautious stance, as traders assess the potential impact on technology and AI-focused stocks.\n• With the US dollar index flat and treasury yields slightly down, the market appears to be in a holding pattern, waiting for fresh catalysts.\n\nAs we continue through today's session, the S&P 500's ability to maintain its position in the discount zone will be crucial for any potential rebound or further pullback.\n\nWHAT TO WATCH\n• Observe reactions around the prior-day high at 7550 and low at 7412; these levels could attract liquidity seeking to fill the untested areas.\n• Monitor the upcoming earnings reports from major tech companies, as they could serve as a catalyst for volatility and shifts in market structure.\n• Watch for any breaks in the recent price action that could indicate a shift in the current consolidation phase.\n\nSAGE INSIGHT: Today's positioning in the discount zone illustrates the significance of premium/discount dynamics. As price remains anchored in this area, it highlights the potential for liquidity to be sought in the untested extremes. Understanding where price sits in relation to its previous highs and lows can provide insight into future movements, especially when traders are looking for favorable entries in a market that has yet to fully explore these levels.",
-    "crypto": "Bitcoin has shown a modest upward movement today, trading higher since the Asia session and currently holding near the session highs in the NY session. As price navigates the discount zone of its current range, recent headlines point to market caution, reflecting on geopolitical tensions and a dip in crypto derivatives volume.\n\n• Market sentiment remains cautious, with the Crypto Fear & Greed Index at 27, indicating fear among traders.\n• Analysts note that the ongoing conflict involving the US and Iran may be weighing on sentiment, causing hesitation in the crypto space.\n• Price is currently positioned below the prior-day high of 65745, which remains untested, while the prior-day low of 63700 has yet to be swept.\n\nThis interplay of geopolitical events and market sentiment is leading to a consolidation phase, as traders await more definitive signals.\n\nWHAT TO WATCH  \n• Monitor reactions as price approaches the untested prior-day high of 65745 for potential liquidity plays.  \n• Watch for shifts in market structure if there’s a decisive break above current highs or a move towards the prior-day low of 63700.  \n• Keep an eye on the upcoming US economic data releases, especially the Consumer Confidence Index, which may impact market sentiment and volatility.\n\nSAGE INSIGHT:  \nToday's situation exemplifies the concept of displacement. While price has been moving higher, the surrounding market conditions—such as geopolitical tensions and reduced derivatives volume—suggest a potential struggle to maintain this upward momentum. Recognizing displacement in the context of current events can help traders anticipate possible pullbacks or shifts in market structure as liquidity is sought around significant levels.",
-    "forex": "The forex market is currently exhibiting low volatility, with price remaining rangebound since the Asia session. As we approach the NY session, the market is coiling in a tight, balanced range, reflecting lower conviction between killzones. Price is situated within the discount zone of its current working range, indicating potential for liquidity to be sought below.\n\n• The US Dollar Index remains flat, suggesting a lack of directional strength, which has kept the euro's recovery limited.\n• Recent headlines underscore the dollar's rally following CPI data and ongoing geopolitical tensions, reinforcing the notion of dollar resilience.\n• The prior-day high and low at 1.1439 and 1.13675, respectively, have yet to be swept, indicating potential liquidity targets for future moves.\n\nPrice action suggests that participants are waiting for a catalyst to drive a more definitive move. With the market currently balanced, any break of structure could reveal the next phase of accumulation or distribution.\n\nWHAT TO WATCH  \n• Monitor the reaction around the prior-day high at 1.1439 and low at 1.13675 for potential liquidity sweeps.  \n• Watch for any shifts in market structure that could indicate a break towards higher or lower liquidity zones.  \n• Keep an eye on the upcoming release of the US PPI data tomorrow, as it may infuse volatility into the dollar dynamics.\n\nSAGE INSIGHT: Today's price action highlights the concept of the breaker block. The tight range suggests that liquidity could be resting near the prior swing highs and lows, serving as potential breakout points. If price breaches these levels, it could indicate a shift in sentiment and a move towards either accumulation or distribution, particularly if the dollar's current strength is tested. Understanding where these liquidity zones lie is crucial for anticipating future market behavior.",
-    "gold": "Gold is currently showing strength, trading higher since the Asia session and maintaining gains above the $4,100 mark despite a backdrop of risk-off sentiment. As we find ourselves between killzones, the market is consolidating with a tight balance, indicating lower conviction from traders.\n\n• Price has been coiling in equilibrium, with recent action reflecting indecision as it holds within the range of 4024 to 4171, specifically around the equilibrium level of 4098. \n• The prior-day low at 4042 has been swept, taking sellside liquidity and clearing the way for potential upside. \n• Headlines are highlighting gold's resilience, with suggestions of its re-emergence as a safe-haven asset amidst geopolitical tensions and fluctuating oil prices.\n\nAs we move deeper into the NY session, traders are observing how the market responds within this balanced range, particularly as the market prepares for any shifts that may arise from upcoming economic data.\n\nWHAT TO WATCH\n• Watch for reactions around the equilibrium level at 4098, monitoring potential shifts in market structure.\n• Keep an eye on the prior-day high at 4144; a break could signal renewed bullish momentum.\n• Observe the impact of the upcoming Federal Reserve decision (scheduled for Wednesday), as it could drive volatility and liquidity.\n\nSAGE INSIGHT: Today's price action illustrates the concept of premium/discount positioning. Gold's current pricing above the equilibrium suggests that it is operating in a premium state, reflecting market confidence despite external uncertainties. This positioning indicates that traders are willing to pay a higher price for perceived safety, providing insights into market sentiment and potential shifts in demand as macro conditions evolve.",
-    "oil": "Oil prices are experiencing downward pressure, trading lower since the Asia session and currently grinding up off the lows in the NY session. With the market sitting in the equilibrium zone of its current working range, recent headlines highlight geopolitical tensions that could influence future movements.\n\n• The ongoing conflict in the Middle East, particularly relating to US-Iran dynamics, is creating fluctuations in sentiment around oil supply.\n• Despite recent declines, there have been forecasts indicating potential bullish momentum as price approaches key technical levels.\n• Price action remains within the parameters of the prior day's high and low, with neither level yet swept, suggesting a potential for a liquidity run.\n\nAs traders navigate this consolidation-prone phase between killzones, the equilibrium around 88.97 provides a focal point. The market's reaction to geopolitical headlines will be crucial, particularly as traders position themselves ahead of upcoming data releases.\n\nWHAT TO WATCH\n• Monitor the reaction around the prior-day high of 93.50 and low of 87.36 for potential liquidity sweeps.\n• Observe how price behaves in the equilibrium zone in relation to geopolitical developments.\n• Keep an eye on the upcoming API report for volatility triggers.\n\nSAGE INSIGHT: Today's market structure shift (MSS) illustrates the delicate balance between bullish momentum and geopolitical risks. As price hovers around the equilibrium, a clear shift from bullish to bearish or vice versa could dictate the next move, especially if either the prior-day high or low is swept. This teaches us to remain vigilant in recognizing shifts in market structure that may signal significant price action."
+    "markets": "The market is showing strength in the Asian killzone, trading higher since the Asia session. Recent action shows price coiling in a tight, balanced range, currently sitting in the equilibrium zone of its working range. This positioning suggests traders are assessing liquidity dynamics, especially with the prior-day high at 52515 remaining untouched.\n\n• The S&P 500 closed little changed amid fears surrounding geopolitical tensions and a notable chip sell-off, which has impacted overall market sentiment.\n• Major tech stocks like Nvidia and SpaceX have faced selling pressure, contributing to a cautious environment as investors weigh earnings reports against macroeconomic concerns.\n• Crude oil prices are slipping, reflecting newfound hopes for peace talks in the Middle East, which could further influence market dynamics.\n\nThe interplay of these factors is likely to encourage smart money to seek liquidity, especially as the NY session unfolds. Traders are looking for potential reactions around the prior-day high and low, which remain untested, adding layers of intrigue as we move deeper into the session.\n\nWHAT TO WATCH  \n• Observe reactions at the prior-day high of 52515 and low at 51720 for potential liquidity sweeps.  \n• Monitor any structural shifts that may emerge as price approaches equilibrium levels.  \n• Keep an eye on the upcoming Fed meeting, which could serve as a catalyst for volatility.  \n\nSAGE INSIGHT: The current market structure reflects the Power of 3 phases, particularly the accumulation phase as price consolidates in the equilibrium zone. This coiling behavior often precedes a manipulation event, where liquidity is sought, potentially leading to a breakout or breakdown. Understanding these phases can help traders better anticipate market movements as they unfold.",
+    "nasdaq": "The Nasdaq has been under pressure since the Asia session, with the current dynamics reflecting a pronounced sellside bias. Recent action shows price pressing lower, having swept the prior-day low, which indicates a potential liquidity run. As we enter the Asian killzone, where smart money often seeks liquidity, the market sentiment appears cautious amid broader macro concerns.\n\n• The Nasdaq-100 is currently trading in the discount zone of its established range, suggesting a potential for value-seeking behavior.\n• Despite some resilience in S&P 500 futures, the tech sector is feeling the heat, particularly from rising oil prices and mixed earnings reports from key tech players like Arm and AMD.\n• Volatility remains subdued, which may encourage further positioning as traders assess the landscape.\n\nWith price sitting in a critical discount area, it will be essential to observe how market participants react as they probe lower levels. The equilibrium of the current range presents an opportunity for potential reversals or continuations, depending on how liquidity is absorbed.\n\nWHAT TO WATCH  \n• Monitor reactions around the prior-day high at 29282, as a sweep may offer insight into buyer interest.  \n• The upcoming Non-Farm Payrolls report on Friday could catalyze volatility in tech stocks, especially impacting sentiment around the Nasdaq-100.  \n• Watch for any displacement patterns that could signal a market structure shift as price interacts with key zones.\n\nSAGE INSIGHT: Today's market illustrates the concept of equilibrium within the working range. Price has pressed into the discount zone, indicating that liquidity may be sought to rebalance positions. Understanding how price behaves around these levels can provide insights into potential reversals or continuation patterns, as smart money typically looks to establish positions at favorable prices before major news events or shifts in sentiment.",
+    "s&p 500": "The S&P 500 is currently showing a flat profile, hovering in a rangebound state since the Asia session. Price has recently pulled back, pressing into the lower part of its working range, which is situated in the discount zone. As we enter the NY session, liquidity is likely being sought, especially as key levels like the prior-day high of 7550 and low of 7412 remain untested.\n\n• Concerns over geopolitical tensions, particularly with Iran, are weighing on market sentiment.\n• A notable chip stock sell-off has contributed to the overall stagnation, with tech under pressure from mixed earnings reports.\n• The US Dollar Index is flat, and yields are easing, which may provide a backdrop for any potential upside movements.\n\nThe market's indecisiveness reflects a broader sentiment that is wary of volatility, particularly as traders navigate through earnings season and geopolitical headlines. With price currently in a discount, there's potential for a liquidity sweep as the session progresses.\n\nWHAT TO WATCH  \n• Observe how price reacts around the prior-day low of 7412; a sweep could signal a potential reversal.  \n• Look for any displacement from current levels that might indicate a shift in market structure.  \n• Keep an eye on the impact of earnings reports throughout the week, especially from major tech companies, as catalysts for movement.\n\nSAGE INSIGHT:  \nToday's scenario illustrates the concept of optimal trade entry (OTE) well. With price sitting in the discount zone, this could be an area for potential accumulation, especially if a market structure shift occurs following a sweep of liquidity. It teaches us to remain vigilant for setups that align with OTE principles, as they can offer favorable risk-reward scenarios when entering trades in a market that may be primed for a reversal.",
+    "crypto": "Crypto is currently pushing higher during the active Asian killzone, seeking liquidity after a session marked by pressure since the New York open. Price has shown resilience, holding near the recent highs and presently sitting in the equilibrium zone of its current working range. This positioning indicates a potential recalibration of market sentiment, despite recent bearish headlines.\n\n• The crypto market remains subdued with Bitcoin, Ethereum, and others facing pressure amidst global tensions, leading to cautious sentiment reflected in a drop in derivatives volume.\n• The Crypto Fear & Greed Index at 26 suggests a state of fear among traders, often a precursor to liquidity raids targeting late shorts.\n• With the prior-day high at 64384 not yet swept, there’s an opportunity for price to capture that liquidity while navigating through bearish narratives.\n\nThe market's current behavior indicates that despite the surrounding fear, smart money is probing for liquidity in the upper range, as evidenced by the push higher. Observing how price interacts with the prior-day high could reveal whether this move is part of a larger repositioning or merely a fleeting bounce.\n\nWHAT TO WATCH  \n• Monitor the reaction around the prior-day high at 64384 for signs of bullish continuation or potential liquidity sweep.  \n• Watch for any shifts in market structure as price approaches the equilibrium level at 64722.  \n• The upcoming Consumer Confidence Index on Tuesday could act as a catalyst for volatility, impacting overall market sentiment.\n\nSAGE INSIGHT: The concept of premium/discount positioning is critical in today’s environment, as price sits in equilibrium. Given the current fear sentiment and the pressure on crypto assets, this could be a setup for a liquidity sweep aimed at the prior-day high. Understanding where price is positioned relative to these zones helps traders anticipate potential reversals or continuation patterns.",
+    "forex": "Price has been relatively flat during the Asian killzone, coiling within a tight range as traders digest recent developments around the US dollar. With price sitting in the discount zone of its working range, there’s a sense of balance as market participants position themselves ahead of potential liquidity events.\n\n• The US dollar shows resilience, recovering from recent corrections, which is limiting the euro's ability to gain traction.\n• Recent headlines highlight the dollar’s strength amid geopolitical tensions, suggesting a bullish undertone.\n• Price remains within a range defined by prior-day high at 1.1439 and low at 1.13675, both of which have not yet been swept, indicating potential liquidity targets.\n\nAs the Asian session unfolds, the tight price action reflects a market awaiting direction. The upcoming sessions may reveal whether this equilibrium holds or if a liquidity sweep occurs, particularly with the dollar's recent strength acting as a backdrop.\n\nWHAT TO WATCH  \n• Observe reactions near the prior-day high of 1.1439 and low of 1.13675 for potential liquidity runs.  \n• Watch for any shifts in market structure that may signal a breakout from the current range.  \n• Consider the upcoming economic data releases, especially the CPI report, which could catalyze volatility.\n\nSAGE INSIGHT: Today’s situation illustrates the equilibrium of the current working range. With price balanced between the prior-day high and low, traders should be mindful of how liquidity may be targeted around these levels. Equilibrium suggests that while the market may appear stable, the potential for a displacement exists, particularly as liquidity is sought during pivotal killzones. Understanding this dynamic can aid in anticipating potential price movements as the session progresses.",
+    "gold": "Gold is currently on an upward trajectory as the Asian killzone unfolds, indicating that market participants are actively seeking liquidity. The recent action has seen price coiling tightly as it trades higher since the Asia session.\n\n• Price has swept sellside liquidity from the prior-day low, showing strength.\n• Currently positioned in equilibrium, price is compressing between 4024 and 4171, with the focal point at 4098.\n• The prior-day high at 4144 remains untested, suggesting potential upside.\n\nRecent headlines indicate that gold is holding above $4,100 despite risk-off sentiment in the markets, raising questions about its role as a safe-haven asset amid geopolitical tensions. The unfolding situation in the Middle East adds to this narrative, creating a backdrop that supports continued interest in gold.\n\nWHAT TO WATCH  \n• Observe reactions around the prior-day high at 4144; a sweep here could signal further bullish momentum.  \n• Watch for liquidity dynamics during the New York session, especially as we approach the close.  \n• Keep an eye on the upcoming Consumer Confidence Index data, which could affect market sentiment.\n\nSAGE INSIGHT: Today's market structure suggests an optimal trade entry (OTE) opportunity may be forming. With price currently in equilibrium, a potential retracement towards the 4098 level could present an ideal entry point for those looking to align with the bullish trend. Understanding how OTE plays into liquidity sweeps and market structure shifts is crucial for capitalizing on these movements.",
+    "oil": "Oil prices are under pressure as the Asian killzone unfolds, with price action gravitating lower off recent highs. \n\n• Price has faced selling pressure since the Asia session, and while it grinded higher off the lows in the past few hours, it remains vulnerable. \n• Currently, oil is situated near the equilibrium of its current working range, which spans from 84.44 to 93.50, with the equilibrium point at 88.97. \n• The market has yet to sweep the prior-day low at 87.36, indicating potential liquidity below. Meanwhile, the prior-day high at 93.50 remains untested.\n\nRecent geopolitical headlines, especially concerning the Middle East, continue to influence market sentiment, keeping the narrative of volatility alive. The ongoing conflicts and their implications for supply dynamics are crucial considerations for traders.\n\nWHAT TO WATCH\n• Observe price reactions around the prior-day high at 93.50 and low at 87.36, as these levels can provide insight into liquidity dynamics.\n• Watch for any signs of displacement around the equilibrium level of 88.97, as this could indicate shifts in market sentiment.\n• Keep an eye on the upcoming energy inventory data due this week, which could inject volatility into the oil market.\n\nSAGE INSIGHT: Today's price action illustrates the concept of displacement quite clearly. The recent downward pressure, despite grinding up off the lows, signifies a potential shift in market sentiment as traders react to geopolitical tensions. This displacement may create opportunities for liquidity runs, particularly if price approaches key structural levels like the prior-day low. Understanding displacement helps traders anticipate potential reversals or continuations based on underlying market dynamics."
   },
   "updated": {
-    "markets": "2026-07-25T21:55:53.169999+00:00",
-    "nasdaq": "2026-07-25T21:55:58.154736+00:00",
-    "s&p 500": "2026-07-25T21:56:03.497580+00:00",
-    "crypto": "2026-07-25T21:56:08.390502+00:00",
-    "forex": "2026-07-25T21:56:13.172481+00:00",
-    "gold": "2026-07-25T21:56:17.569006+00:00",
-    "oil": "2026-07-25T21:56:21.708512+00:00"
+    "markets": "2026-07-26T02:45:50.403595+00:00",
+    "nasdaq": "2026-07-26T02:45:54.511688+00:00",
+    "s&p 500": "2026-07-26T02:45:58.858769+00:00",
+    "crypto": "2026-07-26T02:46:02.884122+00:00",
+    "forex": "2026-07-26T02:46:07.425700+00:00",
+    "gold": "2026-07-26T02:46:11.041463+00:00",
+    "oil": "2026-07-26T02:46:15.318116+00:00"
   },
   "prices": {
     "markets": {
       "price": 52124.0,
       "change_pct": 0.44,
       "currency": "USD",
-      "as_of": "2026-07-25T21:55:47.626864+00:00"
+      "as_of": "2026-07-26T02:45:45.279493+00:00"
     },
     "nasdaq": {
       "price": 28282.25,
       "change_pct": -1.18,
       "currency": "USD",
-      "as_of": "2026-07-25T21:55:53.337432+00:00"
+      "as_of": "2026-07-26T02:45:50.455899+00:00"
     },
     "s&p 500": {
       "price": 7447.5,
       "change_pct": 0.03,
       "currency": "USD",
-      "as_of": "2026-07-25T21:55:58.447353+00:00"
+      "as_of": "2026-07-26T02:45:54.627202+00:00"
     },
     "crypto": {
-      "price": 64303.11,
-      "change_pct": 0.33,
+      "price": 64381.31,
+      "change_pct": 0.11,
       "currency": "USD",
-      "as_of": "2026-07-25T21:56:03.684522+00:00"
+      "as_of": "2026-07-26T02:45:58.912862+00:00"
     },
     "forex": {
       "price": 1.1375,
       "change_pct": -0.06,
       "currency": "USD",
-      "as_of": "2026-07-25T21:56:08.579715+00:00"
+      "as_of": "2026-07-26T02:46:03.006612+00:00"
     },
     "gold": {
       "price": 4070.8,
       "change_pct": 0.51,
       "currency": "USD",
-      "as_of": "2026-07-25T21:56:13.414693+00:00"
+      "as_of": "2026-07-26T02:46:07.581001+00:00"
     },
     "oil": {
       "price": 89.31,
       "change_pct": -3.12,
       "currency": "USD",
-      "as_of": "2026-07-25T21:56:17.722311+00:00"
+      "as_of": "2026-07-26T02:46:11.145005+00:00"
     }
   },
   "structures": {
@@ -250,35 +250,27 @@
       }
     },
     "crypto": {
-      "price": 64343.0,
-      "session": "NY",
-      "zone": "discount",
-      "trend": "up",
-      "session_trend": "trading higher since the Asia session",
+      "price": 64321.0,
+      "session": "Asia",
+      "zone": "equilibrium",
+      "trend": "down",
+      "session_trend": "under pressure since the NY session",
       "momentum": "up",
       "recent_action": "pushing higher and holding near the highs",
-      "range_pct": 25.0,
-      "prior_day_high": 65745.0,
-      "prior_day_low": 63700.0,
+      "range_pct": 30.4,
+      "prior_day_high": 64384.0,
+      "prior_day_low": 63761.0,
       "pdh_swept": false,
       "pdl_swept": false,
-      "today_high": 64384.0,
-      "today_low": 63761.0,
-      "range_high": 66272.0,
+      "today_high": 64377.0,
+      "today_low": 64217.0,
+      "range_high": 65745.0,
       "range_low": 63700.0,
-      "equilibrium": 64986.0,
+      "equilibrium": 64722.5,
       "sessions": {
         "Asia": [
-          64206.0,
-          63958.0
-        ],
-        "London": [
-          64141.0,
-          63914.0
-        ],
-        "NY": [
-          64384.0,
-          63761.0
+          64377.0,
+          64217.0
         ]
       }
     },
@@ -384,6 +376,6 @@
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.00%; US 10Y yield down 0.51%; Volatility (VIX) down 0.64%.",
   "calendar": "",
-  "timing": "TIMING: 17:55 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
-  "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 27 (Fear) — a contrarian gauge of crowd positioning."
+  "timing": "TIMING: 22:45 New York time — the Asian killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 26 (Fear) — a contrarian gauge of crowd positioning."
 }
