@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-07-30T16:26:30.190827+00:00",
+  "last_updated": "2026-07-30T19:26:27.692832+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -88,82 +88,82 @@
     "nzd/usd": "forex"
   },
   "ai_summaries": {
-    "markets": "Markets are experiencing a notable upswing today, with price advancing since the Asia session and currently coiling within a balanced range. The Nasdaq has rebounded sharply, driven by a surge in semiconductor stocks, notably Microsoft. This recovery comes on the heels of a significant sell-off following the Fed's previous decisions, highlighting the market's sensitivity to macroeconomic signals.\n\n• Major tech stocks are leading the charge, with Microsoft and others reporting earnings that have buoyed investor sentiment.\n• While the Dow faced a substantial drop yesterday, the current session reflects a recovery as traders seek liquidity in key tech sectors.\n• Price is positioned within the equilibrium zone of its current range, suggesting potential for a rebalancing phase, particularly with the prior-day high and low still intact.\n\nAs we move into this quieter period between killzones, traders should be mindful of potential liquidity runs toward those untested structural levels. With the upcoming high-impact JPY BOJ Policy Rate announcement later today, volatility could increase, impacting the broader market dynamics.\n\nWHAT TO WATCH  \n• Observe reactions around the prior-day high at 53033 and low at 51630 for possible liquidity sweeps.  \n• Watch for any displacement following the JPY BOJ announcements as a catalyst for volatility.  \n• Pay attention to the tight range price has formed; a break could indicate a shift in market structure.\n\nSAGE INSIGHT: Today's session offers a compelling study in the concept of a breaker block. Given the recent price action and the significant sell-off leading into this rally, we may be witnessing a potential breaker setup forming beneath the recent high. If price can consolidate above this level, it could validate the bullish sentiment and indicate a shift in market structure as traders seek to rebalance. This underscores the importance of identifying structural shifts and the role of breaker blocks in guiding expectations for future price movement.",
-    "nasdaq": "The Nasdaq has been trading higher since the Asia session, currently experiencing a notable surge amid a backdrop of macroeconomic shifts. As we find ourselves between killzones, the market is coiling in a tight range, indicating a period of lower conviction. \n\n• Recent headlines highlight a mix of concerns around semiconductor stocks and AI, with some narratives suggesting a correction while others showcase a tech rally led by major players like Microsoft.\n• The Nasdaq has recently swept the prior-day high at 28178, clearing buyside liquidity, yet remains in the premium zone of its current working range (27202–28246).\n• The US Dollar Index is down, while the 10Y yield has risen, reflecting a nuanced risk appetite as the VIX also declines.\n\nDespite the current bullish momentum, the correction narrative lingers, adding complexity to market sentiment. Observing how price reacts to key zones will be critical as we move through today.\n\nWHAT TO WATCH  \n• Watch for reactions around the prior-day low at 27202, as a sweep could indicate further movement.  \n• Look for displacement patterns as price interacts with the edges of the current range, especially with upcoming economic events.  \n• The BOJ Policy Rate and Monetary Policy Statement could introduce volatility, impacting broader market sentiment.\n\nSAGE INSIGHT: Displacement occurs when price moves decisively away from a specific range, often revealing underlying market sentiment. Today's upward movement, despite correction concerns, illustrates how quickly the market can shift direction when liquidity is targeted. This teaches us to remain vigilant for signs of displacement that can signal a robust change in market structure.",
-    "s&p 500": "The S&P 500 is currently exhibiting a higher session trend since the Asia session, coiling tightly in a balanced range as we approach the mid-day mark. Notably, the index has been navigating within the equilibrium zone of its current working range, suggesting a consolidation phase as traders assess the market following recent volatility.\n\n• The US Dollar Index is down, contributing to a favorable climate for equities.\n• Rising US 10Y yields indicate some underlying pressure, despite the recent uptick in the S&P 500.\n• Recent headlines reflect a mixed sentiment, with concerns about inflation juxtaposed against optimistic signals for potential rallies.\n\nPrice action is now hovering around 7412, the equilibrium level, with prior-day highs at 7501 and lows at 7324 remaining untouched. The market is positioned between killzones, often leading to lower-conviction movements, and traders may be waiting for a decisive break to target liquidity either above or below these levels.\n\nWHAT TO WATCH\n• Observe reactions around the prior-day high at 7501 for potential liquidity runs.\n• Monitor any shifts in market structure as we approach the NY close, particularly if price breaks from the current tight range.\n• Pay attention to the upcoming JPY BOJ Policy Rate announcement today, which could introduce volatility.\n\nSAGE INSIGHT: Today's situation highlights the concept of a liquidity sweep. As the S&P 500 coils near the equilibrium, it presents an opportunity for a sweep of either the prior-day high or low. Traders should remain alert to the potential for a rapid move that targets latent liquidity, which could trigger a significant displacement in price. Understanding these dynamics can provide insights into probable future movements as the market seeks to rebalance.",
-    "crypto": "Crypto markets are currently experiencing an upward push, having traded higher since the Asia session. As the NY session unfolds, price is holding near the recent highs, demonstrating resilience despite external pressures. \n\n• The sentiment remains bearish, with the Crypto Fear & Greed Index sitting at 28, indicating fear among market participants, which could set the stage for potential liquidity runs. \n• Recent action has cleared both buyside and sellside liquidity today, sweeping the prior-day high at 64660 and low at 63519, confirming the volatility in play.\n• Price is positioned in the premium zone of its current range, from 62785 to 65056, with equilibrium at 63920, suggesting potential profit-taking opportunities.\n\nThe recent narratives highlight a mix of cautious optimism, especially with the Fed holding rates steady, which has led to speculation that the crypto space may soon see significant moves. However, the prevailing fear in sentiment indicates that traders should remain vigilant.\n\nWHAT TO WATCH  \n• Observe the reaction around the equilibrium level of 63920 for potential signs of distribution or accumulation.  \n• Monitor the implications of the upcoming JPY BOJ Policy Rate today, as it may influence broader market sentiment.  \n• Look for signs of a market structure shift if price breaks above the session highs or retraces into lower levels.\n\nSAGE INSIGHT: Today's price action illustrates a classic turtle soup setup, where the market may be enticing traders to position against the prevailing fear. With price sweeping liquidity and holding near highs, this scenario can lead to a trap for late shorts, providing a potential opportunity for a bullish reversal. Understanding this setup helps traders anticipate potential shifts in market behavior, especially during consolidation phases.",
-    "forex": "The forex market is currently showing strength, trading higher since the Asia session and pressing into the premium zone of its working range. Price has recently coiled within a tight balance, indicating a period of consolidation before potential movement. As we are situated between killzones, this lower-conviction phase typically leads to liquidity being sought as traders await clearer signals.\n\n• The US Dollar Index is down, contributing to the current upward momentum in forex.\n• Buyside liquidity was swept at the prior-day high of 1.14929, indicating bullish sentiment.\n• Upcoming high-impact JPY events today, including the BOJ Policy Rate and Monetary Policy Statement, may induce volatility.\n\nMarket sentiment appears cautious, with the dollar's recent decline from a strong CPI reading likely influencing traders to reassess positions. The tight range suggests that players are anticipating further clarity from the upcoming JPY announcements, which could shake up the current balance.\n\nWHAT TO WATCH  \n• Monitor reactions around the prior-day low of 1.13792 for potential liquidity plays.  \n• Observe how price behaves as it approaches the upper boundary of the current range at 1.1538.  \n• Expect volatility around JPY's monetary policy events scheduled for today.\n\nSAGE INSIGHT: Displacement is evident as price has shown a clear shift in momentum, moving higher after sweeping buyside liquidity. This movement indicates a potential market structure shift that traders should watch for confirmation of continued strength or possible reversal as fresh data from the BOJ could re-influence this dynamic. Understanding displacement helps identify when the market is beginning a new phase, allowing traders to align their strategies accordingly.",
-    "gold": "Gold is currently experiencing upward momentum, having traded higher since the Asia session and continuing this trend into the New York session. However, recent action has shown price consolidating in a tight range, indicating lower conviction as we sit between killzones. The price is now situated in the premium zone of the current working range, having just swept the prior-day high at 4177, which has cleared some buyside liquidity.\n\n• The US Dollar Index is down, providing a supportive macro backdrop for gold.\n• The 10Y yield has increased, which typically pressures gold but may be offset by soft dollar dynamics.\n• Recent geopolitical tensions and economic forecasts imply potential volatility ahead.\n\nWith the upcoming JPY BOJ Policy Rate and Monetary Policy Statement today, traders should be alert for any shifts that could impact liquidity dynamics across the markets.\n\nWHAT TO WATCH  \n• Monitor the reaction around the prior-day high at 4177 for potential continuation or reversal signals.  \n• Observe the price action within the current premium zone and around the equilibrium level of 4095 for signs of market structure shifts.  \n• Pay attention to the JPY BOJ Policy Rate announcement today, which could create volatility and liquidity in the gold market.\n\nSAGE INSIGHT: Today's liquidity sweep at the prior-day high of 4177 demonstrates how critical levels can serve as liquidity magnets. As price clears this high, it not only captures the buyside liquidity but also signals a potential shift in market sentiment. Understanding these sweeps helps traders anticipate where the market may seek further liquidity, guiding them in their trading decisions.",
-    "oil": "Oil has been under pressure since the Asia session, reflecting a recent grind up off the lows during the New York session. Currently sitting in the premium zone of its working range, price has just swept the prior-day high at 85.57, indicating a potential liquidity grab. The backdrop of U.S. geopolitical actions, including blocking a surprise attack from Iran, has added some bullish pressure, although the market appears to be consolidating between killzones—typically lower-conviction periods.\n\n• The U.S. Dollar Index is down, supporting commodity prices.\n• Rising US 10Y yields could create mixed sentiment towards oil as borrowing costs increase.\n• Recent geopolitical tensions with Iran have heightened market volatility.\n\nWhile oil is experiencing a slight decline, the recent sweep of buyside liquidity suggests that market participants are still keen on higher valuations. Traders should be mindful of how this dynamics could evolve, especially with upcoming economic events that may trigger further volatility.\n\nWHAT TO WATCH  \n• Watch for reactions around the prior-day low at 81.51 for potential support or a break that could lead to further bearish sentiment.  \n• Monitor upcoming JPY economic data releases today for their impact on broader market sentiment, particularly with respect to oil movements.  \n• Pay attention to the consolidation phase between killzones for signs of accumulation or distribution.\n\nSAGE INSIGHT: Today's price action demonstrates a classic Judas swing, where initial moves towards the highs may lure late entrants before a potential reversal. The sweep of the prior-day high may have set up a false sense of bullish momentum, inviting traders to chase price, while the underlying pressure and geopolitical tensions suggest a need for caution. This teaches that understanding the market's intention behind movements is crucial before committing to positions."
+    "markets": "Markets are currently experiencing a strong upward push, with price firmly holding near session highs as the New York PM killzone is active. The recent rally is largely driven by significant gains in technology stocks, particularly Microsoft, which has bolstered the overall sentiment in the equity markets.\n\n• The session trend has been bullish since the Asia session, with price now navigating higher in the NY session.  \n• Recent action shows price holding near the highs, indicating strong buyer interest.  \n• Currently, price sits in the equilibrium zone of its working range, between 51630 and 53105, with a notable prior-day high at 53033, which remains untapped.\n\nThe backdrop of the market today reflects a recovery from recent sell-offs, suggesting that smart money may be targeting liquidity in this PM session. The declining US Dollar and rising bond yields further contribute to a favorable environment for equities, suggesting a search for higher returns in stocks.\n\nWHAT TO WATCH  \n• Observe the reaction at the prior-day high of 53033; a sweep here could indicate further bullish momentum.  \n• Monitor the action around the equilibrium level at 52368 for potential rebalancing or pullbacks.  \n• High-impact events today, including the BOJ Policy Rate and Monetary Policy Statement, could induce volatility, particularly if any surprises emerge.\n\nSAGE INSIGHT: Today’s move illustrates the concept of a breaker block. As price approaches the prior-day high of 53033, it could activate a breaker if liquidity is sought above this level. A successful sweep of this area would likely lead to a displacement higher, creating a new structure that confirms bullish intent. Understanding the dynamics of breaker blocks can help traders anticipate potential price action shifts in similar scenarios.",
+    "nasdaq": "The Nasdaq 100 is currently experiencing a robust upward move as the New York PM killzone is active, with price pushing higher and maintaining momentum near the session highs. This rally comes despite recent reports indicating a correction phase driven by concerns over semiconductor stocks and broader tech sector jitters related to AI. \n\n• Price has been trading higher since the Asia session, indicating strong buying interest.\n• Recent action shows the Nasdaq comfortably sitting in the premium zone of its current range, having swept prior-day buyside liquidity at 28178.\n• The downtrend in the US Dollar Index and a drop in volatility are likely supporting the risk-on sentiment in tech.\n\nWhile the recent headlines paint a picture of caution regarding the correction, today’s rally suggests that smart money is actively seeking liquidity, capitalizing on favorable conditions. The Nasdaq’s movement reflects a clear displacement from the prior bearish sentiment, highlighting a potential shift in market structure.\n\nWHAT TO WATCH  \n• Monitor reactions around the prior-day low at 27202; a sweep could signal further bullish intent.  \n• Keep an eye on the upcoming JPY BOJ Policy Rate and Monetary Policy Statement for potential market-moving volatility.  \n• Watch for signs of further displacement as price interacts with the upper bounds of the current range.\n\nSAGE INSIGHT: Today’s rally exemplifies the concept of displacement. As the Nasdaq moves upward, it indicates a significant shift from bearish sentiment to bullish action, especially as it clears prior liquidity levels. This teaches us that displacement often signals a change in market dynamics, allowing traders to position themselves for potential new trends as liquidity is sought in a bullish context.",
+    "s&p 500": "The S&P 500 is currently experiencing a robust rally, pushing higher and holding near the day's highs as we enter the New York PM killzone. This session has seen price action trend upward since the Asia session, with the index firmly positioned in the premium zone of its working range.\n\n• Major tech stocks are leading the charge, particularly Microsoft, which has significantly boosted market sentiment.\n• Investors are digesting recent economic data, including inflation figures, as they weigh the Federal Reserve's stance on interest rates.\n• The US Dollar Index is down, supporting a risk-on environment, while bond yields are rising, influencing market dynamics.\n\nAs the session progresses, price remains near the prior-day high of 7501, which has yet to be swept, indicating potential liquidity targets that could be of interest to smart money. The backdrop of rising yields and a drop in volatility suggests that traders are seeking liquidity amidst a more bullish sentiment.\n\nWHAT TO WATCH  \n• Observe reactions around the prior-day high of 7501 to gauge if liquidity will be swept.  \n• Monitor the impact of today's JPY BOJ Policy Rate later, as it may influence broader market sentiment.  \n• Watch for any shifts in market structure, particularly if price shows signs of displacement or a break of structure today.\n\nSAGE INSIGHT: Today’s price action illustrates a classic liquidity sweep scenario. As the S&P 500 rallies towards the prior-day high, the potential for a liquidity raid is significant, particularly if smart money seeks to clear the untested buy-side liquidity. This teaches us that during periods of strong upward momentum, traders should be vigilant for areas where liquidity may be waiting to be captured, often just above untested highs.",
+    "crypto": "Crypto is currently experiencing an upward push as the New York PM killzone unfolds, a time when smart money typically seeks liquidity. Price is holding near the session highs after clearing prior-day liquidity levels, indicating strong buying interest.\n\n• The US Dollar Index is down, providing a favorable backdrop for crypto assets.\n• Sentiment remains cautious, with the Crypto Fear & Greed Index at 28, suggesting fear in the market could lead to liquidity raids on late shorts.\n• Price has been trading higher since the Asia session, now in the premium zone of its current working range, with recent action maintaining strength near the top.\n\nWith the recent sweep of the prior-day high at 64660, the market has shown a commitment to taking buyside liquidity. The focus now shifts to upcoming developments, particularly the JPY BOJ Policy Rate and Monetary Policy Statement, which could introduce volatility into the broader market.\n\nWHAT TO WATCH  \n• Observe price reactions around the prior-day high of 64660, as this level could serve as both a target and a potential mitigation block.  \n• Watch for structural shifts as price holds in the premium zone around 63920, which may indicate further accumulation or distribution.  \n• Keep an eye on the JPY BOJ Policy Rate announcement today, as it may impact liquidity flows across the crypto space.\n\nSAGE INSIGHT: Today's market action illustrates a classic turtle soup setup, where price appears to be reversing from a perceived bearish trend into a bullish movement. This could entice traders to enter short positions, only to be caught off guard as liquidity is swept from these positions. Understanding the dynamics of this setup helps traders recognize potential false breakdowns that can lead to significant upward moves, reinforcing the importance of waiting for confirmation before entering trades.",
+    "forex": "The forex market has been trading higher since the Asia session and continues to strengthen as we enter the New York PM killzone, a period often marked by liquidity-seeking behavior from smart money. Recent action shows price coiling in a tight, balanced range, now positioned in the premium zone of its current working range. Notably, the prior-day high at 1.14929 has been swept, indicating that buyside liquidity has been taken.\n\n• The US Dollar Index is down, contributing to the upward trajectory of the forex market. \n• The 10Y yield is rising, which typically exerts pressure on currencies, yet the current move suggests stronger buying interest.\n• Market sentiment appears mixed as traders digest recent CPI data and its implications for Fed policy.\n\nAs we navigate through this active killzone, expect further shifts as liquidity is sought, particularly with the upcoming Bank of Japan policy announcements and statements that could influence the JPY.\n\nWHAT TO WATCH\n• Watch for reactions around the prior-day low at 1.13792 for potential liquidity runs.\n• Keep an eye on how the market reacts to the JPY's monetary policy announcements today—these could shift market dynamics.\n• Observe any displacement patterns that may emerge as price interacts with the premium zone.\n\nSAGE INSIGHT: Displacement occurs when price makes a decisive move away from a previous range, indicating a shift in market sentiment and behavior. Today’s upward momentum suggests strong buyer interest and may signal the establishment of a new higher range, especially following the sweep of the prior high. Understanding this displacement helps traders identify potential continuation patterns or reversals as the market seeks balance.",
+    "gold": "Gold is experiencing a solid uptick as it trades higher in the New York PM killzone, with price currently moving through a coiled range after sweeping prior-day highs. The recent strength has seen gold capture buyside liquidity, indicating robust interest as it approaches the premium zone within its current range. \n\n• The US Dollar Index is weakening, providing a supportive backdrop for gold as it rises.\n• The US 10Y yield is climbing, which could add pressure in the longer term, but for now, gold benefits from the prevailing sentiment.\n• Market volatility is decreasing, often leading to increased risk appetite, which aligns with gold's upward movement.\n\nAs we enter this active window, gold's recent action suggests it is poised to continue seeking further liquidity, particularly as traders digest upcoming economic events, including the Bank of Japan's policy decisions today. \n\nWHAT TO WATCH  \n• Watch for reactions around the prior-day high of 4177; this zone could provide insight into buyer strength or potential exhaustion.  \n• Keep an eye on the upcoming JPY BOJ monetary policy announcements, as this could generate volatility in the markets.  \n• Look for any shifts in market structure that could indicate a break of structure, particularly if price tests lower bounds of the recent coiling range.  \n\nSAGE INSIGHT: Today’s liquidity sweep at the prior-day high demonstrates how price can efficiently target areas where orders are stacked, providing opportunities for smart money to capitalize on excess liquidity. This emphasizes the importance of monitoring key structural levels as potential liquidity magnets, especially during active killzones. Understanding where liquidity resides can enhance your trading strategy.",
+    "oil": "Oil is currently under pressure as the New York PM killzone unfolds, with price action pulling back and pressing the lows after a bearish session since the Asia open. The market is navigating a premium zone, having recently swept the prior-day high of 85.57 — a clear liquidity grab that has shifted the narrative. \n\n• Recent headlines emphasize fluctuating dynamics, with a pause in U.S.-Iran hostilities contributing to the current slide below $90 for Brent crude. \n• Meanwhile, rising volatility and a strengthening dollar are adding pressure to oil prices, highlighting the interconnected nature of macroeconomic factors.\n• The recent action suggests a potential focus on the prior-day low of 81.51, which remains untested and could attract interest as traders assess the balance between supply and demand.\n\nAs we approach the close, the interplay of these influences is shaping the market's trajectory, particularly in this active killzone.\n\nWHAT TO WATCH  \n• Watch for reactions near the prior-day low of 81.51, which could signal an interest in liquidity at that level.  \n• Monitor any shifts in market structure that may indicate a break of structure (BOS) if price attempts to reclaim higher levels.  \n• Keep an eye on the economic calendar for the upcoming CAD GDP release, as it may impact overall sentiment and trading decisions in the oil market.\n\nSAGE INSIGHT: Today's price movement reflects the concept of a Judas swing, where the market initially misleads participants by sweeping liquidity above a prior high before reversing direction. This behavior teaches us to be cautious of false signals that may lure traders into long positions before a significant pullback, emphasizing the importance of understanding market structure and liquidity dynamics."
   },
   "updated": {
-    "markets": "2026-07-30T16:25:58.453231+00:00",
-    "nasdaq": "2026-07-30T16:26:03.326038+00:00",
-    "s&p 500": "2026-07-30T16:26:09.976286+00:00",
-    "crypto": "2026-07-30T16:26:15.087495+00:00",
-    "forex": "2026-07-30T16:26:19.317501+00:00",
-    "gold": "2026-07-30T16:26:24.627448+00:00",
-    "oil": "2026-07-30T16:26:30.190513+00:00"
+    "markets": "2026-07-30T19:25:50.494015+00:00",
+    "nasdaq": "2026-07-30T19:25:55.766729+00:00",
+    "s&p 500": "2026-07-30T19:26:01.677152+00:00",
+    "crypto": "2026-07-30T19:26:10.281970+00:00",
+    "forex": "2026-07-30T19:26:15.096112+00:00",
+    "gold": "2026-07-30T19:26:21.316661+00:00",
+    "oil": "2026-07-30T19:26:27.692502+00:00"
   },
   "prices": {
     "markets": {
-      "price": 52158.0,
-      "change_pct": 0.76,
+      "price": 52388.0,
+      "change_pct": 1.2,
       "currency": "USD",
-      "as_of": "2026-07-30T16:25:50.907837+00:00"
+      "as_of": "2026-07-30T19:25:44.011018+00:00"
     },
     "nasdaq": {
-      "price": 28182.0,
-      "change_pct": 3.07,
+      "price": 28267.5,
+      "change_pct": 3.38,
       "currency": "USD",
-      "as_of": "2026-07-30T16:25:58.569295+00:00"
+      "as_of": "2026-07-30T19:25:50.565742+00:00"
     },
     "s&p 500": {
-      "price": 7442.0,
-      "change_pct": 1.23,
+      "price": 7473.0,
+      "change_pct": 1.66,
       "currency": "USD",
-      "as_of": "2026-07-30T16:26:03.437917+00:00"
+      "as_of": "2026-07-30T19:25:55.830037+00:00"
     },
     "crypto": {
-      "price": 64809.79,
-      "change_pct": 1.42,
+      "price": 64804.57,
+      "change_pct": 1.41,
       "currency": "USD",
-      "as_of": "2026-07-30T16:26:10.093921+00:00"
+      "as_of": "2026-07-30T19:26:02.833496+00:00"
     },
     "forex": {
-      "price": 1.1531,
-      "change_pct": 0.58,
+      "price": 1.1537,
+      "change_pct": 0.63,
       "currency": "USD",
-      "as_of": "2026-07-30T16:26:15.218084+00:00"
+      "as_of": "2026-07-30T19:26:10.347825+00:00"
     },
     "gold": {
-      "price": 4173.8,
-      "change_pct": 1.87,
+      "price": 4164.4,
+      "change_pct": 1.65,
       "currency": "USD",
-      "as_of": "2026-07-30T16:26:19.433141+00:00"
+      "as_of": "2026-07-30T19:26:15.170365+00:00"
     },
     "oil": {
-      "price": 84.03,
-      "change_pct": -0.51,
+      "price": 83.62,
+      "change_pct": -0.99,
       "currency": "USD",
-      "as_of": "2026-07-30T16:26:24.744708+00:00"
+      "as_of": "2026-07-30T19:26:21.346606+00:00"
     }
   },
   "structures": {
     "markets": {
-      "price": 52158.0,
+      "price": 52388.0,
       "session": "NY",
       "zone": "equilibrium",
       "trend": "up",
       "session_trend": "trading higher since the Asia session",
-      "momentum": "flat",
-      "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 35.8,
+      "momentum": "up",
+      "recent_action": "pushing higher and holding near the highs",
+      "range_pct": 51.4,
       "prior_day_high": 53033.0,
       "prior_day_low": 51630.0,
       "pdh_swept": false,
       "pdl_swept": false,
-      "today_high": 52171.0,
+      "today_high": 52415.0,
       "today_low": 51732.0,
       "range_high": 53105.0,
       "range_low": 51630.0,
@@ -178,29 +178,29 @@
           51755.0
         ],
         "NY": [
-          52171.0,
+          52415.0,
           51800.0
         ]
       }
     },
     "nasdaq": {
-      "price": 28182.0,
+      "price": 28267.5,
       "session": "NY",
       "zone": "premium",
       "trend": "up",
       "session_trend": "trading higher since the Asia session",
-      "momentum": "flat",
-      "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 93.8,
+      "momentum": "up",
+      "recent_action": "pushing higher and holding near the highs",
+      "range_pct": 97.4,
       "prior_day_high": 28178.25,
       "prior_day_low": 27201.5,
       "pdh_swept": true,
       "pdl_swept": false,
-      "today_high": 28246.5,
+      "today_high": 28296.5,
       "today_low": 27337.5,
-      "range_high": 28246.5,
+      "range_high": 28296.5,
       "range_low": 27201.5,
-      "equilibrium": 27724.0,
+      "equilibrium": 27749.0,
       "sessions": {
         "Asia": [
           27696.75,
@@ -211,25 +211,25 @@
           27337.5
         ],
         "NY": [
-          28246.5,
+          28296.5,
           27695.75
         ]
       }
     },
     "s&p 500": {
-      "price": 7442.25,
+      "price": 7473.0,
       "session": "NY",
-      "zone": "equilibrium",
+      "zone": "premium",
       "trend": "up",
       "session_trend": "trading higher since the Asia session",
-      "momentum": "flat",
-      "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 66.8,
+      "momentum": "up",
+      "recent_action": "pushing higher and holding near the highs",
+      "range_pct": 84.2,
       "prior_day_high": 7501.0,
       "prior_day_low": 7324.0,
       "pdh_swept": false,
       "pdl_swept": false,
-      "today_high": 7446.5,
+      "today_high": 7477.75,
       "today_low": 7351.5,
       "range_high": 7501.0,
       "range_low": 7324.0,
@@ -244,7 +244,7 @@
           7351.5
         ],
         "NY": [
-          7446.5,
+          7477.75,
           7392.75
         ]
       }
@@ -283,23 +283,23 @@
       }
     },
     "forex": {
-      "price": 1.15314,
+      "price": 1.15367,
       "session": "NY",
       "zone": "premium",
       "trend": "up",
       "session_trend": "trading higher since the Asia session",
       "momentum": "flat",
       "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 96.3,
+      "range_pct": 98.5,
       "prior_day_high": 1.14929,
       "prior_day_low": 1.13792,
       "pdh_swept": true,
       "pdl_swept": false,
-      "today_high": 1.1538,
+      "today_high": 1.15393,
       "today_low": 1.1439,
-      "range_high": 1.1538,
+      "range_high": 1.15393,
       "range_low": 1.13572,
-      "equilibrium": 1.14476,
+      "equilibrium": 1.14483,
       "sessions": {
         "Asia": [
           1.14718,
@@ -310,20 +310,20 @@
           1.1439
         ],
         "NY": [
-          1.1538,
+          1.15393,
           1.14732
         ]
       }
     },
     "gold": {
-      "price": 4173.7998,
+      "price": 4164.3999,
       "session": "NY",
       "zone": "premium",
       "trend": "up",
       "session_trend": "trading higher since the Asia session",
       "momentum": "flat",
       "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 96.3,
+      "range_pct": 90.8,
       "prior_day_high": 4176.7998,
       "prior_day_low": 4009.30005,
       "pdh_swept": true,
@@ -349,14 +349,14 @@
       }
     },
     "oil": {
-      "price": 84.03,
+      "price": 83.62,
       "session": "NY",
       "zone": "premium",
       "trend": "down",
       "session_trend": "under pressure since the Asia session",
-      "momentum": "up",
-      "recent_action": "grinding up off the lows",
-      "range_pct": 76.6,
+      "momentum": "down",
+      "recent_action": "pulling back and pressing the lows",
+      "range_pct": 71.6,
       "prior_day_high": 85.57,
       "prior_day_low": 81.51,
       "pdh_swept": true,
@@ -382,8 +382,8 @@
       }
     }
   },
-  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) down 0.88%; US 10Y yield up 0.89%; Volatility (VIX) down 11.62%.",
+  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) down 0.93%; US 10Y yield up 0.89%; Volatility (VIX) down 15.44%.",
   "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): JPY BOJ Policy Rate (today); JPY Monetary Policy Statement (today); JPY BOJ Outlook Report (today); JPY BOJ Press Conference (tomorrow); CAD GDP m/m (tomorrow).",
-  "timing": "TIMING: 12:25 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
+  "timing": "TIMING: 15:25 New York time — the New York PM killzone is active right now (a window when smart money commonly seeks liquidity).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 28 (Fear) — a contrarian gauge of crowd positioning."
 }
