@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-08-02T08:32:45.528916+00:00",
+  "last_updated": "2026-08-02T10:41:00.287620+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -110,43 +110,43 @@
       "price": 52635.0,
       "change_pct": 0.49,
       "currency": "USD",
-      "as_of": "2026-08-02T08:32:28.009180+00:00"
+      "as_of": "2026-08-02T10:40:40.008071+00:00"
     },
     "nasdaq": {
       "price": 28404.25,
       "change_pct": 0.59,
       "currency": "USD",
-      "as_of": "2026-08-02T08:32:32.073940+00:00"
+      "as_of": "2026-08-02T10:40:43.894885+00:00"
     },
     "s&p 500": {
       "price": 7519.25,
       "change_pct": 0.63,
       "currency": "USD",
-      "as_of": "2026-08-02T08:32:34.653546+00:00"
+      "as_of": "2026-08-02T10:40:46.982601+00:00"
     },
     "crypto": {
-      "price": 63329.67,
-      "change_pct": 0.9,
+      "price": 63136.51,
+      "change_pct": 0.6,
       "currency": "USD",
-      "as_of": "2026-08-02T08:32:36.900355+00:00"
+      "as_of": "2026-08-02T10:40:50.024315+00:00"
     },
     "forex": {
       "price": 1.1527,
       "change_pct": -0.02,
       "currency": "USD",
-      "as_of": "2026-08-02T08:32:39.103517+00:00"
+      "as_of": "2026-08-02T10:40:52.899120+00:00"
     },
     "gold": {
       "price": 4107.0,
       "change_pct": -1.29,
       "currency": "USD",
-      "as_of": "2026-08-02T08:32:41.063263+00:00"
+      "as_of": "2026-08-02T10:40:55.396240+00:00"
     },
     "oil": {
       "price": 84.67,
       "change_pct": 1.29,
       "currency": "USD",
-      "as_of": "2026-08-02T08:32:43.270986+00:00"
+      "as_of": "2026-08-02T10:40:57.967577+00:00"
     }
   },
   "structures": {
@@ -262,7 +262,7 @@
       "prior_day_low": 62263.0,
       "pdh_swept": true,
       "pdl_swept": false,
-      "today_high": 63561.0,
+      "today_high": 63549.0,
       "today_low": 62457.0,
       "range_high": 65305.0,
       "range_low": 62263.0,
@@ -273,7 +273,7 @@
           62457.0
         ],
         "London": [
-          63561.0,
+          63549.0,
           63362.0
         ]
       }
@@ -380,6 +380,6 @@
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) down 0.11%; US 10Y yield up 1.76%; Volatility (VIX) down 6.44%.",
   "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): USD ISM Manufacturing PMI (tomorrow); NZD Employment Change q/q (Tue); NZD Unemployment Rate (Tue); CAD Employment Change (Fri); CAD Unemployment Rate (Fri); USD Average Hourly Earnings m/m (Fri).",
-  "timing": "TIMING: 04:32 New York time — the London killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "timing": "TIMING: 06:40 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 27 (Fear) — a contrarian gauge of crowd positioning."
 }
