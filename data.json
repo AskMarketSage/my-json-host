@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-08-02T13:20:21.938392+00:00",
+  "last_updated": "2026-08-02T16:00:25.037563+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -110,43 +110,43 @@
       "price": 52635.0,
       "change_pct": 0.49,
       "currency": "USD",
-      "as_of": "2026-08-02T13:19:59.950516+00:00"
+      "as_of": "2026-08-02T16:00:03.398975+00:00"
     },
     "nasdaq": {
       "price": 28404.25,
       "change_pct": 0.59,
       "currency": "USD",
-      "as_of": "2026-08-02T13:20:04.284166+00:00"
+      "as_of": "2026-08-02T16:00:08.351733+00:00"
     },
     "s&p 500": {
       "price": 7519.25,
       "change_pct": 0.63,
       "currency": "USD",
-      "as_of": "2026-08-02T13:20:06.919560+00:00"
+      "as_of": "2026-08-02T16:00:11.265395+00:00"
     },
     "crypto": {
-      "price": 62999.99,
-      "change_pct": 0.38,
+      "price": 63053.12,
+      "change_pct": 0.46,
       "currency": "USD",
-      "as_of": "2026-08-02T13:20:09.751047+00:00"
+      "as_of": "2026-08-02T16:00:14.136753+00:00"
     },
     "forex": {
       "price": 1.1527,
       "change_pct": -0.02,
       "currency": "USD",
-      "as_of": "2026-08-02T13:20:12.449133+00:00"
+      "as_of": "2026-08-02T16:00:17.095779+00:00"
     },
     "gold": {
       "price": 4107.0,
       "change_pct": -1.29,
       "currency": "USD",
-      "as_of": "2026-08-02T13:20:16.790360+00:00"
+      "as_of": "2026-08-02T16:00:19.427064+00:00"
     },
     "oil": {
       "price": 84.67,
       "change_pct": 1.29,
       "currency": "USD",
-      "as_of": "2026-08-02T13:20:19.444452+00:00"
+      "as_of": "2026-08-02T16:00:22.507218+00:00"
     }
   },
   "structures": {
@@ -384,6 +384,6 @@
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) down 0.11%; US 10Y yield up 1.76%; Volatility (VIX) down 6.44%.",
   "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): USD ISM Manufacturing PMI (tomorrow); NZD Employment Change q/q (Tue); NZD Unemployment Rate (Tue); CAD Employment Change (Fri); CAD Unemployment Rate (Fri); USD Average Hourly Earnings m/m (Fri).",
-  "timing": "TIMING: 09:19 New York time — the New York AM killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "timing": "TIMING: 12:00 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 27 (Fear) — a contrarian gauge of crowd positioning."
 }
