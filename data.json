@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-08-02T19:09:25.897359+00:00",
+  "last_updated": "2026-08-02T21:56:12.292641+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -108,45 +108,45 @@
   "prices": {
     "markets": {
       "price": 52635.0,
-      "change_pct": 0.49,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-08-02T19:09:07.702796+00:00"
+      "as_of": "2026-08-02T21:55:53.320825+00:00"
     },
     "nasdaq": {
       "price": 28404.25,
-      "change_pct": 0.59,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-08-02T19:09:11.559470+00:00"
+      "as_of": "2026-08-02T21:55:57.069655+00:00"
     },
     "s&p 500": {
       "price": 7519.25,
-      "change_pct": 0.63,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-08-02T19:09:14.126738+00:00"
+      "as_of": "2026-08-02T21:56:00.205165+00:00"
     },
     "crypto": {
-      "price": 63285.9,
-      "change_pct": 0.83,
+      "price": 63505.14,
+      "change_pct": 1.18,
       "currency": "USD",
-      "as_of": "2026-08-02T19:09:16.567144+00:00"
+      "as_of": "2026-08-02T21:56:02.941825+00:00"
     },
     "forex": {
-      "price": 1.1527,
-      "change_pct": -0.02,
+      "price": 1.155,
+      "change_pct": 0.18,
       "currency": "USD",
-      "as_of": "2026-08-02T19:09:19.038486+00:00"
+      "as_of": "2026-08-02T21:56:05.267222+00:00"
     },
     "gold": {
       "price": 4107.0,
-      "change_pct": -1.29,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-08-02T19:09:21.304402+00:00"
+      "as_of": "2026-08-02T21:56:07.522706+00:00"
     },
     "oil": {
       "price": 84.67,
-      "change_pct": 1.29,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-08-02T19:09:23.609171+00:00"
+      "as_of": "2026-08-02T21:56:09.916080+00:00"
     }
   },
   "structures": {
@@ -250,14 +250,14 @@
       }
     },
     "crypto": {
-      "price": 63053.0,
+      "price": 63397.0,
       "session": "NY",
-      "zone": "discount",
+      "zone": "equilibrium",
       "trend": "up",
       "session_trend": "trading higher since the Asia session",
       "momentum": "up",
       "recent_action": "pushing higher and holding near the highs",
-      "range_pct": 26.0,
+      "range_pct": 37.3,
       "prior_day_high": 63089.0,
       "prior_day_low": 62263.0,
       "pdh_swept": true,
@@ -277,7 +277,7 @@
           63362.0
         ],
         "NY": [
-          63471.0,
+          63493.0,
           62942.0
         ]
       }
@@ -384,6 +384,6 @@
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) down 0.11%; US 10Y yield up 1.76%; Volatility (VIX) down 6.44%.",
   "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): USD ISM Manufacturing PMI (tomorrow); NZD Employment Change q/q (Tue); NZD Unemployment Rate (Tue); CAD Employment Change (Fri); CAD Unemployment Rate (Fri); USD Average Hourly Earnings m/m (Fri).",
-  "timing": "TIMING: 15:09 New York time — the New York PM killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "timing": "TIMING: 17:55 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 27 (Fear) — a contrarian gauge of crowd positioning."
 }
