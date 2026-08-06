@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-08-06T08:35:40.678664+00:00",
+  "last_updated": "2026-08-06T11:23:41.932536+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -110,43 +110,43 @@
       "price": 54624.0,
       "change_pct": 0.24,
       "currency": "USD",
-      "as_of": "2026-08-06T08:35:21.823679+00:00"
+      "as_of": "2026-08-06T11:23:23.648596+00:00"
     },
     "nasdaq": {
       "price": 29537.25,
       "change_pct": -0.26,
       "currency": "USD",
-      "as_of": "2026-08-06T08:35:26.109809+00:00"
+      "as_of": "2026-08-06T11:23:27.644758+00:00"
     },
     "s&p 500": {
       "price": 7760.0,
       "change_pct": 0.14,
       "currency": "USD",
-      "as_of": "2026-08-06T08:35:28.933321+00:00"
+      "as_of": "2026-08-06T11:23:30.423680+00:00"
     },
     "crypto": {
       "price": 64786.2,
       "change_pct": 0.28,
       "currency": "USD",
-      "as_of": "2026-08-06T08:35:31.652244+00:00"
+      "as_of": "2026-08-06T11:23:32.744289+00:00"
     },
     "forex": {
       "price": 1.1546,
       "change_pct": -0.08,
       "currency": "USD",
-      "as_of": "2026-08-06T08:35:33.900000+00:00"
+      "as_of": "2026-08-06T11:23:35.053635+00:00"
     },
     "gold": {
       "price": 4320.7,
       "change_pct": 0.36,
       "currency": "USD",
-      "as_of": "2026-08-06T08:35:36.190222+00:00"
+      "as_of": "2026-08-06T11:23:37.239222+00:00"
     },
     "oil": {
       "price": 75.2,
       "change_pct": -0.03,
       "currency": "USD",
-      "as_of": "2026-08-06T08:35:38.462911+00:00"
+      "as_of": "2026-08-06T11:23:39.697699+00:00"
     }
   },
   "structures": {
@@ -356,6 +356,6 @@
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.07%; US 10Y yield down 0.22%; Volatility (VIX) up 0.25%.",
   "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): CAD Employment Change (tomorrow); CAD Unemployment Rate (tomorrow); USD Average Hourly Earnings m/m (tomorrow); USD Non-Farm Employment Change (tomorrow); USD Unemployment Rate (tomorrow).",
-  "timing": "TIMING: 04:35 New York time — the London killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "timing": "TIMING: 07:23 New York time — the New York AM killzone is active right now (a window when smart money commonly seeks liquidity).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 25 (Extreme Fear) — a contrarian gauge of crowd positioning."
 }
