@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-08-09T12:49:15.646806+00:00",
+  "last_updated": "2026-08-09T15:31:12.870002+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -110,43 +110,43 @@
       "price": 54152.0,
       "change_pct": 0.26,
       "currency": "USD",
-      "as_of": "2026-08-09T12:48:56.934237+00:00"
+      "as_of": "2026-08-09T15:30:52.963616+00:00"
     },
     "nasdaq": {
       "price": 29834.75,
       "change_pct": 1.18,
       "currency": "USD",
-      "as_of": "2026-08-09T12:49:01.020776+00:00"
+      "as_of": "2026-08-09T15:30:56.984702+00:00"
     },
     "s&p 500": {
       "price": 7779.75,
       "change_pct": 0.58,
       "currency": "USD",
-      "as_of": "2026-08-09T12:49:03.971221+00:00"
+      "as_of": "2026-08-09T15:30:59.563336+00:00"
     },
     "crypto": {
-      "price": 64890.47,
-      "change_pct": -0.03,
+      "price": 65180.19,
+      "change_pct": 0.42,
       "currency": "USD",
-      "as_of": "2026-08-09T12:49:06.555710+00:00"
+      "as_of": "2026-08-09T15:31:02.252686+00:00"
     },
     "forex": {
       "price": 1.1562,
       "change_pct": 0.32,
       "currency": "USD",
-      "as_of": "2026-08-09T12:49:08.963512+00:00"
+      "as_of": "2026-08-09T15:31:04.972386+00:00"
     },
     "gold": {
       "price": 4399.7,
       "change_pct": 2.33,
       "currency": "USD",
-      "as_of": "2026-08-09T12:49:11.118704+00:00"
+      "as_of": "2026-08-09T15:31:08.407077+00:00"
     },
     "oil": {
       "price": 78.18,
       "change_pct": 1.15,
       "currency": "USD",
-      "as_of": "2026-08-09T12:49:13.296682+00:00"
+      "as_of": "2026-08-09T15:31:10.846258+00:00"
     }
   },
   "structures": {
@@ -384,6 +384,6 @@
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.07%; US 10Y yield down 0.21%; Volatility (VIX) down 1.65%.",
   "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): AUD Cash Rate (Tue); AUD RBA Monetary Policy Statement (Tue); AUD RBA Rate Statement (Tue); AUD RBA Press Conference (Tue); USD Core CPI m/m (Wed); USD Core CPI y/y (Wed).",
-  "timing": "TIMING: 08:48 New York time — the New York AM killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "timing": "TIMING: 11:30 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 31 (Fear) — a contrarian gauge of crowd positioning."
 }
