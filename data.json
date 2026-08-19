@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-08-18T21:23:48.102729+00:00",
+  "last_updated": "2026-08-19T01:12:57.239060+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -107,283 +107,227 @@
   },
   "prices": {
     "markets": {
-      "price": 53406.0,
-      "change_pct": -0.26,
+      "price": 53371.0,
+      "change_pct": -0.06,
       "currency": "USD",
-      "as_of": "2026-08-18T21:23:24.168031+00:00"
+      "as_of": "2026-08-19T01:12:38.902904+00:00"
     },
     "nasdaq": {
-      "price": 29559.5,
-      "change_pct": -1.78,
+      "price": 29546.75,
+      "change_pct": -0.13,
       "currency": "USD",
-      "as_of": "2026-08-18T21:23:28.393645+00:00"
+      "as_of": "2026-08-19T01:12:43.068493+00:00"
     },
     "s&p 500": {
-      "price": 7713.25,
-      "change_pct": -0.71,
+      "price": 7710.25,
+      "change_pct": -0.05,
       "currency": "USD",
-      "as_of": "2026-08-18T21:23:32.712599+00:00"
+      "as_of": "2026-08-19T01:12:45.920748+00:00"
     },
     "crypto": {
-      "price": 64572.88,
-      "change_pct": 0.13,
+      "price": 64468.06,
+      "change_pct": -0.33,
       "currency": "USD",
-      "as_of": "2026-08-18T21:23:35.543228+00:00"
+      "as_of": "2026-08-19T01:12:48.216037+00:00"
     },
     "forex": {
-      "price": 1.1582,
-      "change_pct": 0.01,
+      "price": 1.1577,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-08-18T21:23:38.696144+00:00"
+      "as_of": "2026-08-19T01:12:50.700336+00:00"
     },
     "gold": {
-      "price": 4389.5,
-      "change_pct": -1.88,
+      "price": 4381.9,
+      "change_pct": -0.88,
       "currency": "USD",
-      "as_of": "2026-08-18T21:23:42.648526+00:00"
+      "as_of": "2026-08-19T01:12:52.662409+00:00"
     },
     "oil": {
-      "price": 84.42,
-      "change_pct": 0.81,
+      "price": 84.94,
+      "change_pct": 1.05,
       "currency": "USD",
-      "as_of": "2026-08-18T21:23:45.495602+00:00"
+      "as_of": "2026-08-19T01:12:55.134214+00:00"
     }
   },
   "structures": {
     "markets": {
-      "price": 53406.0,
-      "session": "NY",
-      "zone": "discount",
-      "trend": "down",
-      "session_trend": "under pressure since the Asia session",
-      "momentum": "flat",
-      "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 18.0,
-      "prior_day_high": 53828.0,
-      "prior_day_low": 53464.0,
-      "pdh_swept": false,
-      "pdl_swept": true,
-      "today_high": 53594.0,
-      "today_low": 53311.0,
-      "range_high": 53840.0,
-      "range_low": 53311.0,
-      "equilibrium": 53575.5,
-      "sessions": {
-        "Asia": [
-          53558.0,
-          53424.0
-        ],
-        "London": [
-          53594.0,
-          53382.0
-        ],
-        "NY": [
-          53541.0,
-          53311.0
-        ]
-      }
-    },
-    "nasdaq": {
-      "price": 29559.5,
-      "session": "NY",
-      "zone": "discount",
-      "trend": "down",
-      "session_trend": "under pressure since the Asia session",
-      "momentum": "flat",
-      "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 5.5,
-      "prior_day_high": 30343.0,
-      "prior_day_low": 30054.5,
-      "pdh_swept": false,
-      "pdl_swept": true,
-      "today_high": 30121.25,
-      "today_low": 29514.0,
-      "range_high": 30343.0,
-      "range_low": 29514.0,
-      "equilibrium": 29928.5,
-      "sessions": {
-        "Asia": [
-          30121.25,
-          29786.0
-        ],
-        "London": [
-          29896.5,
-          29687.25
-        ],
-        "NY": [
-          29786.0,
-          29514.0
-        ]
-      }
-    },
-    "s&p 500": {
-      "price": 7713.25,
-      "session": "NY",
-      "zone": "discount",
-      "trend": "down",
-      "session_trend": "under pressure since the Asia session",
-      "momentum": "flat",
-      "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 2.6,
-      "prior_day_high": 7824.5,
-      "prior_day_low": 7762.5,
-      "pdh_swept": false,
-      "pdl_swept": true,
-      "today_high": 7770.5,
-      "today_low": 7710.25,
-      "range_high": 7824.5,
-      "range_low": 7710.25,
-      "equilibrium": 7767.375,
-      "sessions": {
-        "Asia": [
-          7770.5,
-          7726.0
-        ],
-        "London": [
-          7742.25,
-          7716.5
-        ],
-        "NY": [
-          7739.25,
-          7710.25
-        ]
-      }
-    },
-    "crypto": {
-      "price": 64608.0,
-      "session": "NY",
-      "zone": "premium",
-      "trend": "up",
-      "session_trend": "trading higher since the Asia session",
-      "momentum": "up",
-      "recent_action": "pushing higher and holding near the highs",
-      "range_pct": 85.2,
-      "prior_day_high": 64516.0,
-      "prior_day_low": 62667.0,
-      "pdh_swept": true,
-      "pdl_swept": false,
-      "today_high": 64946.0,
-      "today_low": 63996.0,
-      "range_high": 64946.0,
-      "range_low": 62667.0,
-      "equilibrium": 63806.5,
-      "sessions": {
-        "Asia": [
-          64509.0,
-          63996.0
-        ],
-        "London": [
-          64391.0,
-          64040.0
-        ],
-        "NY": [
-          64946.0,
-          64014.0
-        ]
-      }
-    },
-    "forex": {
-      "price": 1.15821,
+      "price": 53371.0,
       "session": "Asia",
       "zone": "discount",
       "trend": "flat",
       "session_trend": "broadly rangebound since the Asia session",
       "momentum": "flat",
       "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 23.5,
-      "prior_day_high": 1.16171,
-      "prior_day_low": 1.15741,
+      "range_pct": 11.6,
+      "prior_day_high": 53594.0,
+      "prior_day_low": 53311.0,
+      "pdh_swept": false,
+      "pdl_swept": false,
+      "today_high": 53409.0,
+      "today_low": 53362.0,
+      "range_high": 53828.0,
+      "range_low": 53311.0,
+      "equilibrium": 53569.5,
+      "sessions": {
+        "Asia": [
+          53409.0,
+          53362.0
+        ]
+      }
+    },
+    "nasdaq": {
+      "price": 29546.75,
+      "session": "Asia",
+      "zone": "discount",
+      "trend": "flat",
+      "session_trend": "broadly rangebound since the Asia session",
+      "momentum": "flat",
+      "recent_action": "coiling in a tight, balanced range",
+      "range_pct": 11.6,
+      "prior_day_high": 30121.25,
+      "prior_day_low": 29514.0,
       "pdh_swept": false,
       "pdl_swept": true,
-      "today_high": 1.15915,
-      "today_low": 1.15714,
+      "today_high": 29586.0,
+      "today_low": 29442.0,
+      "range_high": 30343.0,
+      "range_low": 29442.0,
+      "equilibrium": 29892.5,
+      "sessions": {
+        "Asia": [
+          29586.0,
+          29442.0
+        ]
+      }
+    },
+    "s&p 500": {
+      "price": 7710.25,
+      "session": "Asia",
+      "zone": "discount",
+      "trend": "flat",
+      "session_trend": "broadly rangebound since the Asia session",
+      "momentum": "flat",
+      "recent_action": "coiling in a tight, balanced range",
+      "range_pct": 6.7,
+      "prior_day_high": 7770.5,
+      "prior_day_low": 7706.75,
+      "pdh_swept": false,
+      "pdl_swept": true,
+      "today_high": 7716.0,
+      "today_low": 7702.0,
+      "range_high": 7824.5,
+      "range_low": 7702.0,
+      "equilibrium": 7763.25,
+      "sessions": {
+        "Asia": [
+          7716.0,
+          7702.0
+        ]
+      }
+    },
+    "crypto": {
+      "price": 64686.0,
+      "session": "Asia",
+      "zone": "premium",
+      "trend": "up",
+      "session_trend": "trading higher since the NY session",
+      "momentum": "up",
+      "recent_action": "pushing higher and holding near the highs",
+      "range_pct": 88.6,
+      "prior_day_high": 64946.0,
+      "prior_day_low": 63996.0,
+      "pdh_swept": false,
+      "pdl_swept": false,
+      "today_high": 64738.0,
+      "today_low": 64529.0,
+      "range_high": 64946.0,
+      "range_low": 62667.0,
+      "equilibrium": 63806.5,
+      "sessions": {
+        "Asia": [
+          64738.0,
+          64529.0
+        ]
+      }
+    },
+    "forex": {
+      "price": 1.15768,
+      "session": "Asia",
+      "zone": "discount",
+      "trend": "flat",
+      "session_trend": "broadly rangebound since the Asia session",
+      "momentum": "flat",
+      "recent_action": "coiling in a tight, balanced range",
+      "range_pct": 11.7,
+      "prior_day_high": 1.15915,
+      "prior_day_low": 1.15714,
+      "pdh_swept": false,
+      "pdl_swept": false,
+      "today_high": 1.15848,
+      "today_low": 1.15754,
       "range_high": 1.16171,
       "range_low": 1.15714,
       "equilibrium": 1.15942,
       "sessions": {
         "Asia": [
-          1.15888,
-          1.15714
-        ],
-        "London": [
-          1.15821,
-          1.15727
-        ],
-        "NY": [
-          1.15915,
+          1.15848,
           1.15754
         ]
       }
     },
     "gold": {
-      "price": 4389.5,
-      "session": "NY",
+      "price": 4381.8999,
+      "session": "Asia",
       "zone": "discount",
-      "trend": "down",
-      "session_trend": "under pressure since the Asia session",
-      "momentum": "down",
-      "recent_action": "pulling back and pressing the lows",
-      "range_pct": 5.6,
-      "prior_day_high": 4486.5,
-      "prior_day_low": 4423.5,
-      "pdh_swept": true,
+      "trend": "flat",
+      "session_trend": "broadly rangebound since the Asia session",
+      "momentum": "flat",
+      "recent_action": "coiling in a tight, balanced range",
+      "range_pct": 3.4,
+      "prior_day_high": 4493.1001,
+      "prior_day_low": 4379.6001,
+      "pdh_swept": false,
       "pdl_swept": true,
-      "today_high": 4493.1001,
-      "today_low": 4383.2998,
+      "today_high": 4401.0,
+      "today_low": 4378.0,
       "range_high": 4493.1001,
-      "range_low": 4383.2998,
-      "equilibrium": 4438.19995,
+      "range_low": 4378.0,
+      "equilibrium": 4435.55005,
       "sessions": {
         "Asia": [
-          4493.1001,
-          4441.3999
-        ],
-        "London": [
-          4459.5,
-          4442.3999
-        ],
-        "NY": [
-          4463.0,
-          4383.2998
+          4401.0,
+          4378.0
         ]
       }
     },
     "oil": {
-      "price": 84.42,
-      "session": "NY",
-      "zone": "equilibrium",
-      "trend": "down",
-      "session_trend": "under pressure since the Asia session",
+      "price": 84.94,
+      "session": "Asia",
+      "zone": "premium",
+      "trend": "up",
+      "session_trend": "trading higher since the Asia session",
       "momentum": "up",
       "recent_action": "pushing higher and holding near the highs",
-      "range_pct": 69.9,
-      "prior_day_high": 85.37,
-      "prior_day_low": 81.5,
-      "pdh_swept": true,
+      "range_pct": 82.3,
+      "prior_day_high": 85.68,
+      "prior_day_low": 83.78,
+      "pdh_swept": false,
       "pdl_swept": false,
-      "today_high": 85.68,
-      "today_low": 83.78,
+      "today_high": 84.96,
+      "today_low": 84.36,
       "range_high": 85.68,
       "range_low": 81.5,
       "equilibrium": 83.59,
       "sessions": {
         "Asia": [
-          85.68,
-          84.62
-        ],
-        "London": [
-          85.32,
-          83.85
-        ],
-        "NY": [
-          85.07,
-          83.78
+          84.96,
+          84.36
         ]
       }
     }
   },
-  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.02%; US 10Y yield down 0.38%; Volatility (VIX) up 4.28%.",
-  "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): GBP CPI y/y (tomorrow); USD FOMC Meeting Minutes (tomorrow); AUD Employment Change (tomorrow); AUD Unemployment Rate (tomorrow).",
-  "timing": "TIMING: 17:23 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
-  "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 41 (Fear) — a contrarian gauge of crowd positioning."
+  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.01%; US 10Y yield down 0.38%; Volatility (VIX) up 4.28%.",
+  "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): GBP CPI y/y (today); USD FOMC Meeting Minutes (today); AUD Employment Change (today); AUD Unemployment Rate (today).",
+  "timing": "TIMING: 21:12 New York time — the Asian killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 46 (Fear) — a contrarian gauge of crowd positioning."
 }
