@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-08-23T01:17:35.509148+00:00",
+  "last_updated": "2026-08-23T03:50:35.828026+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -110,43 +110,43 @@
       "price": 53353.0,
       "change_pct": 0.95,
       "currency": "USD",
-      "as_of": "2026-08-23T01:17:13.946095+00:00"
+      "as_of": "2026-08-23T03:50:17.739655+00:00"
     },
     "nasdaq": {
       "price": 29387.75,
       "change_pct": 0.3,
       "currency": "USD",
-      "as_of": "2026-08-23T01:17:18.250781+00:00"
+      "as_of": "2026-08-23T03:50:22.386046+00:00"
     },
     "s&p 500": {
       "price": 7691.25,
       "change_pct": 0.38,
       "currency": "USD",
-      "as_of": "2026-08-23T01:17:21.186972+00:00"
+      "as_of": "2026-08-23T03:50:24.571592+00:00"
     },
     "crypto": {
-      "price": 77373.01,
-      "change_pct": 0.39,
+      "price": 76949.28,
+      "change_pct": -0.16,
       "currency": "USD",
-      "as_of": "2026-08-23T01:17:24.323567+00:00"
+      "as_of": "2026-08-23T03:50:26.659907+00:00"
     },
     "forex": {
       "price": 1.1678,
       "change_pct": -0.03,
       "currency": "USD",
-      "as_of": "2026-08-23T01:17:27.120421+00:00"
+      "as_of": "2026-08-23T03:50:29.132579+00:00"
     },
     "gold": {
       "price": 4680.6,
       "change_pct": 2.39,
       "currency": "USD",
-      "as_of": "2026-08-23T01:17:29.938022+00:00"
+      "as_of": "2026-08-23T03:50:31.121741+00:00"
     },
     "oil": {
       "price": 87.06,
       "change_pct": 0.26,
       "currency": "USD",
-      "as_of": "2026-08-23T01:17:32.728464+00:00"
+      "as_of": "2026-08-23T03:50:33.720358+00:00"
     }
   },
   "structures": {
@@ -263,14 +263,14 @@
       "pdh_swept": false,
       "pdl_swept": false,
       "today_high": 77438.0,
-      "today_low": 76815.0,
+      "today_low": 76841.0,
       "range_high": 79320.0,
       "range_low": 72500.0,
       "equilibrium": 75910.0,
       "sessions": {
         "Asia": [
           77438.0,
-          76815.0
+          76841.0
         ]
       }
     },
@@ -376,6 +376,6 @@
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.04%; US 10Y yield up 0.89%; Volatility (VIX) down 5.50%.",
   "calendar": "",
-  "timing": "TIMING: 21:17 New York time — the Asian killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "timing": "TIMING: 23:50 New York time — the Asian killzone is active right now (a window when smart money commonly seeks liquidity).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 66 (Greed) — a contrarian gauge of crowd positioning."
 }
