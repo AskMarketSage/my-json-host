@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-09-05T17:10:36.281527+00:00",
+  "last_updated": "2026-09-05T19:59:22.701463+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -110,43 +110,43 @@
       "price": 53440.0,
       "change_pct": -0.57,
       "currency": "USD",
-      "as_of": "2026-09-05T17:10:16.989209+00:00"
+      "as_of": "2026-09-05T19:59:03.888548+00:00"
     },
     "nasdaq": {
       "price": 29565.25,
       "change_pct": 0.14,
       "currency": "USD",
-      "as_of": "2026-09-05T17:10:21.369072+00:00"
+      "as_of": "2026-09-05T19:59:07.850724+00:00"
     },
     "s&p 500": {
       "price": 7722.0,
       "change_pct": -0.42,
       "currency": "USD",
-      "as_of": "2026-09-05T17:10:24.156983+00:00"
+      "as_of": "2026-09-05T19:59:10.447939+00:00"
     },
     "crypto": {
-      "price": 80115.49,
-      "change_pct": 0.55,
+      "price": 79745.21,
+      "change_pct": 0.09,
       "currency": "USD",
-      "as_of": "2026-09-05T17:10:26.662026+00:00"
+      "as_of": "2026-09-05T19:59:12.854741+00:00"
     },
     "forex": {
       "price": 1.1621,
       "change_pct": -0.09,
       "currency": "USD",
-      "as_of": "2026-09-05T17:10:29.137744+00:00"
+      "as_of": "2026-09-05T19:59:15.698462+00:00"
     },
     "gold": {
       "price": 4476.6,
       "change_pct": -1.39,
       "currency": "USD",
-      "as_of": "2026-09-05T17:10:31.287439+00:00"
+      "as_of": "2026-09-05T19:59:17.823736+00:00"
     },
     "oil": {
       "price": 91.48,
       "change_pct": 0.2,
       "currency": "USD",
-      "as_of": "2026-09-05T17:10:33.795922+00:00"
+      "as_of": "2026-09-05T19:59:20.332601+00:00"
     }
   },
   "structures": {
@@ -384,6 +384,6 @@
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.02%; US 10Y yield up 0.46%; Volatility (VIX) up 1.47%.",
   "calendar": "",
-  "timing": "TIMING: 13:10 New York time — the New York PM killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "timing": "TIMING: 15:59 New York time — the New York PM killzone is active right now (a window when smart money commonly seeks liquidity).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 73 (Greed) — a contrarian gauge of crowd positioning."
 }
