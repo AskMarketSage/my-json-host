@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-09-06T17:35:34.914484+00:00",
+  "last_updated": "2026-09-06T20:03:23.726246+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -108,45 +108,45 @@
   "prices": {
     "markets": {
       "price": 53440.0,
-      "change_pct": -0.57,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-09-06T17:35:15.499662+00:00"
+      "as_of": "2026-09-06T20:03:02.893376+00:00"
     },
     "nasdaq": {
       "price": 29565.25,
-      "change_pct": 0.14,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-09-06T17:35:19.651613+00:00"
+      "as_of": "2026-09-06T20:03:07.367007+00:00"
     },
     "s&p 500": {
       "price": 7722.0,
-      "change_pct": -0.42,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-09-06T17:35:22.223107+00:00"
+      "as_of": "2026-09-06T20:03:10.215920+00:00"
     },
     "crypto": {
-      "price": 79718.6,
-      "change_pct": -0.14,
+      "price": 79820.99,
+      "change_pct": -0.01,
       "currency": "USD",
-      "as_of": "2026-09-06T17:35:25.577663+00:00"
+      "as_of": "2026-09-06T20:03:12.807848+00:00"
     },
     "forex": {
-      "price": 1.1621,
-      "change_pct": -0.09,
+      "price": 1.1617,
+      "change_pct": -0.12,
       "currency": "USD",
-      "as_of": "2026-09-06T17:35:28.147387+00:00"
+      "as_of": "2026-09-06T20:03:15.640417+00:00"
     },
     "gold": {
       "price": 4476.6,
-      "change_pct": -1.39,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-09-06T17:35:30.386530+00:00"
+      "as_of": "2026-09-06T20:03:18.977915+00:00"
     },
     "oil": {
       "price": 91.48,
-      "change_pct": 0.2,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-09-06T17:35:32.650543+00:00"
+      "as_of": "2026-09-06T20:03:21.404789+00:00"
     }
   },
   "structures": {
@@ -384,6 +384,6 @@
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.02%; US 10Y yield up 0.46%; Volatility (VIX) up 1.47%.",
   "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): EUR Main Refinancing Rate (Thu); EUR Monetary Policy Statement (Thu); USD Core PPI m/m (Thu); USD PPI m/m (Thu); EUR ECB Press Conference (Thu); GBP GDP m/m (Fri).",
-  "timing": "TIMING: 13:35 New York time — the New York PM killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "timing": "TIMING: 16:03 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 73 (Greed) — a contrarian gauge of crowd positioning."
 }
