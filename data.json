@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-09-11T23:00:16.362627+00:00",
+  "last_updated": "2026-09-12T03:22:11.000741+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -108,45 +108,45 @@
   "prices": {
     "markets": {
       "price": 52576.0,
-      "change_pct": 0.92,
+      "change_pct": -0.02,
       "currency": "USD",
-      "as_of": "2026-09-11T22:59:56.157174+00:00"
+      "as_of": "2026-09-12T03:21:51.245492+00:00"
     },
     "nasdaq": {
       "price": 29391.75,
       "change_pct": 0.88,
       "currency": "USD",
-      "as_of": "2026-09-11T23:00:00.609065+00:00"
+      "as_of": "2026-09-12T03:21:55.817590+00:00"
     },
     "s&p 500": {
       "price": 7660.75,
       "change_pct": 0.82,
       "currency": "USD",
-      "as_of": "2026-09-11T23:00:03.358400+00:00"
+      "as_of": "2026-09-12T03:21:58.350681+00:00"
     },
     "crypto": {
-      "price": 77121.61,
-      "change_pct": 0.77,
+      "price": 77225.34,
+      "change_pct": 0.03,
       "currency": "USD",
-      "as_of": "2026-09-11T23:00:06.549687+00:00"
+      "as_of": "2026-09-12T03:22:01.245598+00:00"
     },
     "forex": {
       "price": 1.1602,
       "change_pct": -0.09,
       "currency": "USD",
-      "as_of": "2026-09-11T23:00:09.115310+00:00"
+      "as_of": "2026-09-12T03:22:03.621059+00:00"
     },
     "gold": {
       "price": 4390.0,
       "change_pct": -0.39,
       "currency": "USD",
-      "as_of": "2026-09-11T23:00:11.423979+00:00"
+      "as_of": "2026-09-12T03:22:05.703722+00:00"
     },
     "oil": {
       "price": 99.99,
       "change_pct": -2.43,
       "currency": "USD",
-      "as_of": "2026-09-11T23:00:14.043929+00:00"
+      "as_of": "2026-09-12T03:22:08.379348+00:00"
     }
   },
   "structures": {
@@ -250,35 +250,27 @@
       }
     },
     "crypto": {
-      "price": 77303.0,
-      "session": "NY",
+      "price": 77204.0,
+      "session": "Asia",
       "zone": "discount",
-      "trend": "up",
-      "session_trend": "trading higher since the Asia session",
+      "trend": "down",
+      "session_trend": "under pressure since the NY session",
       "momentum": "up",
       "recent_action": "grinding up off the lows",
-      "range_pct": 27.5,
-      "prior_day_high": 78510.0,
-      "prior_day_low": 76748.0,
-      "pdh_swept": true,
-      "pdl_swept": true,
-      "today_high": 79607.0,
-      "today_low": 76393.0,
-      "range_high": 79701.0,
+      "range_pct": 25.2,
+      "prior_day_high": 79607.0,
+      "prior_day_low": 76393.0,
+      "pdh_swept": false,
+      "pdl_swept": false,
+      "today_high": 77450.0,
+      "today_low": 76987.0,
+      "range_high": 79607.0,
       "range_low": 76393.0,
-      "equilibrium": 78047.0,
+      "equilibrium": 78000.0,
       "sessions": {
         "Asia": [
-          77314.0,
-          76546.0
-        ],
-        "London": [
-          77373.0,
-          76865.0
-        ],
-        "NY": [
-          79607.0,
-          76393.0
+          77450.0,
+          76987.0
         ]
       }
     },
@@ -382,8 +374,8 @@
       }
     }
   },
-  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.05%; US 10Y yield up 0.63%; Volatility (VIX) down 11.21%.",
-  "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): EUR ECB President Lagarde Speaks (tomorrow).",
-  "timing": "TIMING: 18:59 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
-  "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 56 (Greed) — a contrarian gauge of crowd positioning."
+  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.03%; US 10Y yield up 0.63%; Volatility (VIX) down 11.21%.",
+  "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): EUR ECB President Lagarde Speaks (today).",
+  "timing": "TIMING: 23:21 New York time — the Asian killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 63 (Greed) — a contrarian gauge of crowd positioning."
 }
