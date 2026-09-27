@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-09-27T16:30:32.017089+00:00",
+  "last_updated": "2026-09-27T20:57:45.886514+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -108,45 +108,45 @@
   "prices": {
     "markets": {
       "price": 52163.0,
-      "change_pct": 0.86,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-09-27T16:30:12.205847+00:00"
+      "as_of": "2026-09-27T20:57:24.610720+00:00"
     },
     "nasdaq": {
       "price": 30889.25,
-      "change_pct": 0.4,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-09-27T16:30:16.104082+00:00"
+      "as_of": "2026-09-27T20:57:28.621195+00:00"
     },
     "s&p 500": {
       "price": 7803.75,
-      "change_pct": 0.47,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-09-27T16:30:19.264312+00:00"
+      "as_of": "2026-09-27T20:57:31.834227+00:00"
     },
     "crypto": {
-      "price": 84528.4,
-      "change_pct": 0.12,
+      "price": 84545.9,
+      "change_pct": 0.14,
       "currency": "USD",
-      "as_of": "2026-09-27T16:30:21.762793+00:00"
+      "as_of": "2026-09-27T20:57:35.061631+00:00"
     },
     "forex": {
-      "price": 1.1401,
-      "change_pct": 0.18,
+      "price": 1.1382,
+      "change_pct": 0.02,
       "currency": "USD",
-      "as_of": "2026-09-27T16:30:24.884817+00:00"
+      "as_of": "2026-09-27T20:57:38.206815+00:00"
     },
     "gold": {
       "price": 4321.2,
-      "change_pct": 0.54,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-09-27T16:30:27.100500+00:00"
+      "as_of": "2026-09-27T20:57:40.499647+00:00"
     },
     "oil": {
       "price": 92.41,
-      "change_pct": -2.33,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-09-27T16:30:29.460466+00:00"
+      "as_of": "2026-09-27T20:57:43.050891+00:00"
     }
   },
   "structures": {
@@ -250,14 +250,14 @@
       }
     },
     "crypto": {
-      "price": 84441.0,
+      "price": 84720.0,
       "session": "NY",
-      "zone": "equilibrium",
+      "zone": "premium",
       "trend": "up",
       "session_trend": "trading higher since the Asia session",
       "momentum": "up",
-      "recent_action": "grinding up off the lows",
-      "range_pct": 61.2,
+      "recent_action": "pushing higher and holding near the highs",
+      "range_pct": 75.3,
       "prior_day_high": 84296.0,
       "prior_day_low": 83627.0,
       "pdh_swept": true,
@@ -278,19 +278,19 @@
         ],
         "NY": [
           85089.0,
-          84427.0
+          84355.0
         ]
       }
     },
     "forex": {
-      "price": 1.14012,
+      "price": 1.13921,
       "session": "Asia",
       "zone": "equilibrium",
-      "trend": "up",
-      "session_trend": "trading higher since the Asia session",
+      "trend": "flat",
+      "session_trend": "broadly rangebound since the Asia session",
       "momentum": "flat",
       "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 42.5,
+      "range_pct": 32.2,
       "prior_day_high": 1.14012,
       "prior_day_low": 1.13636,
       "pdh_swept": true,
@@ -302,7 +302,7 @@
       "equilibrium": 1.14079,
       "sessions": {
         "Asia": [
-          1.14012,
+          1.13934,
           1.13714
         ],
         "London": [
@@ -384,6 +384,6 @@
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.06%; US 10Y yield up 0.43%; Volatility (VIX) down 5.11%.",
   "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): AUD Cash Rate (Tue); AUD RBA Rate Statement (Tue); AUD CPI m/m (Tue); AUD CPI y/y (Tue); AUD Trimmed Mean CPI m/m (Tue); USD Core PCE Price Index m/m (Wed).",
-  "timing": "TIMING: 12:30 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
+  "timing": "TIMING: 16:57 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 70 (Greed) — a contrarian gauge of crowd positioning."
 }
