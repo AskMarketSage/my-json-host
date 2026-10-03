@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-10-03T11:11:43.464380+00:00",
+  "last_updated": "2026-10-03T15:48:08.475599+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -110,43 +110,43 @@
       "price": 51477.0,
       "change_pct": 0.46,
       "currency": "USD",
-      "as_of": "2026-10-03T11:11:21.675911+00:00"
+      "as_of": "2026-10-03T15:47:46.864700+00:00"
     },
     "nasdaq": {
       "price": 31061.75,
       "change_pct": 0.98,
       "currency": "USD",
-      "as_of": "2026-10-03T11:11:26.336640+00:00"
+      "as_of": "2026-10-03T15:47:51.066138+00:00"
     },
     "s&p 500": {
       "price": 7777.25,
       "change_pct": 0.69,
       "currency": "USD",
-      "as_of": "2026-10-03T11:11:29.793362+00:00"
+      "as_of": "2026-10-03T15:47:54.444798+00:00"
     },
     "crypto": {
-      "price": 84621.05,
-      "change_pct": 0.14,
+      "price": 84838.46,
+      "change_pct": 0.39,
       "currency": "USD",
-      "as_of": "2026-10-03T11:11:33.162305+00:00"
+      "as_of": "2026-10-03T15:47:57.126420+00:00"
     },
     "forex": {
       "price": 1.1257,
       "change_pct": 0.11,
       "currency": "USD",
-      "as_of": "2026-10-03T11:11:35.520612+00:00"
+      "as_of": "2026-10-03T15:48:00.040612+00:00"
     },
     "gold": {
       "price": 4162.3,
       "change_pct": -0.95,
       "currency": "USD",
-      "as_of": "2026-10-03T11:11:39.236687+00:00"
+      "as_of": "2026-10-03T15:48:02.794166+00:00"
     },
     "oil": {
       "price": 91.11,
       "change_pct": -1.9,
       "currency": "USD",
-      "as_of": "2026-10-03T11:11:41.393190+00:00"
+      "as_of": "2026-10-03T15:48:05.566515+00:00"
     }
   },
   "structures": {
@@ -218,7 +218,7 @@
     },
     "s&p 500": {
       "price": 7777.25,
-      "session": "NY",
+      "session": "Asia",
       "zone": "premium",
       "trend": "up",
       "session_trend": "trading higher since the Asia session",
@@ -236,7 +236,7 @@
       "equilibrium": 7741.5,
       "sessions": {
         "Asia": [
-          7754.25,
+          7777.25,
           7725.75
         ],
         "London": [
@@ -250,14 +250,14 @@
       }
     },
     "crypto": {
-      "price": 84562.0,
-      "session": "London",
+      "price": 84660.0,
+      "session": "NY",
       "zone": "equilibrium",
       "trend": "up",
       "session_trend": "trading higher since the Asia session",
       "momentum": "down",
       "recent_action": "pulling back and pressing the lows",
-      "range_pct": 35.3,
+      "range_pct": 37.9,
       "prior_day_high": 87086.0,
       "prior_day_low": 83898.0,
       "pdh_swept": false,
@@ -275,6 +275,10 @@
         "London": [
           84711.0,
           84518.0
+        ],
+        "NY": [
+          84675.0,
+          84551.0
         ]
       }
     },
@@ -346,12 +350,12 @@
     },
     "oil": {
       "price": 91.11,
-      "session": "NY",
+      "session": "Asia",
       "zone": "equilibrium",
       "trend": "down",
       "session_trend": "under pressure since the Asia session",
-      "momentum": "down",
-      "recent_action": "pulling back and pressing the lows",
+      "momentum": "flat",
+      "recent_action": "coiling in a tight, balanced range",
       "range_pct": 54.3,
       "prior_day_high": 93.68,
       "prior_day_low": 88.79,
@@ -365,7 +369,7 @@
       "sessions": {
         "Asia": [
           93.24,
-          91.64
+          91.11
         ],
         "London": [
           91.74,
@@ -380,6 +384,6 @@
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.01%; US 10Y yield up 0.76%; Volatility (VIX) down 6.59%.",
   "calendar": "",
-  "timing": "TIMING: 07:11 New York time — the New York AM killzone is active right now (a window when smart money commonly seeks liquidity).",
+  "timing": "TIMING: 11:47 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 67 (Greed) — a contrarian gauge of crowd positioning."
 }
