@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-10-02T21:52:51.881761+00:00",
+  "last_updated": "2026-10-03T04:01:28.808240+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -110,43 +110,43 @@
       "price": 51485.0,
       "change_pct": 0.48,
       "currency": "USD",
-      "as_of": "2026-10-02T21:52:31.250900+00:00"
+      "as_of": "2026-10-03T04:01:06.949750+00:00"
     },
     "nasdaq": {
       "price": 31049.0,
       "change_pct": 0.94,
       "currency": "USD",
-      "as_of": "2026-10-02T21:52:34.957306+00:00"
+      "as_of": "2026-10-03T04:01:11.141757+00:00"
     },
     "s&p 500": {
       "price": 7776.5,
       "change_pct": 0.68,
       "currency": "USD",
-      "as_of": "2026-10-02T21:52:38.160931+00:00"
+      "as_of": "2026-10-03T04:01:15.299842+00:00"
     },
     "crypto": {
-      "price": 84520.16,
-      "change_pct": -0.39,
+      "price": 84688.74,
+      "change_pct": 0.22,
       "currency": "USD",
-      "as_of": "2026-10-02T21:52:40.851743+00:00"
+      "as_of": "2026-10-03T04:01:19.211149+00:00"
     },
     "forex": {
       "price": 1.1257,
       "change_pct": 0.11,
       "currency": "USD",
-      "as_of": "2026-10-02T21:52:43.587589+00:00"
+      "as_of": "2026-10-03T04:01:21.857995+00:00"
     },
     "gold": {
       "price": 4172.1,
       "change_pct": -0.72,
       "currency": "USD",
-      "as_of": "2026-10-02T21:52:46.144270+00:00"
+      "as_of": "2026-10-03T04:01:24.070634+00:00"
     },
     "oil": {
       "price": 91.26,
       "change_pct": -1.73,
       "currency": "USD",
-      "as_of": "2026-10-02T21:52:49.307040+00:00"
+      "as_of": "2026-10-03T04:01:26.499104+00:00"
     }
   },
   "structures": {
@@ -250,35 +250,27 @@
       }
     },
     "crypto": {
-      "price": 84297.0,
-      "session": "NY",
+      "price": 84504.0,
+      "session": "Asia",
       "zone": "equilibrium",
-      "trend": "down",
-      "session_trend": "under pressure since the Asia session",
+      "trend": "up",
+      "session_trend": "trading higher since the NY session",
       "momentum": "down",
       "recent_action": "pulling back and pressing the lows",
-      "range_pct": 32.6,
-      "prior_day_high": 85183.0,
-      "prior_day_low": 83182.0,
-      "pdh_swept": true,
+      "range_pct": 33.9,
+      "prior_day_high": 87086.0,
+      "prior_day_low": 83898.0,
+      "pdh_swept": false,
       "pdl_swept": false,
-      "today_high": 87086.0,
-      "today_low": 83898.0,
+      "today_high": 84562.0,
+      "today_low": 84228.0,
       "range_high": 87086.0,
-      "range_low": 82951.0,
-      "equilibrium": 85018.5,
+      "range_low": 83182.0,
+      "equilibrium": 85134.0,
       "sessions": {
         "Asia": [
-          85499.0,
-          84473.0
-        ],
-        "London": [
-          86794.0,
-          85447.0
-        ],
-        "NY": [
-          87086.0,
-          83898.0
+          84562.0,
+          84228.0
         ]
       }
     },
@@ -354,8 +346,8 @@
       "zone": "equilibrium",
       "trend": "down",
       "session_trend": "under pressure since the Asia session",
-      "momentum": "up",
-      "recent_action": "grinding up off the lows",
+      "momentum": "down",
+      "recent_action": "pulling back and pressing the lows",
       "range_pct": 56.9,
       "prior_day_high": 93.68,
       "prior_day_low": 88.79,
@@ -382,8 +374,8 @@
       }
     }
   },
-  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) down 0.17%; US 10Y yield up 0.76%; Volatility (VIX) down 6.59%.",
+  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.01%; US 10Y yield up 0.76%; Volatility (VIX) down 6.59%.",
   "calendar": "",
-  "timing": "TIMING: 17:52 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
-  "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 72 (Greed) — a contrarian gauge of crowd positioning."
+  "timing": "TIMING: 00:01 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
+  "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 67 (Greed) — a contrarian gauge of crowd positioning."
 }
