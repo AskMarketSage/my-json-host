@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-10-17T20:12:27.600110+00:00",
+  "last_updated": "2026-10-17T22:55:00.609095+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -110,43 +110,43 @@
       "price": 52214.0,
       "change_pct": -0.41,
       "currency": "USD",
-      "as_of": "2026-10-17T20:12:07.847874+00:00"
+      "as_of": "2026-10-17T22:54:39.234427+00:00"
     },
     "nasdaq": {
       "price": 29391.5,
       "change_pct": -2.5,
       "currency": "USD",
-      "as_of": "2026-10-17T20:12:11.567604+00:00"
+      "as_of": "2026-10-17T22:54:43.175897+00:00"
     },
     "s&p 500": {
       "price": 7704.25,
       "change_pct": -1.11,
       "currency": "USD",
-      "as_of": "2026-10-17T20:12:14.253067+00:00"
+      "as_of": "2026-10-17T22:54:46.457990+00:00"
     },
     "crypto": {
-      "price": 81514.86,
-      "change_pct": 0.02,
+      "price": 81298.17,
+      "change_pct": -0.25,
       "currency": "USD",
-      "as_of": "2026-10-17T20:12:16.832804+00:00"
+      "as_of": "2026-10-17T22:54:49.466896+00:00"
     },
     "forex": {
       "price": 1.1242,
       "change_pct": 0.19,
       "currency": "USD",
-      "as_of": "2026-10-17T20:12:20.539456+00:00"
+      "as_of": "2026-10-17T22:54:52.766761+00:00"
     },
     "gold": {
       "price": 4181.1,
       "change_pct": 0.26,
       "currency": "USD",
-      "as_of": "2026-10-17T20:12:23.078327+00:00"
+      "as_of": "2026-10-17T22:54:55.188815+00:00"
     },
     "oil": {
       "price": 99.02,
       "change_pct": 2.61,
       "currency": "USD",
-      "as_of": "2026-10-17T20:12:25.188058+00:00"
+      "as_of": "2026-10-17T22:54:57.846025+00:00"
     }
   },
   "structures": {
@@ -384,6 +384,6 @@
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.06%; US 10Y yield up 0.18%; Volatility (VIX) up 21.45%.",
   "calendar": "",
-  "timing": "TIMING: 16:12 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
+  "timing": "TIMING: 18:54 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 55 (Greed) — a contrarian gauge of crowd positioning."
 }
