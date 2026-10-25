@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-10-25T15:38:13.915625+00:00",
+  "last_updated": "2026-10-25T20:26:44.338449+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -108,45 +108,45 @@
   "prices": {
     "markets": {
       "price": 52394.0,
-      "change_pct": -1.27,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-10-25T15:37:54.906367+00:00"
+      "as_of": "2026-10-25T20:26:24.107097+00:00"
     },
     "nasdaq": {
       "price": 29117.75,
-      "change_pct": -0.08,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-10-25T15:37:58.536406+00:00"
+      "as_of": "2026-10-25T20:26:28.283888+00:00"
     },
     "s&p 500": {
       "price": 7659.75,
-      "change_pct": -0.58,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-10-25T15:38:01.803437+00:00"
+      "as_of": "2026-10-25T20:26:31.105441+00:00"
     },
     "crypto": {
-      "price": 80556.85,
-      "change_pct": -0.26,
+      "price": 80457.41,
+      "change_pct": -0.39,
       "currency": "USD",
-      "as_of": "2026-10-25T15:38:04.316338+00:00"
+      "as_of": "2026-10-25T20:26:33.827657+00:00"
     },
     "forex": {
-      "price": 1.1204,
-      "change_pct": -0.16,
+      "price": 1.1218,
+      "change_pct": -0.04,
       "currency": "USD",
-      "as_of": "2026-10-25T15:38:06.796091+00:00"
+      "as_of": "2026-10-25T20:26:36.514360+00:00"
     },
     "gold": {
       "price": 4007.9,
-      "change_pct": -1.29,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-10-25T15:38:09.209996+00:00"
+      "as_of": "2026-10-25T20:26:39.870781+00:00"
     },
     "oil": {
       "price": 103.27,
-      "change_pct": 3.82,
+      "change_pct": 0.0,
       "currency": "USD",
-      "as_of": "2026-10-25T15:38:11.542640+00:00"
+      "as_of": "2026-10-25T20:26:42.161589+00:00"
     }
   },
   "structures": {
@@ -207,7 +207,7 @@
           29022.75
         ],
         "London": [
-          29276.75,
+          29279.0,
           29076.25
         ],
         "NY": [
@@ -229,7 +229,7 @@
       "prior_day_low": 7676.75,
       "pdh_swept": false,
       "pdl_swept": true,
-      "today_high": 7711.75,
+      "today_high": 7712.25,
       "today_low": 7648.5,
       "range_high": 7812.25,
       "range_low": 7648.5,
@@ -240,7 +240,7 @@
           7685.0
         ],
         "London": [
-          7711.5,
+          7712.25,
           7678.0
         ],
         "NY": [
@@ -250,14 +250,14 @@
       }
     },
     "crypto": {
-      "price": 80508.0,
+      "price": 80485.0,
       "session": "NY",
       "zone": "equilibrium",
       "trend": "flat",
       "session_trend": "broadly rangebound since the Asia session",
       "momentum": "flat",
       "recent_action": "coiling in a tight, balanced range",
-      "range_pct": 46.5,
+      "range_pct": 45.7,
       "prior_day_high": 81417.0,
       "prior_day_low": 79263.0,
       "pdh_swept": false,
@@ -277,7 +277,7 @@
           80378.0
         ],
         "NY": [
-          80604.0,
+          80825.0,
           80035.0
         ]
       }
@@ -382,8 +382,8 @@
       }
     }
   },
-  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.06%; US 10Y yield up 0.71%; Volatility (VIX) up 2.21%.",
+  "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) up 0.14%; US 10Y yield up 0.71%; Volatility (VIX) up 2.21%.",
   "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): AUD CPI m/m (Tue); AUD CPI y/y (Tue); AUD Trimmed Mean CPI m/m (Tue); NZD Official Cash Rate (Tue); NZD RBNZ Rate Statement (Tue); NZD RBNZ Press Conference (Tue).",
-  "timing": "TIMING: 11:37 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
+  "timing": "TIMING: 16:26 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 54 (Neutral) — a contrarian gauge of crowd positioning."
 }
