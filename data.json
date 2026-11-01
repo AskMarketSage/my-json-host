@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "last_updated": "2026-11-01T04:40:02.802094+00:00",
+  "last_updated": "2026-11-01T12:46:00.542527+00:00",
   "disclaimer": "Educational market context — not financial advice.",
   "topics": [
     "markets",
@@ -110,43 +110,43 @@
       "price": 51918.0,
       "change_pct": -1.13,
       "currency": "USD",
-      "as_of": "2026-11-01T04:39:42.664397+00:00"
+      "as_of": "2026-11-01T12:44:43.849896+00:00"
     },
     "nasdaq": {
       "price": 28534.0,
       "change_pct": -3.48,
       "currency": "USD",
-      "as_of": "2026-11-01T04:39:46.718057+00:00"
+      "as_of": "2026-11-01T12:44:54.640028+00:00"
     },
     "s&p 500": {
       "price": 7614.0,
       "change_pct": -1.81,
       "currency": "USD",
-      "as_of": "2026-11-01T04:39:49.798391+00:00"
+      "as_of": "2026-11-01T12:45:06.206717+00:00"
     },
     "crypto": {
-      "price": 77676.99,
-      "change_pct": 0.3,
+      "price": 77768.12,
+      "change_pct": 0.42,
       "currency": "USD",
-      "as_of": "2026-11-01T04:39:52.580015+00:00"
+      "as_of": "2026-11-01T12:45:18.098965+00:00"
     },
     "forex": {
       "price": 1.1166,
       "change_pct": -0.13,
       "currency": "USD",
-      "as_of": "2026-11-01T04:39:54.989168+00:00"
+      "as_of": "2026-11-01T12:45:30.014577+00:00"
     },
     "gold": {
       "price": 3898.9,
       "change_pct": -3.29,
       "currency": "USD",
-      "as_of": "2026-11-01T04:39:57.720694+00:00"
+      "as_of": "2026-11-01T12:45:39.370698+00:00"
     },
     "oil": {
       "price": 104.12,
       "change_pct": 2.08,
       "currency": "USD",
-      "as_of": "2026-11-01T04:40:00.163510+00:00"
+      "as_of": "2026-11-01T12:45:51.493613+00:00"
     }
   },
   "structures": {
@@ -250,19 +250,19 @@
       }
     },
     "crypto": {
-      "price": 77724.0,
-      "session": "Asia",
+      "price": 77864.0,
+      "session": "NY",
       "zone": "equilibrium",
-      "trend": "down",
-      "session_trend": "under pressure since the NY session",
+      "trend": "up",
+      "session_trend": "trading higher since the Asia session",
       "momentum": "up",
       "recent_action": "pushing higher and holding near the highs",
-      "range_pct": 31.3,
+      "range_pct": 34.4,
       "prior_day_high": 77657.0,
       "prior_day_low": 76615.0,
       "pdh_swept": true,
       "pdl_swept": false,
-      "today_high": 77750.0,
+      "today_high": 78134.0,
       "today_low": 77370.0,
       "range_high": 80769.0,
       "range_low": 76338.0,
@@ -271,6 +271,14 @@
         "Asia": [
           77750.0,
           77370.0
+        ],
+        "London": [
+          77933.0,
+          77647.0
+        ],
+        "NY": [
+          78134.0,
+          77823.0
         ]
       }
     },
@@ -354,14 +362,14 @@
       "pdh_swept": true,
       "pdl_swept": false,
       "today_high": 104.99,
-      "today_low": 102.43,
+      "today_low": 102.47,
       "range_high": 104.99,
       "range_low": 99.79,
       "equilibrium": 102.39,
       "sessions": {
         "Asia": [
           104.99,
-          102.43
+          102.47
         ],
         "London": [
           104.54,
@@ -375,7 +383,7 @@
     }
   },
   "macro": "MACRO CONTEXT (cross-asset, delayed): US Dollar Index (DXY) flat 0.08%; US 10Y yield down 1.20%; Volatility (VIX) up 12.91%.",
-  "calendar": "",
-  "timing": "TIMING: 00:39 New York time — currently between killzones (typically lower-conviction, consolidation-prone).",
+  "calendar": "ECONOMIC CALENDAR (high-impact, upcoming): AUD Cash Rate (tomorrow); AUD RBA Monetary Policy Statement (tomorrow); AUD RBA Rate Statement (tomorrow); AUD RBA Press Conference (tomorrow); USD Congressional Elections (Tue); NZD Employment Change q/q (Tue).",
+  "timing": "TIMING: 07:44 New York time — the New York AM killzone is active right now (a window when smart money commonly seeks liquidity).",
   "sentiment": "SENTIMENT: the Crypto Fear & Greed Index reads 34 (Fear) — a contrarian gauge of crowd positioning."
 }
